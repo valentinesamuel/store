@@ -1,0 +1,155 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664903142/snicker-fever/naf1_yaba3c.webp",
+            "name": "Nike Air Force 1 '07",
+            "category": "shoe",
+            "price": 110,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Basketball",
+                "Gym",
+                "Skateboarding",
+                "Tennis",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "Legendary Style Refined.",
+                "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+                "benefits": [
+                    "The stitched overlays on the upper add heritage style, durability and support.",
+                    "Originally designed for performance hoops, the Nike Air cushioning adds lightweight, all-day comfort.",
+                    "The low-cut silhouette adds a clean, streamlined look.",
+                    "The padded collar feels soft and comfortable."
+                ],
+                "details": [
+                    "Foam midsole",
+                    "Perforations on the toe",
+                    "Rubber sole",
+                    "Shown: White",
+                    "Style: CW2288-111"
+                ],
+                "moreDetails": [
+                    "Air Force 1 Origins",
+                    "Debuting in 1982, the AF1 was the first basketball shoe to house Nike Air, revolutionizing the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Shaun H.",
+                    "title": "Can never go wrong with a fresh pair of air forces",
+                    "rating": 5,
+                    "comment": "Can never go wrong with a fresh pair of air forces. I would recommend purchasing the crease protector, true air force 1 heads know what I'm talking about.",
+                    "date": "Sep 17, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Michelle Samuel",
+                    "title": "Amazing quality and fast shipping!!",
+                    "rating": 5,
+                    "comment": "Product arrived as described and was shipped very fast!",
+                    "date": "Sep 08, 2022"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https: //res.cloudinary.com/dvup53fhn/image/upload/v1664903385/snicker-fever/ndhr_pbz6fh.webp",
+            "name": "Nike Dunk High Retro",
+            "category": "shoe",
+            "price": 125,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with perfectly sheened overlays and original university colors. With its classic hoops design, the Nike Dunk High Retro channels '80s vintage back onto the streets while its padded, high-top collar adds an old-school look rooted in comfort.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Red",
+                "black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Basketball"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete":"Jordan",
+            "sport": [
+                "Basketball",
+                
+               
+              
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "BRINGING OLD SCHOOL BACK",
+                "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with perfectly sheened overlays and original university colors. With its classic hoops design, the Nike Dunk High Retro channels '80s vintage back onto the streets while its padded, high-top collar adds an old-school look rooted in comfort.",
+                "benefits": [
+                    "TThe crisp leather on the upper has a slight sheen, ages to soft perfection and features durable overlays reminiscent of '80s b-ball.",
+                    "The foam midsole offers lightweight, responsive cushioning.",
+                    "The padded, high-top collar adds an old school look that feels comfortable.",
+                    "The bold color blocking returns to the original university colors released in 1985, letting you choose who reigned supreme and rep your team.",
+                    "The rubber sole with classic hoops pivot circle adds durability, tractions and heritage style."
+                ],
+                "details": [
+                    "Foam midsole",
+                    "Perforations on the toe",
+                    "Rubber sole",
+                    "Shown: White",
+                    "Style: CW2288-111"
+                ],
+                "moreDetails": [
+                    "Air Force 1 Origins",
+                    "Debuting in 1982, the AF1 was the first basketball shoe to house Nike Air, revolutionizing the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Shaun H.",
+                    "title": "Can never go wrong with a fresh pair of air forces",
+                    "rating": 5,
+                    "comment": "Can never go wrong with a fresh pair of air forces. I would recommend purchasing the crease protector, true air force 1 heads know what I'm talking about.",
+                    "date": "Sep 17, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Michelle Samuel",
+                    "title": "Amazing quality and fast shipping!!",
+                    "rating": 5,
+                    "comment": "Product arrived as described and was shipped very fast!",
+                    "date": "Sep 08, 2022"
+                }
+            ]
+        }
+    ]
+}
