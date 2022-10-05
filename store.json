@@ -102,12 +102,9 @@
             ],
             "belongsToCollection": false,
             "collections": null,
-            "athlete":"Jordan",
+            "athlete": "Jordan",
             "sport": [
                 "Basketball",
-                
-               
-              
                 "LifeStyle"
             ],
             "productDetail": {
@@ -150,6 +147,668 @@
                     "date": "Sep 08, 2022"
                 }
             ]
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664986334/snicker-fever/nazp30_bqatae.webp",
+            "name": "Nike Air Zoom Pegasus 39",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "black",
+                "sea green",
+                "red",
+                "blue"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Running",
+                "Gym",
+                "Walking"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Tennis",
+                "Cycling",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "ENERGIZED FOR MILES.",
+                "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+                "benefits": [
+                    "Total Comfort",
+                    "Supportive Steps",
+                    "Snap, Run and Pop",
+                    "Smooth Transitions",
+                    "Tongue is separated from the upper to give room for different foot shapes.",
+                    "Waffle-inspired outsole gives you excellent traction.",
+                    "Grooves on the rubber sole allow for natural motion."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: DH4071-008"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "DeniV689311909",
+                    "title": "38's were much better than the 39's.",
+                    "rating": 5,
+                    "comment": "I'm sad to say that I am not a fan of the Pegasus 39 line. The 38's were much more comfortable. The 39's are more narrow and fell stiffer on the soles of the feet. I'll be looking to find some 38's from 3rd party retailers if I can find them and stock up.",
+                    "date": "Sep 30, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "GregT409370174 ",
+                    "title": "Run Away !",
+                    "rating": 5,
+                    "comment": "I'm a devoted fan of the Pegasus line from the 35's up to the disappointing 39's. The 39's are the worst ever having little to no cushion or support. I have close to 100 miles on them and they only get worse not better. I was going to return them but got so many compliments on them ( green/volt ) I decided to keep them ( Mistake !! ) Save some money and buy the 38's they are an excellent shoe ! Lets hope the 40's make up for this disaster !",
+                    "date": "Sep 21, 2022"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664987158/snicker-fever/nam270_jf3ifu.webp",
+            "name": "Nike Air Max 270",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270. The design draws inspiration from Air Max icons, showcasing Nike's greatest innovation with its large window and fresh array of colors.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "black",
+                "gray",
+                "red"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Running",
+                "Gym",
+                "Walking"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Tennis",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "LEGENDARY AIR GETS LIFTED.",
+                "description": "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270. The design draws inspiration from Air Max icons, showcasing Nike's greatest innovation with its large window and fresh array of colors.",
+                "benefits": [
+                    "The Max Air 270 unit delivers unrivaled, all-day comfort.",
+                    "The sleek, running-inspired design roots you to everything Nike.",
+                    "Woven and synthetic fabric on the upper provides a lightweight fit and airy feel.",
+                    "Foam midsole feels soft and comfortable.",
+                    "Stretchy inner sleeve and booty-like construction creates a personalized fit.",
+                    "Rubber on the outsole adds traction and durability."
+                ],
+                "details": [
+                    "Mesh details for an airy feel",
+                    "Synthetic and textile",
+                    "2-piece midsole",
+                    "Shown: White",
+                    "Style: DH4071-008"
+                ],
+                "moreDetails": [
+                    "Nike Air Max Origins",
+                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "914c9f79-6239-4a5b-92b9-c01be11f5d22",
+                    "title": "Great shoes, but the bubble popped",
+                    "rating": 5,
+                    "comment": "Great shoes, super comfy, but the air bubble popped after owning them for one month (worn for a combined two weeks) and now I don’t want to wear them anymore. I can’t justify spending that much money for a new pair. I love them and would buy them again but I have to place the low rating because of the durability.",
+                    "date": "Sep 05, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Christopher B.",
+                    "title": "Excellent experience",
+                    "rating": 5,
+                    "comment": "Fast shipping!! Shoes were exactly as advertised. Will buy again!",
+                    "date": "Jun 09, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "KeeganT",
+                    "title": "shoes",
+                    "rating": 5,
+                    "comment": "awesome shoes for running",
+                    "date": "Aug 29, 2022"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664987749/snicker-fever/nam97_o1a2gf.webp",
+            "name": "Nike Air Max 97",
+            "category": "shoe",
+            "price": 175,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Featuring the original ripple design inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full-speed ahead. Taking the revolutionary full-length Nike Air unit that shook up the running world and adding fresh colors and crisp details, it lets you ride in first-class comfort.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "black",
+                "gray",
+                "red",
+                "gold",
+                "blue",
+                "orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Running",
+                "Gym",
+                "Walking"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike Sportwear"
+            ],
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Tennis",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "NEXT STOP: LEGENDARY STATUS",
+                "description": "Featuring the original ripple design inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full-speed ahead. Taking the revolutionary full-length Nike Air unit that shook up the running world and adding fresh colors and crisp details, it lets you ride in first-class comfort.",
+                "benefits": [
+                    "Mesh and synthetic materials on the upper keep the fluid look of the OG while adding comfort and durability.",
+                    "Originally designed for performance running, the full-length Max Air unit adds soft, comfortable cushioning underfoot.",
+                    "The foam midsole feels springy and cushy.",
+                    "The rubber outsole adds traction and durability."
+                ],
+                "details": [
+                    "The foam sockliner feels soft and comfortable",
+                    "Pull tab",
+                    "Not intended for use as Personal Protective Equipment",
+                    "Shown: White",
+                    "Style: 921826-101"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "P E.",
+                    "title": "Shoe review",
+                    "rating": 5,
+                    "comment": "Daughter love shoes Plus y'all are fancy shipping and handling and y'all return policy is excellent not only that y'all normally give discounts",
+                    "date": "Jan 09, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "HeathW472633302 ",
+                    "title": "Literally a perfect sneaker",
+                    "rating": 5,
+                    "comment": "Literally my favorite shoe every. Super comfortable, they look amazing, and they’re easy to style. Definitely worth the price, and will for sure buy more pairs",
+                    "date": "Jan 14, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "AlanE ",
+                    "title": "Midsole Paint",
+                    "rating": 5,
+                    "comment": "Not as durable as claimed. Midsole paint rubs off within a couple of wears and you can do nothing about it, and everything falls apart after that. Not worth the price.",
+                    "date": "Jul 05, 2022"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664988248/snicker-fever/nsbzmss_caxohb.webp",
+            "name": "Nike SB Zoom Blazer Mid Skate Shoes",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike SB Zoom Blazer Mid takes a heritage design and tailors it to the needs of the modern skateboarder. Soft cushioning and a flexible sole work together to provide great boardfeel and traction.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cream",
+                "white",
+                "black",
+                "orange",
+                "blue",
+                "red"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike SB"
+            ],
+            "athlete": null,
+            "sport": [
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "CLASSIC PERFORMANCE AND STYLE.",
+                "description": "The Nike SB Zoom Blazer Mid takes a heritage design and tailors it to the needs of the modern skateboarder. Soft cushioning and a flexible sole work together to provide great boardfeel and traction.",
+                "benefits": [
+                    "Zoom Air unit offers responsive cushioning.",
+                    "Mid-top collar provides ankle support.",
+                    "Vulcanized construction fuses the sole to the upper for a flexible, broken-in feel.",
+                    "Tacky rubber sole with herringbone pattern gives you multidirectional traction."
+                ],
+                "details": [
+                    "Leather or leather/textile depending on color",
+                    "Shown: Cream",
+                    "Style: 864349-011"
+                ],
+                "moreDetails": [
+                    "Blazer Origins",
+                    "The Blazer was introduced by Nike in 1972 and has since transformed into a modern style staple. Maturing from a simple canvas high top to a leather mid top and casual low top, this shoe just gets better with age."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "14072163510 ",
+                    "title": "Hard to put on",
+                    "rating": 5,
+                    "comment": "Great shoe but I have to unlace them to get them on.",
+                    "date": "Apr 15, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "MarieT",
+                    "title": "Love them but hard to put on",
+                    "rating": 5,
+                    "comment": "So comfy, get lots of compliments. But I have to use an old-fashioned shoe horn to get them on since they are so stiff. Don't wear when going to a home where you have to take off your shoes; don't wear to the airport. If anyone saw how much I struggle to get these on I would be really embarrassed.",
+                    "date": "Mar 27, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "E V.",
+                    "title": "Lovely",
+                    "rating": 5,
+                    "comment": "Great pic of skating shoes! My daughter really loved them. She won’t have to wear another pair of uncomfortable shoes again! 😊👍",
+                    "date": "Feb 01, 2022"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664990149/snicker-fever/bhwrvokud9flh34cchb8_nqydn6.webp",
+            "name": "Nike Air Max 90",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Nothing as fly, nothing as comfortable, nothing as proven. The Nike Air Max 90 stays true to its OG running roots with the iconic Waffle sole, stitched overlays and classic TPU details. Classic colors celebrate your fresh look while Max Air cushioning adds comfort to the journey.",
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike SB"
+            ],
+            "athlete": null,
+            "sport": [
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "COMFORT, HERITAGE. NOTHING BETTER.",
+                "description": "Nothing as fly, nothing as comfortable, nothing as proven. The Nike Air Max 90 stays true to its OG running roots with the iconic Waffle sole, stitched overlays and classic TPU details. Classic colors celebrate your fresh look while Max Air cushioning adds comfort to the journey.",
+                "benefits": [
+                    "Performance Comfort",
+                    "Versatile Style",
+                    "Retro Vibes"
+                ],
+                "details": [
+                    "Shown: White",
+                    "Style: CN8490-100"
+                ],
+                "moreDetails": [
+                    "Nike Air Max Origins",
+                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "14072163510 ",
+                    "title": "Hard to put on",
+                    "rating": 5,
+                    "comment": "Great shoe but I have to unlace them to get them on.",
+                    "date": "Apr 15, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "rene150191263",
+                    "title": "Very good shoes",
+                    "rating": 5,
+                    "comment": "I bought this last year and still looks like new",
+                    "date": "Aug 25, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "MikeyS",
+                    "title": "Not the same buy the womens all leather if ur a man and want that old thang",
+                    "rating": 5,
+                    "comment": "It’s cool cause it’s light but it’s not air max 90 original..the leather ones were always good and lasted longer these are cheap and u can tell the difference luckily I think the womens have all leather gonna go up a few sizes and try them if anyone looking for the old thing probably only bet in getting them 🤷🏼‍♂️",
+                    "date": "Jun 29, 2022"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664991151/snicker-fever/f46649b7-ab7d-4d9a-851e-7122a971448c_qcfpvo.webp",
+            "name": "KD15 Basketball Shoes",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Kevin Durant thrives in big games. When the stakes are high, he'll play every minute if it means getting a crucial victory. The KD15 is ready to go the distance. Lighter than his previous signature shoe, it helps you stay bouncy and comfortable in crunch time. The ride is as smooth as KD’s pull-up jumper and the cushioning is as plush as his right-to-left crossover in traffic, so that you can feel contained when your team needs you the most.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "gray",
+                "black",
+                "red",
+                "orange",
+                "white"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike KD"
+            ],
+            "athlete": "Kevin Durant",
+            "sport": [
+                "Basketball",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "KEVIN DURANT",
+                "description": "Kevin Durant thrives in big games. When the stakes are high, he'll play every minute if it means getting a crucial victory. The KD15 is ready to go the distance. Lighter than his previous signature shoe, it helps you stay bouncy and comfortable in crunch time. The ride is as smooth as KD’s pull-up jumper and the cushioning is as plush as his right-to-left crossover in traffic, so that you can feel contained when your team needs you the most.",
+                "benefits": [
+                    "Soft and Responsive",
+                    "Leaner and Lighter",
+                    "Game-Ready from the Jump",
+                    "Grooves and ridges in the sole help provide multidirectional traction and court feel.",
+                    "A supportive piece under the arch helps keep the shoe stable."
+                ],
+                "details": [
+                    "Shown: Grey",
+                    "Style: DO9825-902"
+                ],
+                "moreDetails": [
+                    "Not intended for use as Personal Protective Equipment (PPE)."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 9,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664991595/snicker-fever/64ef5f26-96f9-44ea-9187-91be2f078d13_ajjpt7.webp",
+            "name": "Air Jordan XXXVII",
+            "category": "shoe",
+            "price": 185,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about takeoffs and landings, with multiple Air units to get you off the ground and our signature Formula 23 foam to cushion your impact. Up top, you'll find layers of tough, reinforced leno-weave fabric that'll keep you contained—and leave your game uncompromised.",
+            "sizes": [
+                "Xtra Large",
+                "Large",
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "multi-color"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "Basketball",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about takeoffs and landings, with multiple Air units to get you off the ground and our signature Formula 23 foam to cushion your impact. Up top, you'll find layers of tough, reinforced leno-weave fabric that'll keep you contained—and leave your game uncompromised.",
+                "benefits": [
+                    "Light and Secure",
+                    "Air on Air",
+                    "Assisted Crash Landing",
+                    "Top line shape and Jordan Air on the tongue nod to the AJ7's iconic design.",
+                    "Upper design is a throw back to the exoskeleton style of the AJ7."
+                ],
+                "details": [
+                    "Shown: White",
+                    "Style: DD6958-160"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 10,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664992459/snicker-fever/6d97ae8b-2d49-4f31-9dfd-d454e7e179b2_egfnji.webp",
+            "name": "Nike React Pegasus Trail 4 GORE-TEX",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike React Pegasus Trail 4 GORE-TEX is your running companion for those days when the weather turns. Its waterproof GORE-TEX layer helps keep your feet dry, and less rubber in the outsole creates a smooth transition from road to trail without breaking stride.",
+            "sizes": [
+                "Xtra Large",
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Aligator",
+                "Mint Foam",
+                "Canyon Rust",
+                "Orange Trance"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym",
+                "Track and Field"
+            ],
+            "belongsToCollection": null,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "The Nike React Pegasus Trail 4 GORE-TEX is your running companion for those days when the weather turns. Its waterproof GORE-TEX layer helps keep your feet dry, and less rubber in the outsole creates a smooth transition from road to trail without breaking stride.",
+                "benefits": [
+                    "Keep the Rain Away \nGORE-TEX along the upper helps your feet stay dry from precipitation without sacrificing that comfortable feel of the Peg Trail. Its flexible, lightweight design helps keep out the rain when running between the wet roads and trails.",
+                    "When the Rubber Hits the Trail \nLess rubber along the outsole creates a smooth transition from road to trail while preserving the full-length React midsole. The rubber outsole wraps around the front of the shoe to provide extra durability. A generative traction pattern combined with rubber in the forefoot provides extra grip for technical trails while maintaining a smooth ride for the road.",
+                    "React in the Weather \nNike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. Its full-length design provides stability as you brave rocky terrain.",
+                    "Keeping Out the Little Things \nUpdated materials around the ankle help ensure water and trail debris don't get into the shoe.",
+                    "Heel and tongue pull tabs"
+                ],
+                "details": [
+                    "Shown: Aligator",
+                    "Style: DJ7926-300"
+                ],
+                "moreDetails": [
+                    "Not intended for use as Personal Protective Equipment (PPE)"
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "be4eae8b-258e-4ac9-b58c-96d7f0ea1c0d",
+                    "title": "Love the comfort. Hate wet feet.",
+                    "rating": 5,
+                    "comment": "Returning these as, like the last version, they aren’t up to the task of keeping socks dry. That’s two models running now that are advertised as waterproof and are not, and making the ‘Gore-Tex’ logo bigger doesn’t seem to be helping.",
+                    "date": "Sep 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "cshylan ",
+                    "title": "Not waterproof!",
+                    "rating": 5,
+                    "comment": "Great looking and comfortable shoes. Purchased because they’re advertised as waterproof. I can assure you they are not. Walking through damp short grass was enough to wet my socks at the toes. Would be 5 stars but this is a huge let down and false advertising.",
+                    "date": "Sep 11, 2022"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664994001/snicker-fever/acb5ffef-e821-4de8-970d-a1c5907cb55c_zpjoil.webp",
+            "name": "Nike ZoomX Zegama",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Navigate the up and downs of uncompromising terrain with the Nike ZoomX Zegama. Developed with great grip and stability, it has you covered so you can keep climbing and reach greater personal heights when the going gets grimy and gritty. Whether it's a challenging, rocky landscape going uphill or a steep, slick decline down a treacherous trail, feel confident when you decide to off-road it.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Mineral Slate",
+                "Black",
+                "Green Glow",
+                "Light Bone"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym",
+                "Track and Field"
+            ],
+            "belongsToCollection": null,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "TNavigate the up and downs of uncompromising terrain with the Nike ZoomX Zegama. Developed with great grip and stability, it has you covered so you can keep climbing and reach greater personal heights when the going gets grimy and gritty. Whether it's a challenging, rocky landscape going uphill or a steep, slick decline down a treacherous trail, feel confident when you decide to off-road it.",
+                "benefits": [
+                    "Cushioning for Your Miles",
+                    "Confident in Various Terrains",
+                    "Stability for the Trail \nEngineered mesh—stronger and more flexible than regular mesh—on the upper and internal heel help provide stability for various trail conditions as well as breathability."
+                ],
+                "details": [
+                    "Shown: Mineral Slate",
+                    "Style: DH0623-300"
+                ],
+                "moreDetails": [
+                    "Overlays stretch across the toe for extra durability.",
+                    "Ankle gaitor helps limit trail debris."
+                ]
+            },
+            "reviews": null
         }
     ]
 }
