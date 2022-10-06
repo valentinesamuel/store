@@ -19,8 +19,8 @@
             "age": "adult",
             "kidAge": null,
             "colors": [
-                "white",
-                "black"
+                "White",
+                "Black"
             ],
             "brand": "nike",
             "activities": [
@@ -93,7 +93,7 @@
             "kidAge": null,
             "colors": [
                 "Red",
-                "black"
+                "Black"
             ],
             "brand": "nike",
             "activities": [
@@ -168,7 +168,7 @@
             "kidAge": null,
             "colors": [
                 "white",
-                "black",
+                "Black",
                 "sea green",
                 "red",
                 "blue"
@@ -247,7 +247,7 @@
             "kidAge": null,
             "colors": [
                 "white",
-                "black",
+                "Black",
                 "gray",
                 "red"
             ],
@@ -335,7 +335,7 @@
             "kidAge": null,
             "colors": [
                 "white",
-                "black",
+                "Black",
                 "gray",
                 "red",
                 "gold",
@@ -424,7 +424,7 @@
             "colors": [
                 "Cream",
                 "white",
-                "black",
+                "Black",
                 "orange",
                 "blue",
                 "red"
@@ -507,7 +507,7 @@
             "kidAge": null,
             "colors": [
                 "white",
-                "black"
+                "Black"
             ],
             "brand": "nike",
             "activities": [
@@ -584,7 +584,7 @@
             "kidAge": null,
             "colors": [
                 "gray",
-                "black",
+                "Black",
                 "red",
                 "orange",
                 "white"
@@ -708,7 +708,7 @@
                 "Gym",
                 "Track and Field"
             ],
-            "belongsToCollection": null,
+            "belongsToCollection": false,
             "collections": null,
             "athlete": null,
             "sport": [
@@ -783,7 +783,7 @@
                 "Gym",
                 "Track and Field"
             ],
-            "belongsToCollection": null,
+            "belongsToCollection": false,
             "collections": null,
             "athlete": null,
             "sport": [
@@ -809,6 +809,1238 @@
                 ]
             },
             "reviews": null
+        },
+        {
+            "id": 12,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665049927/snicker-fever/d9f3e192-72b4-4d12-8182-d93f3fc97a3b_dn9bxx.webp",
+            "name": "Nike Air VaporMax Plus",
+            "category": "shoe",
+            "price": 210,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Air VaporMax Plus looks to the past to propel you into the future. Nodding to the ’98 original with its floating cage and padded upper, it adds VaporMax Air technology to ramp up the comfort and create a modern look.",
+            "sizes": [
+                "Xtra Large",
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Rattan",
+                "Khaki",
+                "White",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym",
+                "Track and Field"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "The Nike Air VaporMax Plus looks to the past to propel you into the future. Nodding to the ’98 original with its floating cage and padded upper, it adds VaporMax Air technology to ramp up the comfort and create a modern look.",
+                "benefits": [
+                    "Floating plastic cage around the upper draws inspiration from the original '98 design. The prominent arch is designed to look like a whale's tail while the wavy fingers nod to palm trees blowing in the breeze.",
+                    "VaporMax Air technology provides lightweight cushioning.",
+                    "Cushioned fabric and synthetic material provide durability and comfort.",
+                    "Rubber pods in high-wear areas of the outsole add durability."
+                ],
+                "details": [
+                    "Heel pull tab",
+                    "Reflective elements",
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Rattan",
+                    "Style: DX3720-200"
+                ],
+                "moreDetails": [
+                    "Nike Air VaporMax",
+                    "After the 7-year journey from ideation to release, the Air VaporMax represents a new era in Nike innovation. To truly capture the feeling of “running on air,“ the designers restructured the Air unit to be attached directly to the upper. As you step down, each lug gets pushed into the Air unit, ramping up the pressure. Then, as you step off, the pressure releases creating springy bounce with superior flexibility. Made for runners, the futuristic technology was quickly adopted by the street, bringing this light-as-air feeling to the masses."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 13,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665050447/snicker-fever/37781a2a-a698-469b-ab88-b6d012b7d139_u96ng3.webp",
+            "name": "Nike Air Max TW",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "So you're in love with the classic look of the '90s, but you got a thing for today's fast-paced culture. Meet the Air Max TW. Inspired by the treasured franchise that brought Nike Air cushioning to the world and laid the foundation for the track-to-street aesthetic, its eye-catching design delivers a 1-2 punch of comfort and fashion. Ready to highlight any ‘fit, its lightweight upper pairs angular and organic lines to create an entrancing haptic effect. The contrasting colorways make it easy to style. And if you’re ready for the next step, the 5 windows underfoot deliver a modern edge to visible Air cushioning.",
+            "sizes": [
+                "Xtra Large",
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "white",
+                "racer blue",
+                "black",
+                "speed yellow"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "The Nike Air VaporMax Plus looks to the past to propel you into the future. Nodding to the ’98 original with its floating cage and padded upper, it adds VaporMax Air technology to ramp up the comfort and create a modern look.",
+                "benefits": [
+                    "Throwback '90s style is represented in the Air unit and the radiating lines on the upper.",
+                    "Breathable engineered upper adds a modern look that's also durable.",
+                    "Originally designed for performance running, this fashion-forward take on Air cushioning delivers time-tested comfort."
+                ],
+                "details": [
+                    "Shown: White",
+                    "Style: DQ3984-100"
+                ],
+                "moreDetails": [
+                    "New logo on tongue",
+                    "Rubber outsole"
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 14,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665050775/snicker-fever/a42a5d53-2f99-4e78-a081-9d07a2d0774a_jgwqss.webp",
+            "name": "Nike Air Force 1 '07",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colors and the perfect amount of flash to make you shine.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike SB"
+            ],
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym",
+                "Basketball",
+                "Skateboarding"
+            ],
+            "productDetail": {
+                "title": "LEGENDARY STYLE.",
+                "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colors and the perfect amount of flash to make you shine.",
+                "benefits": [
+                    "Smoother than backboard glass and featuring a slight sheen, the stitched leather overlays add heritage style, durability and support.",
+                    "Originally designed for performance hoops, Nike Air cushioning adds lightweight, all-day comfort.",
+                    "The low-cut silhouette adds a clean, streamlined look.",
+                    "Padded, low-cut collar feels soft and comfortable."
+                ],
+                "details": [
+                    "Foam midsole",
+                    "Perforations on toe",
+                    "Shown: Mineral Slate",
+                    "Style: CT2302-100"
+                ],
+                "moreDetails": [
+                    "Air Force 1 Origins",
+                    "Debuting in 1982, the AF1 was the first basketball shoe to house Nike Air, revolutionizing the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Daku",
+                    "title": "Great",
+                    "rating": 5,
+                    "comment": "First AF1s and not disappointed",
+                    "date": "Sep 14, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "NoahC",
+                    "title": "niceeeeeee",
+                    "rating": 5,
+                    "comment": "niceeeeeee",
+                    "date": "Jun 15, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "ErikA794414758",
+                    "title": "My first pair of AF1’s and I love them!",
+                    "rating": 5,
+                    "comment": "Amazing shoes! I have a few other pair of Nikes and they are all too narrow. These are my first pair AF1’s and they are perfect. I’ve been wearing Super Stars for a long time, which is a very comfortable shoe. The AF1 is much more comfortable. I will be buying more.",
+                    "date": "Feb 18, 2022"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665051497/snicker-fever/2d7c0494-ef54-4e46-b261-3b050238d65b_yvof2m.webp",
+            "name": "Nike ZoomX Invincible Run Flyknit 2",
+            "category": "shoe",
+            "price": 180,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Keep pushing your runs to the limit. The Nike ZoomX Invincible Run Flyknit 2 keeps you going with the same supersoft feel that lets you feel the potential when your foot hits the pavement. We created the shoe with plenty of snappy responsiveness and incredible support to help keep you feeling secure and competitive. It's 1 of our most tested shoes, still designed for you to stay on the track and away from the sidelines.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Chlorine blue",
+                "blue orbit",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Gym",
+                "Track and Field"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Running",
+                "LifeStyle",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Track and Field"
+            ],
+            "productDetail": {
+                "title": "TRAIN HARD, KEEP RUNNING.",
+                "description": "Keep pushing your runs to the limit. The Nike ZoomX Invincible Run Flyknit 2 keeps you going with the same supersoft feel that lets you feel the potential when your foot hits the pavement. We created the shoe with plenty of snappy responsiveness and incredible support to help keep you feeling secure and competitive. It's 1 of our most tested shoes, still designed for you to stay on the track and away from the sidelines.",
+                "benefits": [
+                    "Secure, Cushioned, Comfortable",
+                    "Higher, Softer, Wider",
+                    "More Bounce with Every Ounce",
+                    "Traction, Created with Data"
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Perforations on toe",
+                    "Shown: Black",
+                    "Style: DH5425-003"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "GeoffreyD223061374",
+                    "title": "Super cushion",
+                    "rating": 3.5,
+                    "comment": "These are super comfortable for work on my feet for 8 hours on concrete with no break. Being in my 60's I need cushion and these shoes have superior cushioning compared to other high end shoes that I have tried. Very comfortable shoe overall.",
+                    "date": "Oct 05, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "ClarkKevinS696969385",
+                    "title": "Normal tear and wear made the shoe open up. NOT DURABLE. Too much padding made the shoe wobbly.",
+                    "rating": 5,
+                    "comment": "It was great in the beginning, but in the shoe began giving me problems in my feet. I had problems on my posterior tibialis. I had free runs before so I figured I could upgrade to this. This shoe CANNOT handle tear and wear. I mostly just use this for PT since Im in the military but I would not suggest this shoe. Also, if you have a high arch, please DO NOT get this.",
+                    "date": "Oct 02, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "kevnnn",
+                    "title": "Amazing comfort, but very narrow. Quality doesn't seem that great as well",
+                    "rating": 1,
+                    "comment": "I wore these for a 12 mile run right out of the box after purchasing them. This review is only a reflection of that run. Immediately I could tell the comfort was not like other shoes, they feel incredible. I actually said 'woah!'' out loud after running my first steps! I have tried many comfort shoes from nike over the years and these are by far the best, no question. Unfortunately, I cannot wear these anymore because the shoe is very narrow, particularly around the pinky toe area. My pinky toe is pressed tight against the side of the shoe. Towards the end of my run it was in pain due to this that lasted for days. This only happened on my right foot, so I assume this is a me problem. I am a big Nike shoe person and I have never experienced this issue with any nike shoes in my lifetime. I am very bummed because I was excited to use these as my long/recovery run shoe. I am not giving up on them yet, will try and see if I can widen them somehow because that's how good they are. I also want to point out that after my single run, the fabric on the outsides of the ankle support were getting frayed and coming apart on both shoes. This is unacceptable in my opinion, I wore these for two hours!",
+                    "date": "Sep 22, 2022"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665051507/snicker-fever/8f3d9947-4a08-42fb-9bb3-a305b859b65d_gwvite.webp",
+            "name": "Nike React Infinity Run Flyknit 3",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Still our most tested shoe, made to help you stay after those lofty running goals. The Nike React Infinity Run 3 feels soft and stable with a smooth ride that carries you through routes, long and short. A breathable upper is made to feel contained, yet flexible. We even added more cushioning around the heel and ankle for a supportive sensation. Keep running, we've got you.",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Pearl white",
+                "hyper pink",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Running",
+                "Gym",
+                "Walking"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "Tennis",
+                "Gym",
+                "Cycling",
+                "Track and Field",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": "STAY RUNNING WITH SOFT, STABLE SUPPORT.",
+                "description": "Still our most tested shoe, made to help you stay after those lofty running goals. The Nike React Infinity Run 3 feels soft and stable with a smooth ride that carries you through routes, long and short. A breathable upper is made to feel contained, yet flexible. We even added more cushioning around the heel and ankle for a supportive sensation. Keep running, we've got you.",
+                "benefits": [
+                    "A Secure, Breathable Flex",
+                    "Smooth and Steady",
+                    "Cushioned Feel, Higher Stacks",
+                    "The padded collar feels soft and comfortable.",
+                    "Hybrid tongue combines a sock-like feel with the adjustability of a traditional design.",
+                    "Soft padding along the collar provides a cushioned touch point.",
+                    "Increased rubber at the outsole gives traction and durability."
+                ],
+                "details": [
+                    "Shown: White",
+                    "Style: DH5392-101"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "JohnnyG415736698",
+                    "title": "Daily Shoe",
+                    "rating": 5,
+                    "comment": "I wear these as a daily work shoe. They are extremely comfortable and I'd recommend them to anyone looking for something casual.",
+                    "date": "Oct 05, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "AaronM790450477",
+                    "title": "Nike Flynet Review",
+                    "rating": 5,
+                    "comment": "Amazing and well designed shoe. Great purchase. So comfy.",
+                    "date": "Sep 08, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Duncanson1990",
+                    "title": "Best Reacts Yet!",
+                    "rating": 5,
+                    "comment": "My favorite Infinity Reacts so far. I enjoy running these a lot more then I did in the Infinity React 2s. When it came to the Infinity React 2s I didn't enjoy them for running and resorted to using them for work and casual wear which they were fantastic for. When it came to running I resorted to the Invincible Runs last year. With the Infinity React 3s I have enjoyed the small additional foam and how its softer. These have actually prevented me from buying and keeping a pair of Invincible Runs since they are softer and bouncier and better for me when running. The top material change to a softer style which is almost sock like which is wonderful. I also like how these are durable enough for other work outs besides running and keep their look/design for casual wear and work wear. Going forward if there were any changes I would make to these its the toe area could use a little bit more foam and the collar around the ankle would be better if it was like the Infinity Phantoms collar. Looking forward to the other colorways I might be able to get to go with my two pair.",
+                    "date": "Aug 31, 2022"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665052743/snicker-fever/633a2cfb-8df9-48b3-be32-f0ccb0f7471c_zs8vno.webp",
+            "name": "Air Jordan 1 Mid SE Craft",
+            "category": "shoe",
+            "price": 135,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Consistently fresh and always on point, the AJ1 is one of the most iconic sneakers of all time. This version uses natural tones and suede details for a grounding refresh to a soaring legend.",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Light Graphite",
+                "Sail",
+                "Cement Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "Gym",
+                "Basketball",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Consistently fresh and always on point, the AJ1 is one of the most iconic sneakers of all time. This version uses natural tones and suede details for a grounding refresh to a soaring legend.",
+                "benefits": [
+                    "Encapsulated Air-Sole unit and foam midsole cushion every step.",
+                    "Mid-cut, cushioned collar creates a comfortable fit around your ankle.",
+                    "Rubber sole gives you durable traction.",
+                    "Suede details on upper",
+                    "Wings logo on heel",
+                    "Perforations over toe"
+                ],
+                "details": [
+                    "Shown: Black",
+                    "Style: DM9652-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 18,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665053215/snicker-fever/34562eff-5b93-4166-9ad6-fd9200b56964_du4cjo.webp",
+            "name": "Air Jordan 1 Low SE Craft",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Consistently fresh and always on point, the AJ1 is one of the most iconic sneakers of all time. This version uses natural tones and suede details for a grounding refresh to a soaring legend.",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Light Graphite",
+                "Sail",
+                "Cement Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "Gym",
+                "Basketball",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Consistently fresh and always on point, the AJ1 is one of the most iconic sneakers of all time. This version uses natural tones and suede details for a grounding refresh to a soaring legend.",
+                "benefits": [
+                    "Encapsulated Air-Sole unit and foam midsole cushion every step.",
+                    "Mid-cut, cushioned collar creates a comfortable fit around your ankle.",
+                    "Rubber sole gives you durable traction.",
+                    "Suede details on upper",
+                    "Wings logo on heel",
+                    "Perforations over toe"
+                ],
+                "details": [
+                    "Shown: Black",
+                    "Style: DN1635-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 19,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665053387/snicker-fever/8c964036-316c-481a-a2ea-0baf930acaa0_kxbssk.webp",
+            "name": "Nike Air More Uptempo '96",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Bold, eye-catching and all about the A-I-R. The Nike Air More Uptempo '96 refreshes an original that has reigned supreme for more than 20 years. With a design inspired by high-flying basketball style and '90s graffiti art, these kicks can't help but turn heads off court. Plus, Air units in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Photon Dust",
+                "Total Orange",
+                "Black",
+                "University Red"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "Gym",
+                "Basketball",
+                "LifeStyle"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Bold, eye-catching and all about the A-I-R. The Nike Air More Uptempo '96 refreshes an original that has reigned supreme for more than 20 years. With a design inspired by high-flying basketball style and '90s graffiti art, these kicks can't help but turn heads off court. Plus, Air units in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
+                "benefits": [
+                    "Oversized '90s graffiti-inspired branding celebrates the streets you walk and the Air you walk on.",
+                    "Originally designed for performance hoops, Max Air units add lightweight, durable cushioning.",
+                    "Upper features a rich mixture of velvety soft nubuck and embossed leather while mesh details on the tongue and collar help keep it lightweight and breathable.",
+                    "Elastic straps run across the top of the foot, letting you wear your sneakers laced or unlaced.",
+                    "Round laces match the round pull tabs on the heel and tongue for added style points.",
+                    "Embroidered Swoosh on medial toe"
+                ],
+                "details": [
+                    "Shown: Black",
+                    "Style: DX3356-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 20,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665053675/snicker-fever/185dea51-207f-4670-8a13-3e49d36f841f_xkoypf.webp",
+            "name": "Nike SFB 6\" Leather",
+            "category": "shoe",
+            "price": 155,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike SFB 6\" Leather Men's Boot brings the Special Field Boot to Nike Sportswear for the first time as a SneakerBoot, complete with weather-resistant leather and a rugged traction pattern.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Light Taupe"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "boots"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Fishing",
+                "Hunting",
+                "Military and Tactical"
+            ],
+            "productDetail": {
+                "title": "WATER RESISTANT AND RUGGED",
+                "description": "The Nike SFB 6\" Leather Men's Boot brings the Special Field Boot to Nike Sportswear for the first time as a SneakerBoot, complete with weather-resistant leather and a rugged traction pattern.",
+                "benefits": [
+                    "Block the Elements \nWeather-resistant nubuck leather fends off the rain and sleet while providing lasting durability.",
+                    "Plush Comfort \nThe plush sockliner and injected Phylon midsole offer lightweight cushioning for comfort wherever you go.",
+                    "Extra Traction\nThe outsole features an aggressive traction pattern and strategically placed rubber sections for multi-surface grip."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "6\" collar for enhanced ankle support",
+                    "Shown: Black",
+                    "Style: 862507-002"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "agentsmith916",
+                    "title": "Great Overall",
+                    "rating": 5,
+                    "comment": "This is my first time getting boots from Nike. Usually I get sportswear shoes. Right out of the box my first impression was how light they were. Super light! Also very flexible almost like a Nike Free Run shoe. The boot is very comfortable and true to size. One thing that i'm not too sure about, is how thin the material is in the toe area. I feel like over time, this could be a durability issue. I also don't see how this can be a water resistant boot, but only time will tell if I am wrong. Overall this is a great boot and probably my favorite of all time. I have listed the PROS and CONS below. PROS: -Lightweight -Comfortable -True fit -Looks great -Flexible Boot (Like a Free Run almost) -Good tread CONS: -Durability in the toe area could be an issue. Time will tell. -Water Resistance questionable. Time will tell. (Cons are only based on my opinion. I have not tested this boot to the fullest and would not base your purchase on these cons. I believe overall this is a great boot. You can always return the boot within 30 days if you are not satisfied.)",
+                    "date": "Oct 19, 2017"
+                },
+                {
+                    "id": 2,
+                    "name": "aespino91",
+                    "title": "BETTER THAN EXPECTED",
+                    "rating": 5,
+                    "comment": "true to fit, very durable just wish they offered more colors- size 9",
+                    "date": "Feb 02, 2017"
+                },
+                {
+                    "id": 3,
+                    "name": "livestrongcmc",
+                    "title": "Good but 1 flaw",
+                    "rating": 4,
+                    "comment": "I own 2 pairs of these (the olive green and the black canvas version). Both are supremely comfortable and I love them. However, on the olive version the laces are different than the black canvas (which comes with waxed laces). The olive ones you HAVE to double knot them because no matter what way you tie them otherwise, they'll come untied within 5 minutes of walking around. That is my only complaint. but comfort and style wise these are on point and fit TTS.",
+                    "date": "Oct 20, 2016"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/4bbfb44c-9f38-42ab-85bd-a4a858f73c5c_pxksuz.webp",
+            "name": "Nike Air Zoom G.T. Cut 2",
+            "category": "shoe",
+            "price": 170,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "In today’s game, slow-footed slugs get sought out and exposed. Space makers stay on the floor. The Nike Air Zoom G.T. Cut 2 helps you stop on a dime and accelerate back into the open lane in a low-to-the-ground design that helps minimize court contact while switching direction. Separate the players from the playmakers in a model that’s built on creating separation but supportive enough to help you play all day.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Anthracite",
+                "Bright Crimson",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Gym"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "ACCELERATE AND AMPLIFY.",
+                "description": "In today’s game, slow-footed slugs get sought out and exposed. Space makers stay on the floor. The Nike Air Zoom G.T. Cut 2 helps you stop on a dime and accelerate back into the open lane in a low-to-the-ground design that helps minimize court contact while switching direction. Separate the players from the playmakers in a model that’s built on creating separation but supportive enough to help you play all day.",
+                "benefits": [
+                    "Enhance Your 1st Step",
+                    "Quick-Twitch Takeoff",
+                    "Hit the Brakes"
+                ],
+                "details": [
+                    "Lacing directly through the medial and lateral webbing loops adds forefoot support.",
+                    "Visible breathability in the lightweight upper provides a comfortable fit.",
+                    "Stiff clip around the heel helps lock your foot in over the cushioning.",
+                    "React foam in the insole adds responsive comfort.",
+                    "Molded tongue extends to the toe area and expands for comfort.",
+                    "Plush interior makes it ideal for players who want to feel quick without sacrificing comfort or control.",
+                    "Shown: Black",
+                    "Style: DJ6015-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 22,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/4bbfb44c-9f38-42ab-85bd-a4a858f73c5c_pxksuz.webp",
+            "name": "Nike Zoom Freak 4 \"Greek Coastline\"",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Giannis is an incessant storm of stamina and skill that keeps coming at opponents for 4 quarters or more. The forward-thinking design of his latest signature shoe helps propel you down the court in a lightweight fit that moves with you. It can handle quick changes in direction on both sides of the floor, giving you side-to-side stability and multidirectional traction as you Euro step to the hoop. This special colorway celebrates Giannis’ stops along his remarkable journey and those who have been there for him since Day 1.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Black",
+                "Barely Volt"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Gym"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike Zoom Freak"
+            ],
+            "athlete": "Giannis Antetokounmpo",
+            "sport": [
+                "LifeStyle",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Giannis is an incessant storm of stamina and skill that keeps coming at opponents for 4 quarters or more. The forward-thinking design of his latest signature shoe helps propel you down the court in a lightweight fit that moves with you. It can handle quick changes in direction on both sides of the floor, giving you side-to-side stability and multidirectional traction as you Euro step to the hoop. This special colorway celebrates Giannis’ stops along his remarkable journey and those who have been there for him since Day 1.",
+                "benefits": [
+                    "Behind The Design \nGiannis has skyrocketed from unknown to all-timer, from the hard scrabble streets of Athens to first name basis in the basketball world. He’s gone global while staying true to his self-deprecating, family-first persona that harkens back to his humble beginnings peddling DVDs on street corners in Greece just to help put food on the table. This colorway celebrates Giannis’ stops along his journey and those who have been there for him since Day 1.",
+                    "Drive Downhill \nThe lightweight midsole is hollowed out under the forefoot, where 2 Zoom Air units are positioned. This allows the Zoom Air units to compress under the weight, then expand and help return energy. Also, they're slightly tilted and primed for your forward motion, like a 100-meter sprinter emerging from the starting blocks, so that you can keep attacking the rim.",
+                    "Attack the Rim from All Angles \nThe computer-generated outsole has multidirectional traction in a pattern that resembles a topographical map. It helps optimize ground contact and change-of-direction opportunities.",
+                    "Stability for Moving Quickly \nAn external piece of lightweight, durable foam is built into the outer-side midsole. It helps keep your foot stable over the footbed when making quick side-to-side changes."
+                ],
+                "details": [
+                    "Cutouts in the foam under the toe and heel help reduce overall weight.",
+                    "Molded grooves in the rubber outsole allow the shoes to bend and flex.",
+                    "Molded backwards Swoosh logo is a signature of Giannis’ Freak shoes.",
+                    "Shown: White",
+                    "Style: DJ6149-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 23,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/eab52f04-a299-4e2e-9056-13aa0e40db6a_bwc2dw.webp",
+            "name": "Jordan ADG 4",
+            "category": "shoe",
+            "price": 185,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "A request from MJ himself, the Jordan ADG 4 infuses an incredibly classic silhouette with retro Jordan flavor. Supple, full-grain leather shows off the iconic elephant print on the heel. The rubber sole has an integrated traction pattern that perfectly pairs the grip you need with the versatility and comfort you want.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Grey Fog",
+                "Cement Grey",
+                "Burnt Sunrise",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "LifeStyle",
+                "Golf",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "ALL-DAY GOLF.",
+                "description": "A request from MJ himself, the Jordan ADG 4 infuses an incredibly classic silhouette with retro Jordan flavor. Supple, full-grain leather shows off the iconic elephant print on the heel. The rubber sole has an integrated traction pattern that perfectly pairs the grip you need with the versatility and comfort you want.",
+                "benefits": [
+                    "Full-grain leather is soft and supple.",
+                    "Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride.",
+                    "Elephant print on the heel counter adds iconic hoops style.",
+                    "Rubber sole has an integrated traction pattern that delivers excellent grip on a variety of surfaces."
+                ],
+                "details": [
+                    "Shown: Grey Fog",
+                    "Style: DM0103-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 24,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/6e9907ee-85fb-44b5-a4c6-6319454cadd2_oiftzp.webp",
+            "name": "Nike Air Max 90",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 90 alive and well.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Pure Plantinum",
+                "Pink blast",
+                "volt",
+                "black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Walking",
+                "Skateboarding",
+                "Running",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 90 alive and well.",
+                "benefits": [
+                    "Real and synthetic leather overlays add a durable and premium look.",
+                    "Originally designed for performance running, visible Air cushioning puts the history of comfort beneath your feet.",
+                    "Padded, low-cut collar looks sleek and feels great.",
+                    "Rubber Waffle outsole delivers traction, durability and heritage style."
+                ],
+                "details": [
+                    "Shown: Pure Platinum",
+                    "Style: DZ4398-001"
+                ],
+                "moreDetails": [
+                    "Air Max 90",
+                    "The 90s were a turning point in culture—art, music, fashion and sneakers. The Air Max was at the forefront of the movement. With even more exposed Air cushioning and a bold new color affectionately dubbed as “infrared,” its revolutionized design helped the first 90 take on a life of its own. No longer just a running shoe, it solidified Air Max as a streetwear cornerstone."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 25,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/6e9907ee-85fb-44b5-a4c6-6319454cadd2_oiftzp.webp",
+            "name": "Nike Air Max 90",
+            "category": "shoe",
+            "price": 185.97,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Looking to nature for inspiration, the Nike Air Max Terrascape 97 lets you push your style full speed ahead. Made from at least 20% recycled materials by weight and with added durability (check out the reinforced mudguard), no detail is overlooked. Upping the ante, durable plastic in high-wear areas features speckled Nike Grind for a playful look.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "key lime",
+                "Pilgrim",
+                "Elemental Pink",
+                "black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Walking",
+                "Skateboarding",
+                "Running",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Looking to nature for inspiration, the Nike Air Max Terrascape 97 lets you push your style full speed ahead. Made from at least 20% recycled materials by weight and with added durability (check out the reinforced mudguard), no detail is overlooked. Upping the ante, durable plastic in high-wear areas features speckled Nike Grind for a playful look.",
+                "benefits": [
+                    "Originally designed for performance running, the full-length Max Air unit adds soft, lasting comfort.",
+                    "Foam midsole feels springy.",
+                    "Rubber outsole adds traction and durability.",
+                    "Fused mudguard adds durability and creates a sleek, integrated look."
+                ],
+                "details": [
+                    "Pull tabs",
+                    "Foam sockliner",
+                    "Shown: Black",
+                    "Style: : DJ5019-004"
+                ],
+                "moreDetails": [
+                    "Nike Air Max Origins",
+                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "DavidB483749076",
+                    "title": "Dont hate. Terrascape.",
+                    "rating": 5,
+                    "comment": "Very nice. I love everything about it. Im 6'3\" @ 220lbs and flatfooted. I can be in these all day.❤",
+                    "date": "Aug 18, 2022"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/lebron-9-low-mens-shoes-flHVJd_rhrem4.jpg",
+            "name": "Nike Lebron 9 Low",
+            "category": "shoe",
+            "price": 190,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Hold your head up high and celebrate your passion for the pitch in this fresh soccer take on the LeBron 9. Vibrant Liverpool FC colors and striking visuals like the club's crest honor the King's favorite squad. Plus, airy mesh and Max Air cushioning let you excite the streets with this flashy new addition to your kit.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "new green",
+                "action red",
+                "black",
+                "white"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Lebron James",
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Walking",
+                "Skateboarding",
+                "Running",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Hold your head up high and celebrate your passion for the pitch in this fresh soccer take on the LeBron 9. Vibrant Liverpool FC colors and striking visuals like the club's crest honor the King's favorite squad. Plus, airy mesh and Max Air cushioning let you excite the streets with this flashy new addition to your kit.",
+                "benefits": [
+                    "Regal Comfort \nFit for a king, Max Air cushioning has just the right amount of support.",
+                    "Durable Design \nA rich mixture of materials (like engineered mesh) add structure, breathability and off-court style.",
+                    "Marked for First Class Travel \nSigned, stamped and approved, it features Liverpool FC insignia on the heel and John Hancock's on the tongue.",
+                    "Fused mudguard adds durability and creates a sleek, integrated look."
+                ],
+                "details": [
+                    "Foam midsole provides lasting comfort.",
+                    "Rubber outsole adds traction and durability.",
+                    "Shown: New Green",
+                    "Style: DQ6400-300"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 27,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/kztrhrciawwff9zsebz1_sqx3te.webp",
+            "name": "Nike SFB 6\" Leather",
+            "category": "shoe",
+            "price": 155,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "With a history rooted in rugged exploration, the Nike Air Max Goadome celebrates 2 decades of tough city style and outdoor adventure. The waterproof leather on the upper helps shield you from the elements and features the classic overlay construction you trust. Visible Air units underfoot combine with a soft foam midsole to cushion your journey while rugged tread on the outsole gives your style traction.",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "boots"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Fishing",
+                "Hunting",
+                "Hiking"
+            ],
+            "productDetail": {
+                "title": "20 YEARS OF RUGGED PERFECTION.",
+                "description": "With a history rooted in rugged exploration, the Nike Air Max Goadome celebrates 2 decades of tough city style and outdoor adventure. The waterproof leather on the upper helps shield you from the elements and features the classic overlay construction you trust. Visible Air units underfoot combine with a soft foam midsole to cushion your journey while rugged tread on the outsole gives your style traction.",
+                "benefits": [
+                    "The durable upper is made with tough leather with a waterproof coating to help keep your feet dry and warm.",
+                    "The padded, high-top collar adds comfort around your ankle and locking in the warmth and adding stability.",
+                    "The visible Air units in the heel and forefoot cushion every step.",
+                    "The rubber outsole features an aggressive lug pattern for added traction, durability and a rugged look.",
+                    "The perfect blend of form and function after 20 years, the timeless design is rugged enough for the mountains, yet practical enough for the streets."
+                ],
+                "details": [
+                    "Rubber outsole",
+                    "ACG branding on the midsole",
+                    "Metal eyelets",
+                    "Perforations on side",
+                    "Embossed Swoosh design",
+                    "Shown: Black",
+                    "Style: 865031-009"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "PapeRoutElan",
+                    "title": "Love my Goadomes",
+                    "rating": 5,
+                    "comment": "Bought these boots because I wanted them for so long, since they first ever dropped years ago. Love the fit, since it's summer right now really can't wear them but I plan on wearing the hell out of these boots during the summer. They fit great and I love the look.",
+                    "date": "Jul 07, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Sanman8285 ",
+                    "title": "Best thing invented by the Greeks.",
+                    "rating": 5,
+                    "comment": "A great Greek philosopher friend of mine told me to get these. It has changed my life and the way I walk. I am so grateful for my Greek friend.",
+                    "date": "Jun 18, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Flex and Da Boriqua Posse",
+                    "title": "Perfect especially if you suffer from bad knees.",
+                    "rating": 4,
+                    "comment": "One of the best investment that I have ever made in foot wear.",
+                    "date": "Jun 16, 2022"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/rorabfpoffxpmekxfaq7_ojidbf.webp",
+            "name": "Nike Manoa Leather",
+            "category": "shoe",
+            "price": 95,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Manoa is the perfect match when dressing for winter. Featuring crisp leather on the upper, a thick padded collar and rugged tread, it helps you style for the season. The webbing pull tab and round laces add details ready for the outdoors",
+            "sizes": [
+                "Large",
+                "Medium",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Haystack",
+                "Velvet Brown"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "boots"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Fishing",
+                "Hunting",
+                "Hiking"
+            ],
+            "productDetail": {
+                "title": "20 YEARS OF RUGGED PERFECTION.",
+                "description": "The Nike Manoa is the perfect match when dressing for winter. Featuring crisp leather on the upper, a thick padded collar and rugged tread, it helps you style for the season. The webbing pull tab and round laces add details ready for the outdoors",
+                "benefits": [
+                    "leather in the upper is durable and is designed to help keep out the cold and wet.",
+                    "Gusseted tongue is designed to help keep debris out of the boot while letting you mix up how you wear them—laced or unlaced.",
+                    "Round laces with metal eyelets are easy to grab with gloved hands, let you personalize your comfort, and add to the rugged, outdoorsy look.",
+                    "The foam midsole provides lightweight cushioning that lasts.The foam midsole provides lightweight cushioning that lasts.",
+                    "Rugged rubber outsole with large lugs delivers long-lasting durability and traction."
+                ],
+                "details": [
+                    "Pull tab",
+                    "Embossed Swoosh",
+                    "Tongue decal with \"Nike\" and Swoosh",
+                    "Shown: Haystack",
+                    "Style: 454350-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "F L.",
+                    "title": "Comfortable",
+                    "rating": 5,
+                    "comment": "Comfortable boot, good quality",
+                    "date": "Oct 03, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "BrighteyesV",
+                    "title": "Comfortable",
+                    "rating": 5,
+                    "comment": "They were a gift for my son and he loved them they are comfortable for anyone working a standing job",
+                    "date": "Sep 19, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "JP O ",
+                    "title": "Great price",
+                    "rating": 5,
+                    "comment": "This is my 3rd pair of these shoes and I'm glad I found it at a great price at Kohls.",
+                    "date": "Sep 18, 2021"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/93d6bf99-242c-4996-822b-79f91ce008c4_ucnor0.webp",
+            "name": "Nike SB Nyjah Free 2",
+            "category": "shoe",
+            "price": 95,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Summit White",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": ["Nike SB"],
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Skateboarding"
+            ],
+            "productDetail": {
+                "title": "THE NEXT GENERATION OF NYJAH.",
+                "description": "The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions.",
+                "benefits": [
+                    "Breathable Update \nOriginal, 360-degree rubber upper has been updated with mesh panels for breathability where you need it most. The rubber and mesh are fused together for extra durability.",
+                    "Durable Lacing \nGhillie loops hug your foot from bottom to top while their unique design helps your laces last longer.",
+                    "Excellent Grip \nRubber outsole has deep grooves that expand and contract as your foot moves. It gives you a broken-in feel right out of the box.",
+                    "From the Vault \nDesign details, from the ghillie loops to the placement of the mesh, was inspired by the 1997 Nike Spiridon.",
+                    "Rugged rubber outsole with large lugs delivers long-lasting durability and traction."
+                ],
+                "details": [
+                    "Internal, 3/4-length sleeve creates a sock-like fit.",
+                    "Foam sockliner",
+                    "\"II\" on the heel pull tab",
+                    "\"Nyjah\" on the tongue pull tab",
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Summit White",
+                    "Style: 454350-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "F L.",
+                    "title": "Comfortable",
+                    "rating": 5,
+                    "comment": "Comfortable boot, good quality",
+                    "date": "Oct 03, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "BrighteyesV",
+                    "title": "Comfortable",
+                    "rating": 5,
+                    "comment": "They were a gift for my son and he loved them they are comfortable for anyone working a standing job",
+                    "date": "Sep 19, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "JP O ",
+                    "title": "Great price",
+                    "rating": 5,
+                    "comment": "This is my 3rd pair of these shoes and I'm glad I found it at a great price at Kohls.",
+                    "date": "Sep 18, 2021"
+                }
+            ]
         }
     ]
 }
