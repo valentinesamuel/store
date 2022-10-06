@@ -1880,7 +1880,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": 28,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/rorabfpoffxpmekxfaq7_ojidbf.webp",
             "name": "Nike Manoa Leather",
             "category": "shoe",
@@ -1963,7 +1963,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": 29,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/93d6bf99-242c-4996-822b-79f91ce008c4_ucnor0.webp",
             "name": "Nike SB Nyjah Free 2",
             "category": "shoe",
@@ -1988,7 +1988,9 @@
                 "Sports"
             ],
             "belongsToCollection": true,
-            "collections": ["Nike SB"],
+            "collections": [
+                "Nike SB"
+            ],
             "athlete": null,
             "sport": [
                 "LifeStyle",
@@ -2040,6 +2042,281 @@
                     "comment": "This is my 3rd pair of these shoes and I'm glad I found it at a great price at Kohls.",
                     "date": "Sep 18, 2021"
                 }
+            ]
+        },
+        {
+            "id": 30,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/5c83e63f-f683-495f-a719-fb28a7f0a367_ow02z3.webp",
+            "name": "Luka 1 \"Habitat\"",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Designed for #77 and made for every athlete craving speed and efficiency, Luka's debut delivers the goods. The first shoe with full-length Formula 23 foam, it has an ultra-supportive fit crafted with the step-back in mind. Meanwhile, strong and lightweight Flight Wire cables keep you feeling contained.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Football Grey",
+                "Bark Marina Blue",
+                "Volt",
+                "Sail"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Luka Doncic",
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Designed for #77 and made for every athlete craving speed and efficiency, Luka's debut delivers the goods. The first shoe with full-length Formula 23 foam, it has an ultra-supportive fit crafted with the step-back in mind. Meanwhile, strong and lightweight Flight Wire cables keep you feeling contained.",
+                "benefits": [
+                    "Slovenian Serenity \nLush forests, snow-capped mountains and miles of scenic coastline—these shoes pull color inspiration from the natural beauty of Slovenia, Luka's home country.",
+                    "Cable Container \nEmbroidered Flight Wire—think of the braided cables that support bridges—wrap around the shoe's upper to keep your feet secure and contained.",
+                    "Geared for Quickness \nFull-length Formula 23 foam translates to responsive support for your entire foot, helping you find new ways to create space. Under the foam, a stabilizing plate helps you feel quick when Euro-stepping through the lane.",
+                    "Step Back With Confidence \nA rubber wrap built for ankle support compliments an efficient traction system designed to optimize Luka’s step-back—and yours, too."
+                ],
+                "details": [
+                    "Shown: Football Grey",
+                    "Style: DR9830-074"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 31,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/209ae9dd-e868-404c-9ab4-dad3fbd3ec03_vsovoy.webp",
+            "name": "Jordan Delta 3 SP",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Combining high-end craft with high-tech features, these kicks are the embodiment of cool. Airy ripstop and soft suede pair with a soft interior for a classic look and premium Jordan Brand comfort.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Hemp",
+                "Dark Driftwood",
+                "Rattan",
+                "Sail"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Combining high-end craft with high-tech features, these kicks are the embodiment of cool. Airy ripstop and soft suede pair with a soft interior for a classic look and premium Jordan Brand comfort.",
+                "benefits": [
+                    "Tried and True Traction \nThe rubber outsole's abstract herringbone pattern, which references a basketball mainstay for traction, delivers support and lightweight flexibility.",
+                    "Classic Meets Tech \nFrom suede to ripstop, the durable upper checks all the boxes: lightweight, comfortable and ready for anywhere you go."
+                ],
+                "details": [
+                    "Shown: Hemp",
+                    "Style: DD9361-212"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 32,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/879db1d0-b43a-4ee1-89b0-814d66e83638_nktxoz.webp",
+            "name": "Nike Go Fly Ease",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Just when you thought you'd seen it all, Nike wows with an all-new way to quickly and easily get into your shoes. Great for people with limited mobility seeking ease of entry, or anyone wanting a quicker way to get in and go! The entire heel (including the sole) of the Nike Go FlyEase pivots open for a totally hands-free entry.",
+            "sizes": [
+                "Medium"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Anthracite",
+                "Elemental Gold",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike FlyEase"
+            ],
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "QUICK, EASY AND HANDS-FREE.",
+                "description": "Just when you thought you'd seen it all, Nike wows with an all-new way to quickly and easily get into your shoes. Great for people with limited mobility seeking ease of entry, or anyone wanting a quicker way to get in and go! The entire heel (including the sole) of the Nike Go FlyEase pivots open for a totally hands-free entry.",
+                "benefits": [
+                    "Step In and Go \nThe shoe's entire heel hinges open and stays open until you're ready to go. Slip in and step down to make the heel move back into place and secure your foot. To take the shoe off, use your opposite toe to hold the heel and hinge the shoe open.",
+                    "Cushlon Comfort \nThe cushioning is made from plush, lightweight Cushlon foam, so each step feels smooth as you transition from heel to toe.",
+                    "Breathable With Structure \nLightweight fabric in the upper creates an airy, comfortable feel. No-sew overlays add durability and provide structure and stability."
+                ],
+                "details": [
+                    "Grippy rubber outsole",
+                    "Swoosh design",
+                    "Shown: Black",
+                    "Style: CW5883-003"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                [
+                    {
+                        "id": 1,
+                        "name": "Charla330238824",
+                        "title": "Good enough for temporary disability. Toe box too narrow. Bit tough to get off if you don't touch on back just right.",
+                        "rating": 3,
+                        "comment": "I'm about to have surgery on both arms—one at a time—and will be temporarily disabled. These sneakers are better than tying my shoes, but they're a little tough to operate if you haven't precisely put your foot on the back to get them off. Also, the toe box is too narrow for all-the-time comfort. I'm seeing them as only good for this temporary time, which is a bummer because there's lots of times where I could use an easy-in-out shoe for taking the dog around the block. Also, would love if they could create a model that works with orthotics. Overall fit is right in length but narrow in width.",
+                        "date": "Oct 05, 2022"
+                    },
+                    {
+                        "id": 2,
+                        "name": "TammieG698097513",
+                        "title": "Disappointing- Width",
+                        "rating": 2,
+                        "comment": "Was super excited about these shoes for my son. We just received them today and so let down about the bridge and how stiff it is. There is little give and actually gets very narrow. These can not be worn with braces, specialty socks or with wide feet. You need to have a very narrow foot. I tried them on (2 sizes smaller then the shoe size) and I could barely get my toes into and past the point where it narrows. Bummed about the sizing on these. Great thought behind it but failed on execution for the population it was advertised to.",
+                        "date": "Sep 08, 2022"
+                    },
+                    {
+                        "id": 3,
+                        "name": "59889e31-25d9-4bd4-a1de-06f0ba0c8b7f",
+                        "title": "Someone with braces wanting to help make change",
+                        "rating": 1,
+                        "comment": "I was very disappointed with this shoe. At first I was hopeful because there is finally an accessible sneaker specifically catered to leg braces. but, when I tried these shoes on they were the same size as a different pair I have that fit perfectly. However the length and width was very disproportionate. I could barely get it around the width of my brace and when I did there was a ton of gapping and sinking in the toe of the shoe. I hope that this comment helps Nike and other companies to modify how they make shoes. For me personally, I need shoes with a WIDE if not EXTRA WIDE width shoe. Of topic, I need the wide width and toe in boots especially. Opening the shoe is not the issue, it’s the width.",
+                        "date": "Sep 07, 2022"
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 32,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665065682/snicker-fever/0881e42d-5c2c-4575-ba23-917cda1af38b_vz2fz9.webp",
+            "name": "Kyrie Infinity",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The faster Kyrie slows down, the quicker he can speed up or change direction. His ability to control his movement keeps defenders guessing—and him in control. The Kyrie Infinity provides a tight custom fit, enhanced responsiveness in the forefoot and traction up the sides, allowing players to accelerate and decelerate on demand and take advantage of the separation they create.",
+            "sizes": [
+                "Medium",
+                "Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Concord",
+                "Barely Grape",
+                "Metallic Silver"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Walking",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike Kyrie"
+            ],
+            "athlete": "Kyrie Irving",
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "ATTACK WITH CONTROL.",
+                "description": "The faster Kyrie slows down, the quicker he can speed up or change direction. His ability to control his movement keeps defenders guessing—and him in control. The Kyrie Infinity provides a tight custom fit, enhanced responsiveness in the forefoot and traction up the sides, allowing players to accelerate and decelerate on demand and take advantage of the separation they create.",
+                "benefits": [
+                    "Feel Connected \nKyrie likes his shoes to feel tight and custom fitted like a boxing glove. Dynamic internal bands poke through the upper, and the laces feed through them. Tightening the laces pulls down on the bands to create a super snug, comfortable and connected fit.",
+                    "Unlock Your Energy \nAn updated 3-layer cushioning system uses an Air Zoom unit in the forefoot sandwiched between a molded sockliner and soft foam. Less foam and fewer layers improve court feel and unlock the Zoom's energy-returning potential.",
+                    "Cut with Control \nEdgy, multidirectional tread is designed around how Kyrie cuts and jabs on the court, providing traction precisely where it's needed. The grippy rubber wraps up the sides, especially on the inside heel and toe, so you stay in control when banking and changing directions."
+                ],
+                "details": [
+                    "Translucent, micro-engineered upper material is lightweight and breathable.",
+                    "Plush, padded collar is partially separated around the heel to create support around the Achilles tendon.",
+                    "Shown: Black",
+                    "Style: CZ0204-005"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                [
+                    {
+                        "id": 1,
+                        "name": "tyler32795333 ",
+                        "title": "the goat",
+                        "rating": 3,
+                        "comment": "nice looking, comfortable, best shoes i've ever had.",
+                        "date": "Oct 02, 2022"
+                    },
+                    {
+                        "id": 2,
+                        "name": "3524012622",
+                        "title": "Good but tight fit",
+                        "rating": 4,
+                        "comment": "Probably a really good basketball shoe, but they fit so tight. Length and width. Definitely should try em on in store if you can or maybe just go up half a size. Not sure if I’ll be capable of breaking em in enough to want to play competitively in em.",
+                        "date": "Sep 24, 2022"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Davud847204795 ",
+                        "title": "These shoes are fire",
+                        "rating": 1,
+                        "comment": "I really loved this shoes. First of all comfort is on top. It is kinda first time for me trying basketball shoes. It seems very durable too. If u want kinda big size then buy 1 bigger. Because I order 0.5 bigger than my normal size and it fits tightly. Overall I loved design, color matching, and comfort most",
+                        "date": "Sep 15, 2022"
+                    }
+                ]
             ]
         }
     ]
