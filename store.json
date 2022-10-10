@@ -931,7 +931,7 @@
         },
         {
             "id": 14,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665050775/snicker-fever/a42a5d53-2f99-4e78-a081-9d07a2d0774a_jgwqss.webp",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665417042/snicker-fever/312b1c49-554c-453b-976a-3987af5d6fd1_lxemcj.webp",
             "name": "Nike Air Force 1 '07",
             "category": "shoe",
             "price": 160,
@@ -1386,7 +1386,7 @@
             "activities": [
                 "Lifestyle",
                 "Walking",
-                "boots"
+                "Boots"
             ],
             "belongsToCollection": false,
             "collections": null,
@@ -1501,7 +1501,7 @@
         },
         {
             "id": 22,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/4bbfb44c-9f38-42ab-85bd-a4a858f73c5c_pxksuz.webp",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/e0de6b9d-7a87-49df-a4e5-4673daa2cad5_ofjauo.webp",
             "name": "Nike Zoom Freak 4 \"Greek Coastline\"",
             "category": "shoe",
             "price": 130,
@@ -1609,13 +1609,13 @@
         },
         {
             "id": 24,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054829/snicker-fever/6e9907ee-85fb-44b5-a4c6-6319454cadd2_oiftzp.webp",
-            "name": "Nike Air Max 90",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665416693/snicker-fever/b5c34784-6250-4a85-b626-c919095c16c2_x1wj98.webp",
+            "name": "Nike Air Max 9C",
             "category": "shoe",
             "price": 130,
             "isAccessory": false,
             "accessoryType": null,
-            "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 90 alive and well.",
+            "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 9C alive and well.",
             "sizes": [
                 "Large",
                 "Medium",
@@ -1648,7 +1648,7 @@
             ],
             "productDetail": {
                 "title": null,
-                "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 90 alive and well.",
+                "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the ‘90s. Worn by presidents, revolutionized through collabs and celebrated with rare colorways, its striking visuals, Waffle outsole and exposed Air cushioning keep the Air Max 9C alive and well.",
                 "benefits": [
                     "Real and synthetic leather overlays add a durable and premium look.",
                     "Originally designed for performance running, visible Air cushioning puts the history of comfort beneath your feet.",
@@ -1798,7 +1798,7 @@
         {
             "id": 27,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054828/snicker-fever/kztrhrciawwff9zsebz1_sqx3te.webp",
-            "name": "Nike SFB 6\" Leather",
+            "name": "Nike Air Max Goadome",
             "category": "shoe",
             "price": 155,
             "isAccessory": false,
@@ -1820,7 +1820,7 @@
             "activities": [
                 "Lifestyle",
                 "Walking",
-                "boots"
+                "Boots"
             ],
             "belongsToCollection": false,
             "collections": null,
@@ -1905,7 +1905,7 @@
             "activities": [
                 "Lifestyle",
                 "Walking",
-                "boots"
+                "Boots"
             ],
             "belongsToCollection": false,
             "collections": null,
@@ -2460,7 +2460,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": 36,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054827/snicker-fever/11de4715-a626-4221-b253-548a897f30d9_zs1ihx.webp",
             "name": "Air Jordan 7 Retro",
             "category": "shoe",
@@ -2537,6 +2537,157 @@
                         "rating": 5,
                         "comment": "These are even better than i thought! Goes with all my Kansas City Chiefs gear🔥! Couldn't be happier with these J's. Good buying experience and fast shipping. Thank you Hibbett!",
                         "date": "Sep 15, 2022"
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 37,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/ea554795-01b5-437e-b483-6d1bdd60bebd_imoi6d.webp",
+            "name": "Nike Mecurial Superfly 8 Club MG",
+            "category": "shoe",
+            "price": 65,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Mercurial Superfly 8 Club elevates a favorite with gold and silver accents for a look that’s fit for champions. Grippy texture on top gives you precise control, while studs on the bottom provide traction for quick cuts and sudden stops.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Medium Ash",
+                "Metallic Silver"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Football",
+                "Soccer",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": "GO FOR GOLD.",
+                "description": "The Nike Mercurial Superfly 8 Club elevates a favorite with gold and silver accents for a look that’s fit for champions. Grippy texture on top gives you precise control, while studs on the bottom provide traction for quick cuts and sudden stops.",
+                "benefits": [
+                    "Exceptional Touch <br/>A textured pattern provides grip for better ball control when dribbling.",
+                    "Seamless Support <br/>Dynamic Fit collar wraps your ankle in soft, stretchy fabric for a secure feel.",
+                    "Dig In and Take Off <br/>Designed for various surfaces, conical studs offer supercharged traction with quick release and pivoting."
+                ],
+                "details": [
+                    "For use on natural and synthetic surfaces",
+                    "Cushioned insole",
+                    "Shown: Black",
+                    "Style: DJ2904-007"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                [
+                    {
+                        "id": 1,
+                        "name": "JensenR756513113",
+                        "title": "Very good cleats",
+                        "rating": 5,
+                        "comment": "These cleats are the best that I have ever gotten they fit in just right and when I go to practice these cleats are very comfortable when playing",
+                        "date": "Sep 13, 2022"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Candidad184320584",
+                        "title": "Crazy narrow.",
+                        "rating": 1,
+                        "comment": "The length of these shoes seemed right, but it was almost impossible for my son to get his feet in so back they'll go. They broke the shoe horn!!",
+                        "date": "Aug 25, 2022"
+                    },
+                    {
+                        "id": 3,
+                        "name": "JamesF333999249 ",
+                        "title": "Not Durable",
+                        "rating": 1,
+                        "comment": "Literally ordered these 2 weeks ago.. My son wore them for the first time tonight and the seam around the ankle is coming apart.",
+                        "date": "Aug 10, 2022"
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 38,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054830/snicker-fever/e311ab34-365a-4b2c-b640-a5c8ab7d3aea_zszble.webp",
+            "name": "Nike Vapor Edge Speed 360",
+            "category": "shoe",
+            "price": 95,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Engineered for speed, the Nike Vapor Edge Speed 360 offers a new degree of agility. Its internal plate gives you flexible support, while wide stud placements let you cut like never before.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Photon Dust",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Football",
+                "Soccer",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": "DESIGNED TO GO FROM ZERO TO FAST.",
+                "description": "Engineered for speed, the Nike Vapor Edge Speed 360 offers a new degree of agility. Its internal plate gives you flexible support, while wide stud placements let you cut like never before.",
+                "benefits": [
+                    "Internal plate is separated from the studs so it sits closer to your foot for flexible support.",
+                    "Wide stud placement helps you make quick cuts.",
+                    "Fabric upper is covered with a thin NikeSkin overlay for durability.",
+                    "Internal heel pads add extra comfort."
+                ],
+                "details": [
+                    "Shown: White",
+                    "Style: DQ5110-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                [
+                    {
+                        "id": 1,
+                        "name": "VicCash",
+                        "title": "Great cleats",
+                        "rating": 5,
+                        "comment": "I always purchase speed cleats by Nike. These are great and very comfortable.",
+                        "date": "Jul 17, 2022"
+                    },
+                    {
+                        "id": 2,
+                        "name": "14923538123",
+                        "title": "wowwww",
+                        "rating": 5,
+                        "comment": "Love this cleat by far the best I have ever worn… super comfortable! Light very good for grass! Especially for changing directions… light as well thank you nike",
+                        "date": "Jul 10, 2022"
                     }
                 ]
             ]
