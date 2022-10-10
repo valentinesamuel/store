@@ -2927,6 +2927,246 @@
                     "date": "Sep 27, 2021"
                 }
             ]
+        },
+        {
+            "id": 42,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/d473b114-0040-44d6-808f-90dacdf08abf_aiqobk.webp",
+            "name": "Nike SB Zoom Blazer Low Pro GT Premium",
+            "category": "shoe",
+            "price": 85,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "A Grant Taylor signature shoe with workwear vibes, the Nike SB Zoom Blazer infuses a low-cut classic with hard-working materials, like durable leather and washed denim. The result is a skate-ready style that's ready to charge hard.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Summit White",
+                "Gum White Light Brown",
+                "Midnight Navy"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike SB"
+            ],
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Skateboarding",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "A Grant Taylor signature shoe with workwear vibes, the Nike SB Zoom Blazer infuses a low-cut classic with hard-working materials, like durable leather and washed denim. The result is a skate-ready style that's ready to charge hard.",
+                "benefits": [
+                    "Leather dyed with indigo shades on the upper is supple and durable.",
+                    "Stonewashed denim Swoosh is extra durable.",
+                    "Vulcanized construction fuses the rubber sole to the upper for a flexible, broken-in feel."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Midnight Navy",
+                    "Style: DM8890-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 43,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/779ed33d-2b5b-4ef8-a0ef-4ead046e7b1f_yuxron.webp",
+            "name": "Nike Air Max 90 Slides",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "The Nike Air Max 90 Slide honors the legendary shoe that shook up the sneaker scene 30 years ago. The visible Max Air unit in the heel celebrates its strong heritage, while colorful stitched in TPU elements add retro styling. The foam footbed and plush strap lining offer comfort and support. An embroidered Swoosh and premium materials elevate this slide into a category all its own.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SLIDE INTO ICONIC AIR.",
+                "description": "The Nike Air Max 90 Slide honors the legendary shoe that shook up the sneaker scene 30 years ago. The visible Max Air unit in the heel celebrates its strong heritage, while colorful stitched in TPU elements add retro styling. The foam footbed and plush strap lining offer comfort and support. An embroidered Swoosh and premium materials elevate this slide into a category all its own.",
+                "benefits": [
+                    "Iconic DNA <br/>The midsole and outsole draw inspiration from the original Air Max 90.",
+                    "Classic Comfort <br/>A visible Max Air unit encased in soft foam offers underfoot comfort. The padded and cushioned upper strap provides a comfortable fit.",
+                    "Bold Branding <br/>The upper features bold and iconic branding unique to the Air Max 90."
+                ],
+                "details": [
+                    "Modified Waffle outsole with deep flex grooves for mobility",
+                    "Shown: Black",
+                    "Style: BQ4635-002"
+                ],
+                "moreDetails": [
+                    "Nike Air Max Origins",
+                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Ariel W",
+                    "title": "Perfect",
+                    "rating": 5,
+                    "comment": "Arrived in the right time and the way I requested it in perfect condition exactly what I wanted",
+                    "date": "Aug 26, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "P A.",
+                    "title": "Best Pair of sandals I own",
+                    "rating": 5,
+                    "comment": "As usual from all nike products excellent materials and awesome style!",
+                    "date": "Sep 14, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "PhillyPham",
+                    "title": "Comfortable!",
+                    "rating": 5,
+                    "comment": "This is a good looking sandal. Fits true to size. My husband wears them a lot.",
+                    "date": "Aug 24, 2021"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054826/snicker-fever/27993f66-a2ef-4f9b-b290-9b10d8717f90_yorn75.webp",
+            "name": "Nike Zoom Mercurial Superfly 9 Academy TF",
+            "category": "shoe",
+            "price": 95,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Instantly tilt the field in the bold design of the Superfly 9 Academy TF. It's loaded with a Zoom Air unit and flexible NikeSkin up top for exceptional touch, so you can dominate in the waning minutes of a match—when it matters most. Fast is in the Air.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Yellow Strike",
+                "Coconut Milk",
+                "Doll",
+                "Sunset Glow"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Football",
+                "American Football",
+                "Baseball",
+                "Soccer"
+            ],
+            "productDetail": {
+                "title": "SLIDE INTO ICONIC AIR.",
+                "description": "Instantly tilt the field in the bold design of the Superfly 9 Academy TF. It's loaded with a Zoom Air unit and flexible NikeSkin up top for exceptional touch, so you can dominate in the waning minutes of a match—when it matters most. Fast is in the Air.",
+                "benefits": [
+                    "Welcome to the Field, Zoom <br/>For the first time in our history, Nike has developed an all-new Zoom Air unit. It sits in the outsole and provides an additional level of springy underfoot feel that helps you move faster on the field and create separation when it matters the most—whether you're scoring goals, being first to the ball or going by defenders.",
+                    "Drive Your Speed <br/>The speed cage inside of the structure is made of a thin but strong material that secures the foot to the outsole without adding additional weight for optimal lockdown.",
+                    "Dig In, Take Off <br/>Rubber outsole is designed for traction on turf surfaces.",
+                    "Improved Fit <br/>Flyknit wraps your ankle in soft, stretchy fabric for a secure feel. A redone design improves the fit, so that it better simulates the foot. We did this by conducting multiple wear tests on hundreds of athletes. The result is a more contoured toe box and better lockdown in the heel.",
+                    "Barefoot Feel <br/>The upper has NikeSkin, a soft and flexible mesh material linked together by a thin coating. It helps provide ball control and truly gives you a feeling of barefoot soccer."
+                ],
+                "details": [
+                    "For use on shorter, synthetic surfaces",
+                    "Cushioned insole",
+                    "Shown: Yellow Strike",
+                    "Style: DJ5629-780"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 45,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054825/snicker-fever/baf9eb1a-c77d-416a-a0da-3dbae4e637d7_jbgxzo.webp",
+            "name": "Nike Offcourt",
+            "category": "shoe",
+            "price": 40,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "Cheer your team to victory in comfort with the Nike Offcourt Slide. A cushy synthetic leather strap features your team’s logo, while an innovative foam midsole makes this slide so comfy, you’ll never want to take it off.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Anthracite",
+                "Team Orange",
+                "Seal Brown",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "FOR FANS OF COMFORT.",
+                "description": "Cheer your team to victory in comfort with the Nike Offcourt Slide. A cushy synthetic leather strap features your team’s logo, while an innovative foam midsole makes this slide so comfy, you’ll never want to take it off.",
+                "benefits": [
+                    "A contoured footbed cradles your foot while the dual-density foam adds cushioning and stability.",
+                    "The synthetic leather strap is lined with plush fabric that feels soft and comfortable.",
+                    "Bold Branding <br/>The upper features bold and iconic branding unique to the Air Max 90."
+                ],
+                "details": [
+                    "Shown: Black",
+                    "Style: DD0512-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
         }
+       
     ]
 }
