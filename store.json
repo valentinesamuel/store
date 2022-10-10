@@ -2691,6 +2691,242 @@
                     }
                 ]
             ]
+        },
+        {
+            "id": 39,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665388155/snicker-fever/f5138ce4-0d31-480b-a939-bc8cdbb95bdc_ds6q6o.webp",
+            "name": "Giannis Immortality",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The future of basketball is positionless, and nobody embodies this evolution like MVP Giannis Antetokounmpo. The Giannis Immortality is a game shoe for players who love Giannis' multidimensional game and want a piece of his freaky style.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Metallic Gold",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike Zoom Freak"
+            ],
+            "athlete": "Giannis Antetokounmpo",
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "UNLEASH YOUR INNER FREAK WITH SPEED, POWER AND CONTROL.",
+                "description": "The future of basketball is positionless, and nobody embodies this evolution like MVP Giannis Antetokounmpo. The Giannis Immortality is a game shoe for players who love Giannis' multidimensional game and want a piece of his freaky style.",
+                "benefits": [
+                    "Curved Cushioning For Smooth Strides <br/>The bottom of the shoe is curved from heel to toe for smooth strides. Cutouts in the foam help reduce weight and provide optimal responsiveness (because there is more space for the foam to compress and expand).",
+                    "Euro Step Control <br/>The outsole rubber is partially split by grooves and wraps up the inner side near the front. This allows the rubber to flex and maintain traction when making side-to-side Euro step moves.",
+                    "Lightweight Containment <br/>The upper uses an engineered mesh that's lightweight and breathable. An internal strap wraps over the midfoot to help keep you stable when moving from side to side.",
+                    "Plush Look and Feel <br/>The heel part of the upper looks and feels plush. It creates a secure and comfortable harness for the back of your foot to help you feel fresh during games."
+                ],
+                "details": [
+                    "The shape of the sole in the heel is designed for optimal cushioning every time your heel strikes the court.",
+                    "The names of his mom, dad, brothers and son Liam are on the outsole.",
+                    "Shown: White",
+                    "Style: CZ4099-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                [
+                    {
+                        "id": 1,
+                        "name": "VicCash",
+                        "title": "Great cleats",
+                        "rating": 5,
+                        "comment": "I always purchase speed cleats by Nike. These are great and very comfortable.",
+                        "date": "Jul 17, 2022"
+                    },
+                    {
+                        "id": 2,
+                        "name": "14923538123",
+                        "title": "wowwww",
+                        "rating": 5,
+                        "comment": "Love this cleat by far the best I have ever worn… super comfortable! Light very good for grass! Especially for changing directions… light as well thank you nike",
+                        "date": "Jul 10, 2022"
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 40,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665388610/snicker-fever/36c62038-539a-43e3-bfab-c96a895f37f9_uiuf11.webp",
+            "name": "Nike Air Flight Lite Mid",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Take a trip down crossover lane with the Nike Air Flight Lite Mid, the '90s hoops shoe that ruled both the b-ball court and the big screen. Originally one of the lightest hoops shoes upon release, it's got allover perforations and velvety material for a little extra flash. The ultra-plush collar and Air cushioning keep it comfortable no matter where you go.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "University Red",
+                "Metallic Gold",
+                "Midnight Navy"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "BRAGGING RIGHTS.",
+                "description": "Take a trip down crossover lane with the Nike Air Flight Lite Mid, the '90s hoops shoe that ruled both the b-ball court and the big screen. Originally one of the lightest hoops shoes upon release, it's got allover perforations and velvety material for a little extra flash. The ultra-plush collar and Air cushioning keep it comfortable no matter where you go.",
+                "benefits": [
+                    "Velvety leather on the upper adds a premium touch that's easy to style.",
+                    "Allover perforations keep it lightweight, airy, and comfortable.",
+                    "Originally designed for performance hoops, Nike Air cushioning delivers comfort.",
+                    "Pillowy padding around the ankle delivers comfort.",
+                    "Durable plastic accents on the eyestays combine with a futurized Swoosh for a throwback hoops look."
+                ],
+                "details": [
+                    "Foam in the midsole",
+                    "Rubber outsole",
+                    "Liner features all-over graphic that spills over the collar",
+                    "Shown: White",
+                    "Style: DJ2518-102"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "DavidS899442973",
+                    "title": "Nostalgia galore",
+                    "rating": 5,
+                    "comment": "I bought these shoes out of pure nostalgia from my senior year of high school! I'm all nostalgic and what not!!",
+                    "date": "Jul 31, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "L U",
+                    "title": "We waited 30 years….for these? Mid.",
+                    "rating": 3,
+                    "comment": "I waited 30 years for my first pair of Nike Air Flight Lites and overall I was a bit bummed out at the quality of leather used on these shoes. The shape is a little wonky as well. They are comfy and I love the colorway as I was a big Pippen fan. I thought the box could have been a bit nicer as this was a PE that never released.",
+                    "date": "Jan 25, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Awesome Service",
+                    "title": "Gin Ann",
+                    "rating": 3,
+                    "comment": "Good Shoe. Fast shipping. Great customer service and easy ordering online.",
+                    "date": "Dec 22, 2021"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665388610/snicker-fever/2bec9220-d125-489c-a5e5-eef3ac8d294a_vxcfyi.webp",
+            "name": "Air Jordan 9 Retro",
+            "category": "shoe",
+            "price": 200,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "First released when Michael Jordan was out of the game and playing baseball, the Air Jordan 9 tells an international basketball story that reflects his global popularity. The Air Jordan 9 Retro recaptures the magic of the original, with the iconic outsole covered in graphics and phrases that speak to MJ's values and character on and off the court.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Particle Grey",
+                "White",
+                "University Red"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "MJ INTERNATIONAL.",
+                "description": "First released when Michael Jordan was out of the game and playing baseball, the Air Jordan 9 tells an international basketball story that reflects his global popularity. The Air Jordan 9 Retro recaptures the magic of the original, with the iconic outsole covered in graphics and phrases that speak to MJ's values and character on and off the court.",
+                "benefits": [
+                    "Real and synthetic leather and textile materials offer lightweight durability and support with a premium look and feel.",
+                    "Encapsulated Air-Sole units under the heel and forefoot provide lightweight cushioning."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: CT8019-060"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Robert1969",
+                    "title": "Satisfied Customer",
+                    "rating": 5,
+                    "comment": "Great looking shoe. I’m very proud of the product and service that I received.",
+                    "date": "Nov 28, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "Playgurl",
+                    "title": "Freshest Jordans Black, Yellow, and Grey Retro 9's",
+                    "rating": 5,
+                    "comment": "I wore my Freshest Jordans to purchase My 2021 SlingShot SL.",
+                    "date": "Oct 19, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "Kayk513",
+                    "title": "Great!",
+                    "rating": 5,
+                    "comment": "They are Comfortable, true to size, worth the price.",
+                    "date": "Sep 27, 2021"
+                }
+            ]
         }
     ]
 }
