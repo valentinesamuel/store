@@ -4345,13 +4345,13 @@
         },
         {
             "id": 63,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665513406/snicker-fever/59873d2e-3816-402a-a666-bf3fa58ff41a_uexbw4.webp",
-            "name": "Nike Air Max 2021",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665515574/snicker-fever/d00ddbeb-4cfe-46a0-bb37-67b169d58c49_xwq9tr.webp",
+            "name": "Nike React Escape Run",
             "category": "shoe",
-            "price": 160,
+            "price": 100,
             "isAccessory": false,
             "accessoryType": null,
-            "description": "We could use a lot of superlatives to describe the Nike Air Max 2021. We could tell you that we’ve incorporated recycled materials to design a sneaker with at least 20% recycled content. Or the new Air cushioning unit underfoot is our most revolutionary. Perhaps we’d call it the \"the pinnacle of comfort,\" waxing poetic about the cored-out foam midsole that gives you the lightest, softest feel. But maybe we just say it's modern meets technical with a splash of heritage DNA. What fun is giving away the surprises?",
+            "description": "Run the city streets in a design tailored to support women with a wider collar and cushioned foam for a soft, responsive feel. Escape the daily routine and reconnect with yourself through your miles and a design inspired by your cozy winter favorites.",
             "sizes": [
                 "Medium",
                 "Large",
@@ -4361,10 +4361,10 @@
             "age": "adult",
             "kidAge": null,
             "colors": [
-                "Phantom",
-                "Archaeo Pink",
-                "Light Bone",
-                "Thunder Blue"
+                "Vast Grey",
+                "Summit White",
+                "White",
+                "Pink Glaze"
             ],
             "brand": "nike",
             "activities": [
@@ -4377,55 +4377,777 @@
             "sport": [
                 "LifeStyle",
                 "Walking",
+                "Running",
                 "Gym"
             ],
             "productDetail": {
-                "title": "THE FUTURE OF AIR IS HERE.",
-                "description": "We could use a lot of superlatives to describe the Nike Air Max 2021. We could tell you that we’ve incorporated recycled materials to design a sneaker with at least 20% recycled content. Or the new Air cushioning unit underfoot is our most revolutionary. Perhaps we’d call it the \"the pinnacle of comfort,\" waxing poetic about the cored-out foam midsole that gives you the lightest, softest feel. But maybe we just say it's modern meets technical with a splash of heritage DNA. What fun is giving away the surprises?",
+                "title": "THE VERSATILE CITY RUNNER.",
+                "description": "Run the city streets in a design tailored to support women with a wider collar and cushioned foam for a soft, responsive feel. Escape the daily routine and reconnect with yourself through your miles and a design inspired by your cozy winter favorites.",
                 "benefits": [
-                    "Revolutionary Comfort <br/>The dual-pressure Air-sole unit works in unison with a collapsable cage, delivering a brand new level of comfort whether you're walking 5 miles or to the corner store.",
-                    "Modern Details <br/>The upper includes engineered mesh, woven textile and no-sew skins for a sleek style that's durable, lightweight, and airy.",
-                    "Lightweight Cushioning <br/>The foam midsole is split into 2 sections and cored out (like a honeycomb) for lightweight cushioning that lasts."
+                    "Designed For the Female Runner <br/>The wider collar opening is made for your ankle. Studies have shown that the female ankle is, on average, 4–5mm more forward on the foot compared to a male's ankle. With this in mind, the shoe helps serve your needs with a cushioned collar built for the shape of your foot.",
+                    "Cushioned Steps <br/>The midsole uses lightweight Nike React foam for a responsive, durable ride. Higher foam heights give a smooth sensation for comfort with every step.",
+                    "Run the City <br/>This shoe is ideal for running in the city. Multidirectional traction helps provide stability for any surprises you may encounter on your route. The tough rubber outsole was built for the rigors of the pavement.",
+                    "The Fresh Look of Running <br/>Embroidered and reflective elements create a premium construction that's made for your entire day—from work to workouts. Touch points at the collar and the tongue provide a familiar feel as you slide your foot into the shoe."
                 ],
                 "details": [
-                    "Padded, low-cut collar looks sleek and feels great.",
-                    "Webbing details pair with floating eyestays for a fresh look that's quick to adjust.",
-                    "Overlays on the sides and heel add durability and depth.",
-                    "Webbing pull tabs",
-                    "Round laces",
-                    "Full-length rubber outsole",
-                    "Shown: Phantom",
-                    "Style: DC9478-001"
+                    "Mesh throughout the upper helps enhance ventilation.",
+                    "The laces connect to a midfoot band for a secure fit.",
+                    "A pull tab at the tongue for easy on and off.",
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Vast Grey",
+                    "Style: CV3817-003"
                 ],
-                "moreDetails": [
-                    "Nike Air Max Origins",
-                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
-                ]
+                "moreDetails": null
             },
             "reviews": [
                 {
                     "id": 1,
-                    "name": "AngelicaG",
-                    "title": "Magical Shoes",
+                    "name": "ChrisV85240301",
+                    "title": "Love This Shoe",
                     "rating": 5,
-                    "comment": "I love them , This is my first Nike , always had different brands , I look for comfort , and I decided to adventure and go on line and just buy them , this shoes are just magical , I was impressed by the comfort and they look sooo Beautiful on me",
-                    "date": "Jun 25, 2022"
+                    "comment": "I just received my shoes and I am now buying in another color. I love them. They have great cushion, but they don't feel overly heavy. I have very high arches and am a neutral runner. I would absolutely recommend for anyone with similar characteristics.",
+                    "date": "Jul 02, 2022"
                 },
                 {
                     "id": 2,
-                    "name": "julianal",
-                    "title": "My shoes looks very bad, with a yellow color",
+                    "name": "AmrinK",
+                    "title": "My favorite running shoe",
                     "rating": 2,
-                    "comment": "I Bought my shoes two weeks ago and immediately I noticed that a yellow color in the front of the shoes, the quality is not good and is not easy clean it. I feel very sad with this purchase beacuse my shoes look old using them per two weeks",
-                    "date": "Jun 21, 2022"
+                    "comment": "I love this line! I have two pairs and find they are very cushy and springy for running on pavement. They have good ankle support too. I have a pair in 6.5 for shorter runs and 7 for longer runs. I would size up if in between sizes.",
+                    "date": "May 17, 2022"
                 },
                 {
                     "id": 3,
-                    "name": "JameyK",
-                    "title": "One of my favorite pairs of Nike’s ever!",
+                    "name": "Jasmine G.",
+                    "title": "It's alright",
+                    "rating": 3,
+                    "comment": "As a fan of the Pegasus line, I found this shoe to be very average. I did not think that it was extraordinary or anything but I did note that it was thicker than most other Nike shoes which I suppose provides slightly more comfort than other running shoes. I bought these shoes for nursing school since I needed comfortable white shoes. I did not want to buy the Pegasus line in white since I do not plan to use it past school since I do not like white shoes. Nonetheless, this shoe was definitely not fully white, but more of an eggshell off colored white. While I personally just need to fulfil dress code requirements, this did bother me as the pictures make the shoe look blinding white. Also, the side details appear to be mesh since you can see the sock color I wear through it. It is not completely see-through, but it does show the color of the sock. The shoe overall gives good stability for your foot and is comfortable to walk around it but does not feel entirely different to the Pegasus line in terms of long-wear comfort. The size it just right as my foot is a 7.5 and I gambled and ordered 7.5 and have no issues with it. If you want more toe room and wear thicker socks then it might be a good idea to size up a half size but otherwise, I find that it had correct sizing. Overall, not a bad shoe, just not the \"I'm walking on clouds\" feeling everyone else is describing.",
+                    "date": "Dec 06, 2021"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665516022/snicker-fever/bb84a86f-1ba6-4f47-9b8e-5139bc42465f_eikycv.webp",
+            "name": "Nike Air Zoom Pegasus 39 Shield",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Your workhorse with wings returns to help you push through the rain. A water-repellent finish helps keep you dry while a cozy fleece-like feel on the inside helps keep your feet warm for nasty-weather runs. Rugged traction and 2 Zoom Air units provide grip and soft cushioning, so you can power through the elements.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Off Noir",
+                "Dark Smoke Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Running",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "THE VERSATILE CITY RUNNER.",
+                "description": "Your workhorse with wings returns to help you push through the rain. A water-repellent finish helps keep you dry while a cozy fleece-like feel on the inside helps keep your feet warm for nasty-weather runs. Rugged traction and 2 Zoom Air units provide grip and soft cushioning, so you can power through the elements.",
+                "benefits": [
+                    "Warmth for Your Feet <br/>Like a warm jacket for your feet, knit material in the upper helps keep your feet warm. Skins placed around the toes—in areas where water can seep in—help to keep you dry. Insulation in the back of the tongue helps your feet stay warm and comfortable.",
+                    "Dry Design <br/>A water-repellent finish and gusseted tongue work together to help keep your feet dry. Heathered lining in the collar helps keep your ankle warm and dry.",
+                    "Rain-Ready Traction <br/>The Storm-Tread outsole provides traction in wet weather. It has textures inspired by winter tires. Micro grooves grab the road, while multidirectional shapes help shed water for direct contact with the pavement.",
+                    "Smooth Transition <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. We paired it with 2 Zoom Air units (at the forefoot and heel) for an energized feel at toe-off. The result is a smooth transition from heel to toe."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: DO7626-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 65,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665516332/snicker-fever/29f3feae-0125-4610-9fec-46193719b051_eyzn0a.webp",
+            "name": "Nike React Pegasus Trail 4",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Your trusted workhorse with wings is ready for an off-road journey.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Arctic Orange",
+                "Light Madder Root",
+                "Purple Pulse",
+                "Magic Ember"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Running",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "ENERGIZED FROM ROAD TO TRAIL.",
+                "description": "Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Your trusted workhorse with wings is ready for an off-road journey.",
+                "benefits": [
+                    "Light, Yet Tough <br/>Runner-informed data was used to create and place engineered mesh throughout the upper for a sturdy and breathable feel. We placed an extra skin overlay across the toes for durability.",
+                    "Supportive Steps <br/>Flywire technology is integrated with a midfoot band for total support that helps keep your feet in place.",
+                    "Energized Movement <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride.",
+                    "Grip While You Rip <br/>The rubber outsole has a generative traction pattern, created using data from runners like you. It provides grip in key areas to help you stay upright and stable over rocky trails, while also maintaining a smooth ride on the road."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Rubber from the outsole wraps up onto the forefoot for extra durability.",
+                    "Shown: Arctic Orange",
+                    "Style: DJ6159-800"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 66,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665516563/snicker-fever/758eda98-90eb-494d-8b63-b877dd9c7337_oekcco.webp",
+            "name": "Nike Air Zoom Pegasus 39",
+            "category": "shoe",
+            "price": 135,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "Off Noir",
+                "Light Thistle",
+                "Yellow Ochre"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "ENERGIZED FOR MILES.",
+                "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+                "benefits": [
+                    "Total Comfort <br/>Extra padding at the tongue and collar helps keep you foot feeling comfortable. We also placed engineered mesh—which is stronger and more flexible than regular mesh—throughout the top for lightweight breathability.",
+                    "Supportive Steps <br/>Flywire technology is integrated with a midfoot band for total support that helps keep your feet in place.",
+                    "Snap, Run and Pop <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. We paired it with an Air Zoom unit at the forefoot and heel for an energized feel.",
+                    "Smooth Transitions <br/>The heel shape is designed to maximize landing, helping you easily transition from heel to toe. We paired it with thick foam for a responsive ride.",
+                    "Tongue is separated from the upper to give room for different feet shapes.",
+                    "Waffle-inspired outsole gives you excellent traction.",
+                    "Grooves on the rubber sole allow for natural motion."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: DH4072-004"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Natalie K.",
+                    "title": "Add It to the Lineup!",
                     "rating": 5,
-                    "comment": "These are some of the most comfortable and cute shoes I’ve ever had! I bought them and another pair of Nike’s to wear to work and look fresh with my business casual attire. Definitely fresh! And so sooo comfortable! Love them!",
-                    "date": "May 27, 2022"
+                    "comment": "As someone who typically needs more cushion and support in a running shoe, I was pleasantly surprised by the Pegasus 39. The shoe provides an overall secure fit, especially through the midfoot area. It has a nice balance of a comfortable feel and a snappy response that I know can help me whenever I want to pick up the pace. Overall, I'm excited to add this shoe to my lineup!",
+                    "date": "Aug 04, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Lauren M.",
+                    "title": "My New Favorite Trainer",
+                    "rating": 5,
+                    "comment": "From the first put-on, I knew this shoe was a winner. Upon lacing up, you're met with instant comfort cues and feel locked into a secure, cushioned fit. Then we get to the ride, which is the perfect blend of springy, responsive and smooth. The entire run feels consistent whether I'm trying to push the pace of take it easy. I've even climbed a 12k foot mountain in them and they withstood the test of durability and traction. All around, this shoe made me a Peg loyal fan.",
+                    "date": "Aug 03, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Brittany T.",
+                    "title": "The Workhorse With Wings",
+                    "rating": 5,
+                    "comment": "The Pegasus 39 has a lightweight feel with just the right amount of cushioning. I love that this model has the added air zoom unit! I feel like I have that underfoot support in all phases of my stride. My favorite thing about this shoe is the versatility! No matter what run I have that day (long run, easy run, or workout) the Pegasus 39 can handle it all. Overall the updates from the 38 to the 39 are amazing. I feel like that old school trusted Pegasus is back. This is my favorite running shoe within my line up!",
+                    "date": "Aug 01, 2022"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665517033/snicker-fever/7670a7ec-fce0-4fb5-a7c0-5c839fdf18e4_evbfsm.webp",
+            "name": "Nike Quest 5",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "You lace up in pursuit of new personal goals. Let the Nike Quest 5 help you reach those aspirations. This neutral trainer gives you a smooth, comfortable ride with plenty of traction. We focused on our foam, adding more cushioning for a better transition from heel to toe.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Rose",
+                "Pink Oxford",
+                "White",
+                "Rose Whisper"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "A LIGHTWEIGHT, NEUTRAL RIDE.",
+                "description": "You lace up in pursuit of new personal goals. Let the Nike Quest 5 help you reach those aspirations. This neutral trainer gives you a smooth, comfortable ride with plenty of traction. We focused on our foam, adding more cushioning for a better transition from heel to toe.",
+                "benefits": [
+                    "Cool, Light, Fast <br/>We used runner-informed data to create engineered mesh for a lightweight and breathable feel. The mesh was placed in key zones based on runner feedback, providing you with cooling where it counts.",
+                    "Lace Up, Support Up <br/>Feel the stability with the midfoot fitband. It works with your laces, keeping your foot more secure the tighter your laces are. A translucent material shows off the components at the midfoot.",
+                    "Run Hard with a Soft Feel <br/>Supersoft foam through the midsole helps cushion your foot with every step. The increased height means a softer sensation as you run.",
+                    "Traction for the Long Haul <br/>The rubber outsole has the traction to help keep your feet gripped to the pavement."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Supersoft padding and cushioning at the collar helps keep your ankle comfortable.",
+                    "Skins at the toes and eyelets offer durability.",
+                    "Shown: Barely Rose",
+                    "Style: DD9291-600"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Carrie",
+                    "title": "Cool shors",
+                    "rating": 5,
+                    "comment": "Daughter loved the shoes... Very comfortable",
+                    "date": "Sep 10, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Assirac",
+                    "title": "Runs big",
+                    "rating": 2,
+                    "comment": "It feels like these shoes run big. I've never had a shoe that slips so much in the heel. I tried the 8 and the 7.5 and they still slip. I am usually an 8 or 8.5.",
+                    "date": "Aug 22, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Brittany T.",
+                    "title": "Ok but noisy",
+                    "rating": 3,
+                    "comment": "The shoe itself is comfortable but after wearing them one time they started making a clicking noise when I walk. It sounds like there is an air bubble under the traction strip on the bottom of the shoe.",
+                    "date": "Aug 16, 2022"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665517342/snicker-fever/05222df4-3280-4804-bbfd-59647a3a988e_eaweqv.webp",
+            "name": "Nike Free Run 5.0 Next Nature",
+            "category": "shoe",
+            "price": 105,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Perfect for when you want it to be just you and your run. The Nike Free Run 5.0 Next Nature strips away what’s not essential, leaving you free to concentrate on your stride and the landscape around you. The breathable knit upper and low-cut design provide flexibility and stability while lightweight foam underfoot gives you the comfortable cushioning you need to power through your route.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Platinum Tint",
+                "Team Orange",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "A LIGHTWEIGHT, NEUTRAL RIDE.",
+                "description": "Perfect for when you want it to be just you and your run. The Nike Free Run 5.0 Next Nature strips away what’s not essential, leaving you free to concentrate on your stride and the landscape around you. The breathable knit upper and low-cut design provide flexibility and stability while lightweight foam underfoot gives you the comfortable cushioning you need to power through your route.",
+                "benefits": [
+                    "Low to the Terrain <br/>The lightweight, low-cut design provides stability and helps keep you low to the ground.",
+                    "Comfort Fit <br/>Breathable, stretchable yarn hugs the foot above the toes to provide a snug feel. The stretch extends to the midfoot so it's flexible when your foot enters the shoe.",
+                    "Natural Moves <br/>Grooves on the sole allow for flexibility to help you move freely. Plus, the sole is wider under the midfoot for better shaping through the arch and support in the forefoot and heel. Speckles on the outsole mean these are made with at least 13% Nike Grind material, or scraps from the footwear manufacturing process.",
+                    "Stay Contained <br/>Flywire technology loops through the laces on the side for midfoot containment."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Durable, lightweight foam helps cushion your foot as it hits the ground.",
+                    "Pull tab and stretchy integrated tongue create an easy-on, easy-off fit.",
+                    "Reflective details",
+                    "Shown: White",
+                    "Style: DZ5217-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 69,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665517618/snicker-fever/2e51f50e-5581-4106-acce-53a2d07d4fce_cvk2ab.webp",
+            "name": "Nike Air Zoom Pegasus FlyEase",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Iris Whisper",
+                "Light Madder Root",
+                "Summit White",
+                "Madder Root"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "ENERGIZED FOR MILES.",
+                "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights, whether you're training or jogging, with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+                "benefits": [
+                    "Total Comfort <br/>Extra padding at the tongue and collar helps keep you foot feeling comfortable. We also placed engineered mesh—which is stronger and more flexible than regular mesh—throughout the top for lightweight breathability.",
+                    "Supportive Steps <br/>Flywire technology is integrated with a midfoot band for total support that helps keep your feet in place.",
+                    "Snap, Run and Pop <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. We paired it with an Air Zoom unit at the forefoot and heel for an energized feel.",
+                    "Smooth Transitions <br/>The heel shape is designed to maximize landing, helping you easily transition from heel to toe. We paired it with thick foam for a responsive ride.",
+                    "Tongue is separated from the upper to give room for different feet shapes.",
+                    "We tuned the shoe for your foot, giving you a softer, more plush feel."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: DH4072-004"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "JoyA724187130",
+                    "title": "Doesn't look as good on, comfort is just okay",
+                    "rating": 3,
+                    "comment": "I hate tying laces so I usually buy the slip-on Flyknit shoes. I decided to try this style because I could customize the colors. That is my favorite part of the shoe and there was finally a nice, rich, neon orange available (vs the pale orange).The velcro style closure adds bulk which I don't like, but what really doesn't appeal to me is the way the top of the shoe lays after its fastened. The shape is odd and uncomfortable, and the center ribbon with my personalized text looks off-centered. Comfort is just okay, the slip-on flyknits have more cushioning. I'll stick to those. It would be great if those could be customized.",
+                    "date": "Sep 24, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "MissBJackson",
+                    "title": "Running on Clouds",
+                    "rating": 5,
+                    "comment": "If you are looking for a nice, comfortable, light weight running shoe, then the Zoom Pegasus Flyease are it. It really feels like you are running on clouds. The shoe runs sightly big, but once I but a thick sock on with them they fit fine. I love how the shoe doesn’t have shoestrings that you tie up, instead a velcro strap that keeps your foot tight and snugged in the shoe. You just put your foot in and go. I’m a sprinter, it felt so good running in them and not once did the strap loosen. Also, the sole of the shoe is very thick and gives you a little height. Although the sole of the shoe is thick the shoe is very light. Even if your not a runner I would recommend these shoes as a every day shoe because of the comfort.",
+                    "date": "Jul 01, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "E",
+                    "title": "Comfortable running shoes.",
+                    "rating": 4,
+                    "comment": "Ultra light weight and very comfortable for being Velcro shoes they don’t feel to tight or too lose.. The design is sleek and comfortable. I use them to work out and the plus is you don’t have to worry about your shoes being untied. The material is very breathable and it’s true to its size.",
+                    "date": "Jul 01, 2022"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665518391/snicker-fever/fe4f9c62-d3de-492d-b3d1-67e82c6500fc_ounhka.webp",
+            "name": "Nike Zoom Fly 4",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Take it to the streets and find your tempo. From the moment you lace up, the webbing on the lacing system wraps around your foot for a secure feel from start to finish. The added flex feels highly responsive and secure with every step. A soft, breathable upper combines with a stretchy collar for a sock-like fit and a secure, stable sensation. You've got goals to hit, lace up and fly towards a new best.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Lilac",
+                "Laser Blue",
+                "Team Orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "DURABLE SPEED MADE FOR PROPULSIVE TRAINING.",
+                "description": "Take it to the streets and find your tempo. From the moment you lace up, the webbing on the lacing system wraps around your foot for a secure feel from start to finish. The added flex feels highly responsive and secure with every step. A soft, breathable upper combines with a stretchy collar for a sock-like fit and a secure, stable sensation. You've got goals to hit, lace up and fly towards a new best.",
+                "benefits": [
+                    "Snug Fit <br/>Nike Flyknit is placed around the collar, providing extra stretch for easy on and off. It has a sock-like feel that helps contain your feet.",
+                    "Cooler Comfort <br/>Lightweight mesh gives you a softer, more breathable feel that conforms to your feet.",
+                    "Secure Feel <br/>Midfoot support arrives courtesy of 4 individual pieces of webbing that intertwine with the laces. When you lace up, the shoes get tighter for a stable sensation. Also, an internal heel pod delivers a more secure fit than the Zoom Fly 3.",
+                    "Propulsive Miles <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. It combines with an internal carbon fiber plate for better flexibility in your stride."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: White",
+                    "Style: CT2401-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "8248475833",
+                    "title": "Love the Zoom Fly 4!",
+                    "rating": 3,
+                    "comment": "My favorite shoes ever! So comfortable. Wear them running, walking and just because I love them. I think they are the perfect shoe. The Zoom Fly 3 was awesome but I think these are even more comfortable with absolutely the same great support. Very lightweight shoe. The carbon fiber plate works like magic. LOVE!",
+                    "date": "Mar 17, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "rosaraudales",
+                    "title": "Narrow, hard sole, good for walking.",
+                    "rating": 5,
+                    "comment": "I always use regular shoe size, but these shoes were narrow on the front. They were comfortable for walking, but not for running. They were a bit too hard on the sole.",
+                    "date": "Dec 23, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "Arielle",
+                    "title": "Super comfortable, versatile, and great looking!",
+                    "rating": 4,
+                    "comment": "The soles on these sneakers are super thick and comfortable! I found they really absorbed my steps and they felt extremely supportive. The color is a highlighter yellow with blue accents. I'm not usually a fan of very brightly colored shoes but I was really into these because the color fades out towards the toes and they were just really sharp looking. The laces are a good material, not too slippery so they stay put but easy on the fingers and sleek looking to fit with the rest of the shoes style. The material is lightweight, breathable, has a little give, no seams digging in and is overall very comfortable feeling. I have another style made out of this material and they've held up really well for a few years now so I anticipate these will do the same. They feel supportive enough for running or jogging but aren't too bulky for walking or casual wear. As for fit, unfortunately they run on the small side. I typically wear an women's 8 but sometimes need an 8.5 these days. I got the woman's 8 and they were a bit too tight for me to keep. I would definitely recommend choosing a size up if you're on the upper end of your usual size or between sizes. I have ever so slightly narrow width feet and found the toe space to be pretty average. I really enjoyed these sneakers and will definitely get them in a size up.",
+                    "date": "Dec 22, 2021"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665519274/snicker-fever/a21f227e-5801-426a-afc4-1848f9a895d9_jxanah.webp",
+            "name": "Nike React Phantom Run Flyknit 2",
+            "category": "shoe",
+            "price": 145,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Take a wild ride in the Nike React Phantom Run Flyknit 2. They're made with a laceless design and Flyknit technology for secured comfort. React foam works to help keep your step cushioned and comfortable during each stride as you step out in bright, bold confidence.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Platinum Tint",
+                "Hyper Pink",
+                "Chile Red",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "DURABLE SPEED MADE FOR PROPULSIVE TRAINING.",
+                "description": "Take a wild ride in the Nike React Phantom Run Flyknit 2. They're made with a laceless design and Flyknit technology for secured comfort. React foam works to help keep your step cushioned and comfortable during each stride as you step out in bright, bold confidence.",
+                "benefits": [
+                    "Snug Fit <br/>Nike Flyknit is placed around the collar, providing extra stretch for easy on and off. It has a sock-like feel that helps contain your feet.",
+                    "Cooler Comfort <br/>Lightweight mesh gives you a softer, more breathable feel that conforms to your feet.",
+                    "Secure Feel <br/>Midfoot support arrives courtesy of 4 individual pieces of webbing that intertwine with the laces. When you lace up, the shoes get tighter for a stable sensation. Also, an internal heel pod delivers a more secure fit than the Zoom Fly 3.",
+                    "Propulsive Miles <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. It combines with an internal carbon fiber plate for better flexibility in your stride."
+                ],
+                "details": [
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: White",
+                    "Style: DM8064-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "KetlimL793851914",
+                    "title": "LOVE IT",
+                    "rating": 5,
+                    "comment": "I'm in love with the shoes, they are amazing beautiful and super comfortable. I bought on the Nike website and they arrived very fast after I did order it.",
+                    "date": "Mar 10, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Cartwright11",
+                    "title": "My favorite shoes by far!",
+                    "rating": 5,
+                    "comment": "I love love love these shoes! I now have my 3rd pair! They are so light and comfortable! I wear them for working out and they feel great!",
+                    "date": "Jan 31, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "ShakilaR920618619",
+                    "title": "Nike Phatom Is a must have in every gals wardrobe",
+                    "rating": 5,
+                    "comment": "Purchased this Nike React Phantom in a size 7.5 @ Nike. Com I am in love . Easy to skip on and off without the fuss o the shoe laces 👟 I go for my walks in the woods .. Enough support , But I do add on an additional arch support to make it easy on my knees Do my errands in them and it feels simply awesome . Thanks Nike Namaste 🙏🏻",
+                    "date": "Nov 25, 2021"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665519820/snicker-fever/222f5d98-bfaa-4e12-9d6c-d240757c3b9a_e1zdse.webp",
+            "name": "Nike Air Zoom Alphafly NEXT% Flyknit",
+            "category": "shoe",
+            "price": 275,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Gear up for your next personal best with the Nike Air Zoom Alphafly NEXT% Flyknit. Responsive foam and 2 Zoom Air units combine to push your running game forward for your next marathon or road race.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Hyper Violet",
+                "Flash Crimson",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "BUILT FASTER TO BREAK BARRIERS.",
+                "description": "Gear up for your next personal best with the Nike Air Zoom Alphafly NEXT% Flyknit. Responsive foam and 2 Zoom Air units combine to push your running game forward for your next marathon or road race.",
+                "benefits": [
+                    "Fast and Efficient <br/>Nike ZoomX foam is incredibly responsive and lightweight, giving you optimal energy return and impact protection for your miles. It combines with 2 slim, visible Zoom Air units, delivering the most energy return of all our racing shoes.",
+                    "A Snappy Stride <br/>A full-length carbon fiber plate provides a snappy sensation with each step.",
+                    "Lightweight and Consistent <br/>Introducing the latest version of FlyKnit—AtomKnit. Flyknit fabric is steamed and stretched, delivering a lightweight, contoured fit with minimal water absorption and enhanced breathability.",
+                    "Grip Where You Need It <br/>The outsole was created using data from hundreds of runners. That data helped inform the design, with different angles of traction placed where you need it. This helps provide grip from toe-off through every phase of your stride.",
+                    "More cushioning helps make each step feels soft and plush, keeping you comfortable through the later miles of your race.",
+                    "An integrated tongue provides a consistent fit with comfortable lace-up."
+                ],
+                "details": [
+                    "Weight: 7.4oz/210g (Women’s size 10)",
+                    "Offset: 4mm (Forefoot: 35mm, Heel: 39mm)",
+                    "The stack heights and materials in the shoe adhere to the guidelines set by World Athletics.",
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Hyper Violet",
+                    "Style: CZ1514-501"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "BruceH828074670",
+                    "title": "so disappointed",
+                    "rating": 1,
+                    "comment": "I have had quite a few pairs of Nike running shoes. Got these for a half marathon next week. So incredibly disappointed. I cannot run in these as my feet are swimming in the toe box. These are awful!!! My feet are killing me. I am really screwed for the race next weekend - wish my tiger striped Vaporflys weren't so banged up.",
+                    "date": "Sep 24, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "c9ff51c1-dc3c-4ccb-8a5b-2c01184effde",
+                    "title": "Almost Perfect",
+                    "rating": 4,
+                    "comment": "I am a size 5.5 women’s with a very high instep. My foot is wide but my heels are narrow. I have a difficult time finding running shoes that don’t slip in the heel and/or have good arch support. I have at least 5 pair of Nikes that sit in my closet, rarely worn. Enter the Nike Air Zoom Alphafly Flyknit! Holy moly these feel amazing! They have a heel no-slip pad and amazing support. I want to wear them all the time! I don’t like the color combination though - wish the mid-sole was black instead of white. It’s distracting. Because my arch is so high, it’s a challenge putting these on. I need a shoe horn. But once they are on … perfect fit.",
+                    "date": "Jan 31, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "YudeivysA",
+                    "title": "Nike Phatom Is a must have in every gals wardrobe",
+                    "rating": 3,
+                    "comment": "About 20 days ago I bought these shoes and they already have a part unglued, it's incredible !!!!",
+                    "date": "Aug 27, 2022"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665520472/snicker-fever/71791182-3205-423e-8cf3-c6492f608534_h17dig.webp",
+            "name": "Nike Escape Run Flyknit",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The streets are your playground. Enjoy all they have to offer in the Nike Escape Run Flyknit. Hit the ground running with Nike React foam for a responsive, durable ride. Stretchy, secure materials, plus plush foam underfoot give comfort that keeps the pace. Busy sidewalks are no problems with multidirectional traction that helps provide stability for unexpected obstacles. Lace up, it's time to escape.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Green",
+                "Football Grey",
+                "Pure Platinum",
+                "Kumquat"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "THE VERSATILE CITY RUNNER RETURNS.",
+                "description": "The streets are your playground. Enjoy all they have to offer in the Nike Escape Run Flyknit. Hit the ground running with Nike React foam for a responsive, durable ride. Stretchy, secure materials, plus plush foam underfoot give comfort that keeps the pace. Busy sidewalks are no problems with multidirectional traction that helps provide stability for unexpected obstacles. Lace up, it's time to escape.",
+                "benefits": [
+                    "Supportive Stretch <br/>We added Flyknit through the upper for soft, durable stretch. Additional foam lining on the heel provides a soft sensation.",
+                    "Made For You <br/>A full-length carbon fiber plate provides a snappy sensation with each step.",
+                    "Cushioned Steps <br/>The midsole uses lightweight Nike React foam for a responsive, durable ride. Higher foam heights give a smooth sensation for comfort with every step.",
+                    "Run the City <br/>This shoe is ideal for running in the city. Multidirectional traction helps provide stability for any surprises you may encounter on your route. The tough rubber outsole was built for the rigors of the pavement.",
+                    "The Fresh Look of Running <br/>Embroidered and reflective elements create a premium construction that's made for your entire day—from work to workouts. Touch points at the collar and the tongue provide a familiar feel as you slide your foot into the shoe."
+                    
+                ],
+                "details": [
+                    "A pull tab at the tongue and heel for easy on and off.",
+                    "Shown: Barely Green",
+                    "Style: DC4269-300"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Sarah",
+                    "title": "Very Comfortable and Cute!",
+                    "rating": 5,
+                    "comment": "I rarely write reviews but these are honestly the comfiest shoes I’ve ever purchased. I’m on my feet 8+ hours a day for work and my feet aren’t aching at the end of the day like they were before these shoes! I was a bit hesitant since I couldn’t find any reviews online but I’m SO happy I went with these after seeing and trying them on. They are true to size, seem durable/ well made and I love how they look on!",
+                    "date": "Jun 26, 2022"
                 }
             ]
         }
