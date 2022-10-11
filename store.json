@@ -5131,7 +5131,6 @@
                     "Cushioned Steps <br/>The midsole uses lightweight Nike React foam for a responsive, durable ride. Higher foam heights give a smooth sensation for comfort with every step.",
                     "Run the City <br/>This shoe is ideal for running in the city. Multidirectional traction helps provide stability for any surprises you may encounter on your route. The tough rubber outsole was built for the rigors of the pavement.",
                     "The Fresh Look of Running <br/>Embroidered and reflective elements create a premium construction that's made for your entire day—from work to workouts. Touch points at the collar and the tongue provide a familiar feel as you slide your foot into the shoe."
-                    
                 ],
                 "details": [
                     "A pull tab at the tongue and heel for easy on and off.",
@@ -5148,6 +5147,579 @@
                     "rating": 5,
                     "comment": "I rarely write reviews but these are honestly the comfiest shoes I’ve ever purchased. I’m on my feet 8+ hours a day for work and my feet aren’t aching at the end of the day like they were before these shoes! I was a bit hesitant since I couldn’t find any reviews online but I’m SO happy I went with these after seeing and trying them on. They are true to size, seem durable/ well made and I love how they look on!",
                     "date": "Jun 26, 2022"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665520955/snicker-fever/6a7b065e-54b4-4cd3-8246-88511ef9d717_teznno.webp",
+            "name": "Nike Escape Run Flyknit",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Air Zoom Terra Kiger 8 keeps it light and tight. It's a no-frills shoe built with only what you need, for a secure fit and feel. We made it to help keep your foot in place, so you stay agile and upright over uneven terrain. Plus, it's got the soft cushioning and responsive feel that gives you a little extra spring with every step. So strap in and get ready to run through the mud and with the trail",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Orange Trance",
+                "Mint Foam",
+                "Mineral Slate",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "TRAIL LIGHT AND SECURE.",
+                "description": "The Nike Air Zoom Terra Kiger 8 keeps it light and tight. It's a no-frills shoe built with only what you need, for a secure fit and feel. We made it to help keep your foot in place, so you stay agile and upright over uneven terrain. Plus, it's got the soft cushioning and responsive feel that gives you a little extra spring with every step. So strap in and get ready to run through the mud and with the trail",
+                "benefits": [
+                    "Supportive Stretch <br/>We added Flyknit through the upper for soft, durable stretch. Additional foam lining on the heel provides a soft sensation.",
+                    "Less Dirt, Better Cool <br/>A lightweight, breathable mesh at the upper feels cool and secure. It's fully lined to keep debris out.",
+                    "Lock-In and Go <br/>The heel is designed to lock in place, keeping your foot secure and moving with the shoe. It results in more agility over rocky terrain.",
+                    "Gripped Tread <br/>Multidirectional traction lugs in the heel are made from high-abrasion rubber. They help provide enhanced grip on descents and ascents.",
+                    "Smooth and Springy <br/>Nike React technology is a lightweight and durable foam that delivers a responsive ride. A Zoom Air unit in the forefoot provides extra responsiveness, returning your energy to help guide you down the trail."
+                ],
+                "details": [
+                    "Rock plate helps shield your foot on rough terrain.",
+                    "Skins at the toe provide abrasion resistance.",
+                    "Padded tongue helps relieve pressure caused by foot swelling over long runs.",
+                    "Shown: Orange Trance",
+                    "Style: DH0654-801"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "3969b6ba-daea-4185-aff9-5d6c7bfd23a6",
+                    "title": "bad",
+                    "rating": 1,
+                    "comment": "They felt ok trying them on, but I had horrible foot and knee pain after just a 20 minute hike. They feel unstable, it felt like they were collapsing under the outer edge of my foot and with that straining my knees.",
+                    "date": "Sep 19, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "3032964645",
+                    "title": "Love them!!!",
+                    "rating": 5,
+                    "comment": "My first trail running shoes and these are superb. Wow. So light, like a glove, and love back heal cushion support. At first I thought front toe box area didn’t have lots of space but it does. Just perfect and colors are what I wanted. Gorgeous. So comfy and I think it will be my favorite daily kicks. I always wear 8 men and 9 1/2 women. True to size. I highly recommend them. It arrived fast as usual and looks like from our local Miami store. I didn’t even have to take a drive. It arrived next day. Also the day it shipped these went down 20% and Nike price adjusted as usual due to their amazing policy and customer service.",
+                    "date": "Jun 08, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "2a9483cf-604d-4892-8f4e-11d0f210a693",
+                    "title": "Best Version of the Terra Kiger Yet!",
+                    "rating": 5,
+                    "comment": "I’ve been a Terra Kiger fan girl since the TK6 in 2020 when I started running trails seriously. This version is my favorite yet! I have about 75 miles on my current pair but I can tell the uppers are already more durable than the TK6 and TK7. I run on a lot of sandy trails and these keep the sand out better than my old pairs. The traction is also much improved for rocky terrain. I love these shoes for hill repeats and even long trail runs (I’ve done up to 13 miles so far). I just wish there were more colors available!",
+                    "date": "May 11, 2022"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665521402/snicker-fever/a6c4cd4e-a620-498e-b9c7-0f078501a896_i7zkoj.webp",
+            "name": "Nike React Pegasus Trail 4 GORE-TEX",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike React Pegasus Trail 4 GORE-TEX is made for those moments when you don't want to turn back, no matter what. Feel confident even in the most unforeseen weather conditions with waterproof GORE-TEX keeping you dry, so you can run harder for longer and take your wet run from the road to the trail without breaking stride. A waterproof layer paired with a higher ankle gaiter gives you extra coverage so you stay dry.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Reflect Silver",
+                "Wolf Grey",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "TRAIL-READY RESPONSIVENESS FOR WET WEATHER.",
+                "description": "The Nike React Pegasus Trail 4 GORE-TEX is made for those moments when you don't want to turn back, no matter what. Feel confident even in the most unforeseen weather conditions with waterproof GORE-TEX keeping you dry, so you can run harder for longer and take your wet run from the road to the trail without breaking stride. A waterproof layer paired with a higher ankle gaiter gives you extra coverage so you stay dry.",
+                "benefits": [
+                    "Storm Ahead <br/>A GORE-TEX layer helps keep out water so your feet stay dry. The all-new gaiter at the collar is higher to help keep extra debris and water from getting inside your shoe. GORE-TEX's invisible fit along the upper provides protection from precipitation without sacrificing that comfortable feel of the Peg Trail. Its flexible, lightweight design keeps your foot dry when running between the wet roads and trails.",
+                    "Smooth and Stable <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, responsive ride. Its full-length design provides stability as you brave rocky terrain.",
+                    "Traction In All Directions <br/>Less rubber along the outsole creates a smoother transition from road to trail. The rubber wraps around the front of the shoe for extra durability. Its generative traction pattern combined with rubber nubs gives you grip when going uphill or downhill. A generative traction pattern combined with rubber provides extra grip for technical trails while maintaining a smooth ride for the road."
+                ],
+                "details": [
+                    "Pull loops at heel and tongue",
+                    "Not intended for use as Personal Protective Equipment (PPE)",
+                    "Shown: Black",
+                    "Style: DJ7929-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Choffee",
+                    "title": "love",
+                    "rating": 5,
+                    "comment": "Best shoe ever. I wear it mostly for hiking. I love it.",
+                    "date": "Oct 09, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Madeleine5781927",
+                    "title": "Not waterproof or even water resistant",
+                    "rating": 1,
+                    "comment": "Don’t often write reviews but my pair just wasn’t waterproof. Shame, everything else was great - delivery/customer service/fit/style….but I’d bought specifically for the gortex feature and after a brief time in wet grass - wet toes.",
+                    "date": "Oct 03, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "IslandG1rl",
+                    "title": "Comfortable, Lightweight",
+                    "rating": 5,
+                    "comment": "Soles provide amazing comfort. Nice color and very lightweight. Have not tried the shoes outside in the rain but it has gore-Tex so it’s suppose to be waterproof. Overall am so happy I purchased this pair of shoe.",
+                    "date": "Sep 17, 2022"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665522497/snicker-fever/ee91e609-26e1-43e5-89c5-7b5ec9a27b1c_mi7xsb.webp",
+            "name": "Nike Zoom Rival S 9",
+            "category": "shoe",
+            "price": 65,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Zoom Rival S 9 offers a light feel, a snug fit, and a construction that's built for smooth transitions. Designed with the sprinter in mind, it's ideal for events ranging from 60m to 400m, including hurdle events and the long jump.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Obsidian",
+                "Clear Emerald",
+                "Wild Berry",
+                "Metallic Silver"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "LIGHTWEIGHT LOCKDOWN.",
+                "description": "The Nike Zoom Rival S 9 offers a light feel, a snug fit, and a construction that's built for smooth transitions. Designed with the sprinter in mind, it's ideal for events ranging from 60m to 400m, including hurdle events and the long jump.",
+                "benefits": [
+                    "Internal arch band wraps your foot for a secure fit.",
+                    "3/4-length bootie helps reduce layers and weight.",
+                    "Updated plate design provides optimal traction and transitions.",
+                    "Synthetic overlays throughout the midfoot and heel for durability.",
+                    "Sockliner is designed to conform to the shape of your foot for comfort and underfoot support.",
+                    "Solid rubber throughout the heel has an updated traction pattern for durability.",
+                    "7 removable spike pins made of aluminum deliver optimal grip."
+                ],
+                "details": [
+                    "Shown: Obsidian",
+                    "Style: 907564-406"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Track mom",
+                    "title": "Shoe Review",
+                    "rating": 5,
+                    "comment": "[This review was collected as part of a promotion.] Good shoe. Comfortable. Daughter liked it. No complaints!",
+                    "date": "Jul 10, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "Nastasia",
+                    "title": "Awesome Sauce",
+                    "rating": 5,
+                    "comment": "Great pair of spikes, super comfy and great price. Thanks Hibbets",
+                    "date": "Jun 28, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "TW11",
+                    "title": "Happy customer!",
+                    "rating": 5,
+                    "comment": "[This review was collected as part of a promotion.] A+! Great price and super fast shipping! Happy customer here!",
+                    "date": "Jun 15, 2021"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665522849/snicker-fever/f8efe5c4-855f-4d47-a9aa-2947afda295c_feswaz.webp",
+            "name": "Nike Pole Vault Elite",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Pole Vault Elite is designed for training and competition. Its durable, lightweight upper includes a stretchy inner sleeve, breathable mesh and adjustable straps for a secure fit.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Volt",
+                "Black",
+                "Dynamic Turquoisey",
+                "Hyper Orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "LIGHTWEIGHT LOCKDOWN.",
+                "description": "The Nike Pole Vault Elite is designed for training and competition. Its durable, lightweight upper includes a stretchy inner sleeve, breathable mesh and adjustable straps for a secure fit.",
+                "benefits": [
+                    "Lightweight inner sleeve for a snug, secure fit.",
+                    "Adjustable midfoot and heel straps let you customize your fit.",
+                    "Foam midsole gives you lightweight cushioning.",
+                    "External heel counter for rear foot stability.",
+                    "Extended Pebax® plate provides lightweight responsiveness that is designed for speed and take off.",
+                    "6 removable spikes and aggressive secondary traction elements increase grip in varied weather conditions.",
+                    "Minimal heel-to-toe offset enables effective posture and enhances stability at foot plant.",
+                    "Mesh inner sleeve",
+                    "Synthetic overlays with minimal seams",
+                    "World Athletics approved"
+                ],
+                "details": [
+                    "Shown: Barely Volt",
+                    "Style: AA1204-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Ishi",
+                    "title": "Average shoes",
+                    "rating": 3,
+                    "comment": "Going by Nike brand, I was a bit disappointed wearing these shoes. They just do not fit right. They run a size small so I would suggest going up a size if you really want them to fit comfortably. I like the overall look of these shoes with fancy bright color. They come with spokes to give a good grip on ground which makes it easy to run. The best feature of these would be it comes with velcro strap to adjust shoe fitting.",
+                    "date": "Feb 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Chaz",
+                    "title": "Nike Pole Vault Elite Track & Field Jumping Spike",
+                    "rating": 5,
+                    "comment": "I love this shoe from Nike! The colors are great! The fit is perfect. The traction is just right. They are the lightest shoe I’ve ever worn! I like the strap that goes over the shoe laces to keep the laces from interfering with my pole vaulting. I wish they made this shoe in an everyday casual shoe, because I don’t want to take it off!",
+                    "date": "Feb 08, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Converse All-Star Tee",
+                    "title": "Excellent build, great fit, thoughtful design",
+                    "rating": 5,
+                    "comment": "For starters, these shoes are obviously for a very specific purpose - they'll be worn for short periods of time during practice or competition, and that's about it. Because of that, I had fairly low expectations when it came to comfort, build quality, and even in how event-specific these shoes would really be. These really exceeded my expectations in all of those areas. They're incredibly well built - high quality materials, bulletproof construction, and a great, snug fit. They fit true to size - I have average width 10.5 feet and these were perfect. I think the fit was enhanced by the velcro strap that goes across the top of your foot - it lets you get these to the perfect level of tightness without having to screw around with the laces too much. The shoe is also clearly designed for pole vaulting - from the rigidity of the sole to the placement of the spikes and the cushioning on the shoe. It makes me think these would last about as long as you'd like, especially given the limited usage. It's a minor gripe, but I wish the tool that you use to screw in the spikes was magnetic inside. The spikes are flattened on two sides so that the tool can get ahold of them, but if you don't line them up right then they fall out more easily than I'd like. If you're someone that would be taking the spikes on and off a lot then it could get annoying. Overall, no real complaints with these - 5 out of 5!",
+                    "date": "Feb 07, 2022"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665523157/snicker-fever/6d73bc49-ffbb-464f-b312-a65121dbb456_k5hn5d.webp",
+            "name": "Nike Air Zoom Victory More Uptempo",
+            "category": "shoe",
+            "price": 180,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Feel the support and stability as your quick burst of speed pushes you towards your personal best. On the Nike Air Zoom Victory More Uptempo, a snappy underfoot bounce helps propel you to the finish in runs from 800 to 5,000 meters. It's lightweight and breathable in all the right ways, with details inspired by the original Nike Air More Uptempo.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "University Red",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "SECURE RESPONSIVENESS FOR SHORT-DISTANCE RACES.",
+                "description": "Feel the support and stability as your quick burst of speed pushes you towards your personal best. On the Nike Air Zoom Victory More Uptempo, a snappy underfoot bounce helps propel you to the finish in runs from 800 to 5,000 meters. It's lightweight and breathable in all the right ways, with details inspired by the original Nike Air More Uptempo.",
+                "benefits": [
+                    "Lightweight and Breathable <br/>Part of the Flyknit family, Atomknit material on the upper has a contoured fit while being lightweight and super-breathable",
+                    "More Energy Return <br/>Nike ZoomX foam in the heel is incredibly responsive and lightweight, giving you optimal energy return and impact absorption for your miles. It combines with a Zoom Air unit, delivering efficient energy return with every step. A carbon fiber plate provides a snappy sensation with each step.",
+                    "Heritage Style <br/>Design details pay tribute to the original Nike Air More Uptempo.",
+                    "Data from hundreds of runners helped inform the outsole. Traction is placed in all areas of contact for grip from toe-off to finish.",
+                    "Shoelaces are notched so that they stay in place."
+                ],
+                "details": [
+                    "Fabric in upper",
+                    "Removable spikes",
+                    "Shown: White",
+                    "Style: DN6947-111"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "JuanM",
+                    "title": "Great shoes",
+                    "rating": 5,
+                    "comment": "Apart from their stunning looks, these spikes' performance does not run short;) They are incredibly light, yet encourage speed with their incredible support and springy step.",
+                    "date": "Apr 17, 2022"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665523495/snicker-fever/bdbb1029-4bfd-45e4-8694-b1fe13269b78_sqricr.webp",
+            "name": "Nike Triple Jump Elite 2",
+            "category": "shoe",
+            "price": 125,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Enjoy secure comfort built for your hop, skip and jump. The Nike Triple Jump Elite 2 delivers lightweight containment through all phases of your triple jump. The midsole is thicker than the previous version, providing you with impact absorption upon landing. A full-length plate helps keep you grounded and stable when you run and jump.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Volt",
+                "Photon Dust",
+                "Dynamic Turquoise",
+                "Hyper Orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "LIGHT IMPACT ABSORPTION WITH A STABLE FEEL.",
+                "description": "Enjoy secure comfort built for your hop, skip and jump. The Nike Triple Jump Elite 2 delivers lightweight containment through all phases of your triple jump. The midsole is thicker than the previous version, providing you with impact absorption upon landing. A full-length plate helps keep you grounded and stable when you run and jump.",
+                "benefits": [
+                    "Light and Secure <br/>A synthetic and fabric upper helps keep your foot secure and contained when you jump. A perforated heel helps reduce the weight, while providing optimal breathability.",
+                    "Optimal Durability <br/>Increased thickness at the midsole provides impact absorption when you land. Dense heel traction delivers increased grip where you need it.",
+                    "Stability For Your Jump <br/>A full-length carbon plate delivers stability for your foot as you run and jump.",
+                    "Data-Informed Grip <br/>A generative outsole is designed using data from our athletes. It features 6 spikes for lightweight and durable traction."
+                ],
+                "details": [
+                    "World Athletics Approved",
+                    "Shown: Barely Volt",
+                    "Style: AO0808-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "AtlRunner",
+                    "title": "5*",
+                    "rating": 5,
+                    "comment": "The materials for the Nike Triple Jump Elite 2 are quite impressive and the shoe is very light weight and comfortable. So comfortable I wore it in a 5k race. The colors are quite appealing to the eyes, not too much or less, but definitely very noticeable. They have 6 removable spikes, my only con will be the fact that when the spikes are attached, the shoes are quite loud. Without the spikes attached, they are still very much wearable because the shoe has a plastic sole. Although they are built for jumpers, I definitely did enjoy using them to run and will continue to use them to run. Highly recommended",
+                    "date": "Feb 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Ishi",
+                    "title": "Not comfortable",
+                    "rating": 3,
+                    "comment": "I am a little disappointed with these shoes to be honest as they run a size or two small. Saying that, they have good cushion comfort and comes with spokes which helps in having a good grip while running or walking on ground. They are lace up shoes which are good but if I could change one feature that would be having it made in slip on style. I like the fancy color it comes in. They are overall good but only recommendation would be to size up a bit if you want them to fit.",
+                    "date": "Feb 20, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Bathory",
+                    "title": "Awesome Track Shoes",
+                    "rating": 4,
+                    "comment": "First, the appearance of these shoes pulled me in. I love the bright colors that are appealing without being over the top. I always order a half size up in Nike’s and I found these fit perfectly. They were comfortable right out of the box and met my track needs perfectly. They are lightweight, yet feel durable. I love the additional metal spikes that can be removed making them perfect for various track experiences. Definitely not an every day shoe, but perfect for track and field!",
+                    "date": "Feb 19, 2022"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665523900/snicker-fever/64c11c7a-c1f7-49d5-8c49-46f11e017053_cqs3bd.webp",
+            "name": "Nike ZoomX Dragonfly",
+            "category": "shoe",
+            "price": 150,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Light and breathable with a bounce to every step, the Nike ZoomX Dragonfly has the ingredients you need to take down your personal record. It delivers the speed you need to stand out from the pack in races from 1,500 to 10,000 meters.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Volt",
+                "Mint Foam",
+                "Vachetta Tan",
+                "Cave"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Light and breathable with a bounce to every step, the Nike ZoomX Dragonfly has the ingredients you need to take down your personal record. It delivers the speed you need to stand out from the pack in races from 1,500 to 10,000 meters.",
+                "benefits": [
+                    "Fast, Efficient Energy Return <br/>Nike ZoomX foam is incredibly responsive and lightweight, delivering optimal energy return for your miles.",
+                    "Light and Race-Ready <br/>Lightweight mesh means breathability and support made to go the distance.",
+                    "Ridged Design <br/>Created using data from hundreds of runners, the forefoot plate helps ensure a smooth transition from toe-off to heel strike."
+                ],
+                "details": [
+                    "World Athletics Approved",
+                    "Shown: Volt",
+                    "Style: DR9922-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 81,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665524261/snicker-fever/1207d631-1d8a-4f90-80af-ff4e5c8f2131_k8oa7s.webp",
+            "name": "Nike Air Zoom Maxfly",
+            "category": "shoe",
+            "price": 180,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The finish is only a quick sprint away. Let the lightweight feel of the Nike Air Zoom Maxfly take you there. Bounce at every step gives you the responsiveness to match your speed as you race to shatter personal goals. We added plenty of traction to give you extra grip for races from 100 to 400 meters with hurdles.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Volt",
+                "Mint Foam",
+                "Cave Purple"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Track and Field",
+                "Running"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "The finish is only a quick sprint away. Let the lightweight feel of the Nike Air Zoom Maxfly take you there. Bounce at every step gives you the responsiveness to match your speed as you race to shatter personal goals. We added plenty of traction to give you extra grip for races from 100 to 400 meters with hurdles.",
+                "benefits": [
+                    "Stable Bounce <br/>A Zoom Air unit at the forefoot gives you a light, responsive bounce when your foot connects to the track. Two cushioned chambers within the Air unit add even more stability and spring. It combines with a full-length carbon plate for a propulsive and stable feel as your foot takes off. The carbon is tuned in the midfoot and heel for a stiff feel where needed for better transition from heel to toe.",
+                    "Secure Steps, Light Touch <br/>A woven and synthetic upper gives you secure, lightweight containment. Notched laces means less chance of them untying mid-run.",
+                    "Grip the Road <br/>Seven removable spikes at the forefoot help give you the traction needed to go your fastest. A shockwave pattern on the outsole, designed from athlete data, adds extra traction along the foot where you need it most."
+                ],
+                "details": [
+                    "World Athletics Approved",
+                    "Lightweight foam at the heel helps cushion your foot without adding weight.",
+                    "Shown: Mint Foam",
+                    "Style: DR9905-300"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "d1b34918-d3cc-4471-bac2-23e6426c00cd",
+                    "title": "nahhh",
+                    "rating": 4,
+                    "comment": "Please charge the size 38/5 of this shoe.",
+                    "date": "Sep 09, 2022"
                 }
             ]
         }
