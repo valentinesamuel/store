@@ -1,5 +1,6 @@
 {
     "shoes": [
+        //men
         {
             "id": 1,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664903142/snicker-fever/naf1_yaba3c.webp",
@@ -78,7 +79,7 @@
         },
         {
             "id": 2,
-            "image": "https: //res.cloudinary.com/dvup53fhn/image/upload/v1664903385/snicker-fever/ndhr_pbz6fh.webp",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664903385/snicker-fever/ndhr_pbz6fh.webp",
             "name": "Nike Dunk High Retro",
             "category": "shoe",
             "price": 125,
@@ -2386,7 +2387,7 @@
         },
         {
             "id": 35,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054825/snicker-fever/baf9eb1a-c77d-416a-a0da-3dbae4e637d7_jbgxzo.webp",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665054827/snicker-fever/i1-43afcd36-febc-4d27-8126-ae5d57d7061c_bd95wc.webp",
             "name": "Nike Benassi JDI",
             "category": "shoe",
             "price": 25,
@@ -3621,6 +3622,810 @@
                     "rating": 5,
                     "comment": "This is the best snickers I have ever had. The moment you puts in you are flying, supper comfy.",
                     "date": "Mar 02, 2022"
+                }
+            ]
+        },
+        //women
+        {
+            "id": 52,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665509327/snicker-fever/4728ee23-33e0-4d21-b1b8-07a57dfd3c32_ydkgic.webp",
+            "name": "Nike Air Force 1 Shadow",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Air Force 1 Shadow puts a playful twist on a classic b-ball design. Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF-1 DNA with a bold, new look.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Sail",
+                "Sesame",
+                "Black",
+                "Multi-Color"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "DOUBLE THE AF1. DOUBLE THE FUN.",
+                "description": "The Nike Air Force 1 Shadow puts a playful twist on a classic b-ball design. Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF-1 DNA with a bold, new look.",
+                "benefits": [
+                    "Layered Look <br/>With 2 eyestays, 2 mudguards, 2 back tabs and 2 Swoosh designs, you get a layered look with double the branding.",
+                    "Lightweight Comfort <br/>A foam midsole and a grooved outsole ensure that the shoe is lightweight, flexible and comfortable.",
+                    "Iconic Shape <br/>Featuring the same iconic shape as the original Air Force 1, a slightly exaggerated midsole makes the shoe instantly recognizable while also playing with proportions."
+                ],
+                "details": [
+                    "Midsole height: 41mm",
+                    "Mix of leather and synthetic materials",
+                    "Rubber tape",
+                    "Shown: Sail",
+                    "Style: CI0919-120"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "14931357929",
+                    "title": "Love the Air Force 1 Shadow",
+                    "rating": 5,
+                    "comment": "Very comfortable and stylish. New favorite sneaker!",
+                    "date": "Sep 25, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "e0fc2709-859f-43d7-bd3c-c7b7df4a73d8",
+                    "title": "Beautiful shoes",
+                    "rating": 5,
+                    "comment": "Beautiful shoes! These are my first pair of nice shoes and I’m obsessed. I’ve ordered protectant and crease guards for them so I feel confident wearing them as much as I want without ruining them. The colors are super bright and perfectly pastel. The white is so white it’s almost neon. 10/10, will definitely be ordering another pair in the future!",
+                    "date": "Jun 06, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "HannahS734206860",
+                    "title": "love them",
+                    "rating": 5,
+                    "comment": "they run true to size for me! they fit a little snug bc i have wide feet but i like that they’re snug, and they are comfortable i love them <3",
+                    "date": "Mar 09, 2022"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665509719/snicker-fever/5c2a3c54-65c7-4102-847d-546ed9b80efc_zpqbar.webp",
+            "name": "Nike Ryz 365 2",
+            "category": "shoe",
+            "price": 85,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike RYZ 365 2 brings you a futuristic take to classic '90s sneakers. The eye-catching midsole with stylized cutouts modernizes the chunky style with an airy aesthetic. A rich mixture of materials on the upper adds texture and style versatility. To top it off, the DIY lacing lets you personalize your style—wrap under the midsole or through webbing on the side and heel for a delicate touch to your bold look.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Pink Oxford",
+                "Gum Light Brown",
+                "White",
+                "Summit White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "FASHION STARTS FROM THE FEET.",
+                "description": "The Nike RYZ 365 2 brings you a futuristic take to classic '90s sneakers. The eye-catching midsole with stylized cutouts modernizes the chunky style with an airy aesthetic. A rich mixture of materials on the upper adds texture and style versatility. To top it off, the DIY lacing lets you personalize your style—wrap under the midsole or through webbing on the side and heel for a delicate touch to your bold look.",
+                "benefits": [
+                    "The incredibly soft and eye-catching midsole features see-through cutouts, modernizing the '90s sneaker look with an airy aesthetic that feels great.",
+                    "The 2 sets of lacing let you personalize your style—wrap under the midsole or through the webbing details on the sides and heel. The DIY look can even be wrapped up and around your ankle.",
+                    "The upper combines a rich mixture of materials like airy mesh, durable leather and stylized webbing.",
+                    "The TPU plate above the midsole cutouts looks sporty, adds support and gives you a flash of that ‘90s style you love.",
+                    "The padded, low-cut collar looks sporty and feels comfortable."
+                ],
+                "details": [
+                    "Large, triangular flex grooves in sole help you move naturally",
+                    "The rubber sole adds traction and durability",
+                    "Embroidered Swoosh design",
+                    "Pull tab on heel",
+                    "Shown: Pink Oxford",
+                    "Style: CU4874-600"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 54,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665510650/snicker-fever/1951ee2c-2cdb-47ec-84fd-0df9fee746e9_gyzlzs.webp",
+            "name": "Nike Crater Impact",
+            "category": "shoe",
+            "price": 105,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Nike Crater Impact is part of our sustainability journey to transform trash into shoes that tread a little lighter. Made from at least 25% recycled material by weight, it brings in unique design choices that reduces waste when compared with traditional methods––like an embroidered swoosh, efficient overlays and of course its Crater foam midsole.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Light Soft Pink",
+                "Light Silver",
+                "Arctic Orange",
+                "Smoke Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "BAR-SETTING EFFICIENCY.",
+                "description": "Nike Crater Impact is part of our sustainability journey to transform trash into shoes that tread a little lighter. Made from at least 25% recycled material by weight, it brings in unique design choices that reduces waste when compared with traditional methods––like an embroidered swoosh, efficient overlays and of course its Crater foam midsole.",
+                "benefits": [
+                    "Lifted Crater foam midsole is made from 12% recycled content, adds stability and has a unique speckled appearance.",
+                    "The upper's thoughtful and modern design includes straight-edged overlays for construction efficiency and scrap waste reduction.",
+                    "Made with at least 25% recycled material by weight.",
+                    "1-piece webbing eyestay mixes DIY flavor with an urban touch while adding to the pattern-efficient build.",
+                    "The track-inspired silhouette features sleek angles and a padded, low-cut collar for easy styling that's comfortable.",
+                    "Mesh on the upper keeps it airy and lightweight.",
+                    "Stitched-on Swoosh design adds a wild, zebra-like aesthetic and keeps with the efficient design."
+                ],
+                "details": [
+                    "Rubber details on outsole feature 15% Nike Grind and add traction and durability",
+                    "Embroidered Swoosh design",
+                    "Laces made from 100% recycled polyester",
+                    "Shown: Light Soft Pink",
+                    "Style: CW2386-604"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "9506615552",
+                    "title": "I don't like them",
+                    "rating": 1,
+                    "comment": "The laces give me a very hard time.",
+                    "date": "Jun 11, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Isabelle425403014",
+                    "title": "Best Nike shoe I love them",
+                    "rating": 5,
+                    "comment": "I ordered the light yellow version and these and let me tell you…they are one of my favorite Nike shoes ever. I get compliments ever time I wear them and I find them very flattering and comfortable. I usually wear a 9 but always size up to 9 1/2 for Nike. Please restock so I can get more colors @nike!!!!",
+                    "date": "Feb 25, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "RachelB",
+                    "title": "Cute, but not the best Nike's I've had",
+                    "rating": 4,
+                    "comment": "Don't get me wrong, these shoes are super cute and good quality. But, they are not the most comfortable Nike I've had. I am someone who is on my feet a lot during the day and I already know I need new insoles compared to what these come with. My old shoes are Nike Zoom and are far superior in comfort. Also I bought the size I always wear for every Nike shoes I've ever purchased (9.5) and they are too big. This is opposite to what I was expecting since most reviews say they run small. Overall if you are looking for style and trying to be more sustainable, get them. If you need comfort and support, look elsewhere.",
+                    "date": "Feb 18, 2022"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665510592/snicker-fever/18378681-1d83-4d5f-bb34-93982e63bbf8_yfcykh.webp",
+            "name": "Nike Air Force 1 x Serena Williams Design Crew",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Inspired by Serena. Worn by you. Channel your inner icon in a shoe designed to celebrate the diverse perspectives of the Serena Williams Design Crew for athletes everywhere. The graphics and colors inject a shot of energy into the look, while the purple and gilded details make your feet feel majestic. Her goal in this capsule was simple—for future generations to see it and think, \"I can do it too.\"",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Lapis",
+                "Metallic Gold"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Serena Williams",
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Inspired by Serena. Worn by you. Channel your inner icon in a shoe designed to celebrate the diverse perspectives of the Serena Williams Design Crew for athletes everywhere. The graphics and colors inject a shot of energy into the look, while the purple and gilded details make your feet feel majestic. Her goal in this capsule was simple—for future generations to see it and think, \"I can do it too.\"",
+                "benefits": [
+                    "Behind the Design <br/>Never box yourself in: Drawing inspiration from Serena’s fashion moments and on-court prowess, the design celebrates the multitude talents of Serena.",
+                    "Fit for a Queen <br/>French lace pattern etched into the leather nods to Serena’s admiration for France and French fashion, while the vibrant botanical graphic on the insole represents her love for prints. Gold branding and hardware celebrate her on-court dominance and makes every step feel royal.",
+                    "Colors that Win <br/>Bold colors boost the energy, while hints of gold nod to Serena's championship trophies.",
+                    "The SWDC <br/>The Serena Williams Design Crew is a group of designers handpicked by Serena. They create collections of footwear and apparel that tell the story of her incredible legacy—on and off the court—while celebrating each designer's diverse background and rich culture."
+                ],
+                "details": [
+                    "From tough stitching to pristine leather to the cupsole design, it delivers durable style that’s smoother than backboard glass.",
+                    "Originally designed for performance hoops, the Air cushioning delivers lasting comfort.",
+                    "Rubber outsole with heritage hoops pivot circles adds traction and durability.",
+                    "Low-cut, padded collar looks sleek and feels comfortable.",
+                    "Shown: Lapis",
+                    "Style: DR9842-400"
+                ],
+                "moreDetails": [
+                    "Air Force 1",
+                    "Debuting in 1982 as a basketball must-have, the Air Force 1 came into its own in the 90s. The clean look of the classic white-on-white AF1 was endorsed from the basketball courts to the block and beyond. Finding its rhythm in hip-hop culture, releasing limited collabs and colorways, Air Force 1 became an iconic sneaker around the globe. And with over 2000 iterations of this staple, its impact on fashion, music and sneaker culture can’t be denied."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 56,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665511155/snicker-fever/air-jordan-4-retro-womens-shoes-s1LPnh_uqtvkc.jpg",
+            "name": "Air Jordan 4 Retro",
+            "category": "shoe",
+            "price": 200,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The AJ4 delivers responsive cushioning, with a heel Air-Sole unit bringing the street-ready comfort. Leather on the upper offers a premium look and heritage style. Whether you're wearing 'em at dusk or dawn, this design from '89 is the perfect off-court flex.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Canyon Purple",
+                "Alligator",
+                "Black",
+                "Safety Orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "BAR-SETTING EFFICIENCY.",
+                "description": "The AJ4 delivers responsive cushioning, with a heel Air-Sole unit bringing the street-ready comfort. Leather on the upper offers a premium look and heritage style. Whether you're wearing 'em at dusk or dawn, this design from '89 is the perfect off-court flex.",
+                "benefits": [
+                    "Leather, synthetic, and fabric upper delivers comfortable support and a premium look.",
+                    "Visible Air-Sole unit in the heel provides responsive cushioning.",
+                    "Rubber outsole offers secure traction on a variety of surfaces."
+                ],
+                "details": [
+                    "Shown: Canyon Purple",
+                    "Style: AQ9129-500"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 57,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665511363/snicker-fever/converse-x-come-tees-chuck-70_kpxiqf.jpg",
+            "name": "Converse x Come Tees Chuck 70",
+            "category": "shoe",
+            "price": 115,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "With its hand-drawn figures and ecstatic, expressive details, Come Tees has emerged as an inspired voice in streetwear, using fashion as a repository of memory, desire and self-discovery. On a new Chuck 70 drop, Come Tees applies its distinctive graphic language, a playful use of color and vintage overlays with unique stud detailing. The design utilizes a vibrant star motif to unite classic Converse iconography with celestial symbolism. Discover your star path.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Orange"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "BE A STAR.",
+                "description": "With its hand-drawn figures and ecstatic, expressive details, Come Tees has emerged as an inspired voice in streetwear, using fashion as a repository of memory, desire and self-discovery. On a new Chuck 70 drop, Come Tees applies its distinctive graphic language, a playful use of color and vintage overlays with unique stud detailing. The design utilizes a vibrant star motif to unite classic Converse iconography with celestial symbolism. Discover your star path.",
+                "benefits": null,
+                "details": [
+                    "Shown: Orange",
+                    "Style: A01762C-800"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 58,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665511537/snicker-fever/ec09767d-ef79-4464-8383-f7faaea1fd0b_q8gahu.webp",
+            "name": "Women's Air Max Scorpion",
+            "category": "shoe",
+            "price": 250,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "We asked the Nike soothsayer what your future holds. The answer? A whole lotta comfort. Built around the concept of \"point-loading\" (translation: great responsiveness, better sensation and improved cushioning), the Air Max Scorpion opens a new chapter in the book of footwear magic. Consult the crystal ball again, and you'll see a disruptive design that pairs super-soft chenille fabric with incredibly lightweight Flyknit. Meanwhile, dashes of Lemon Wash pulse against a neutral upper for a fashion-meets-sport aesthetic—the perfect finish for your spellbinding look.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Lemon Wash"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "STING LIKE A SCORPION.",
+                "description": "We asked the Nike soothsayer what your future holds. The answer? A whole lotta comfort. Built around the concept of \"point-loading\" (translation: great responsiveness, better sensation and improved cushioning), the Air Max Scorpion opens a new chapter in the book of footwear magic. Consult the crystal ball again, and you'll see a disruptive design that pairs super-soft chenille fabric with incredibly lightweight Flyknit. Meanwhile, dashes of Lemon Wash pulse against a neutral upper for a fashion-meets-sport aesthetic—the perfect finish for your spellbinding look.",
+                "benefits": null,
+                "details": [
+                    "Shown: Lemon Wash",
+                    "Style: DJ4702-001"
+                ],
+                "moreDetails": [
+                    "Heritage",
+                    "Remember the revolution. 1987 saw the birth of the Air Max lineage, showcasing visible Air for the first time. What began as an experiment in cushioning soon evolved into an icon on the track and the streets. Over the years, it's been reimagined and retooled, but the heritage always remains."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 59,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665511776/snicker-fever/71259cf0-26a6-4b15-98a6-178410ead906_rwjid6.webp",
+            "name": "Air Jordan OG",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Designed for women basketball players and inspired by the legacy of MJ, the Air Jordan OG is ready for its debut. It features durable materials, a sculpted midsole and a distinct segmented traction pattern—plus the lightweight Air cushioning you know and love.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "White",
+                "Metallic Silver"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Micheal Jordan",
+            "sport": [
+                "LifeStyle",
+                "Gym",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "ORIGINAL DISTINCTION.",
+                "description": "Designed for women basketball players and inspired by the legacy of MJ, the Air Jordan OG is ready for its debut. It features durable materials, a sculpted midsole and a distinct segmented traction pattern—plus the lightweight Air cushioning you know and love.",
+                "benefits": [
+                    "Premium Materials <br/>Genuine and synthetic leather and textile in the upper showcase signature Jordan details while providing durable comfort and support.",
+                    "Walk On Air <br/> An encapsulated Air unit in the heel provides lightweight, long-lasting cushioning."
+                ],
+                "details": [
+                    "Plush, padded collar",
+                    "Traditional tongue and laces",
+                    "Sculpted foam midsole",
+                    "Rubber outsole",
+                    "Midfoot shank",
+                    "Shown: White",
+                    "Style: CW0907-100"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "AlieL411913991",
+                    "title": "Don’t like the shape",
+                    "rating": 3,
+                    "comment": "The shoes ok it’s true to size fast delivery I just don’t like the way it shape and it kinda looks crooked as if someone wear it before",
+                    "date": "Dec 11, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "ShannonB3",
+                    "title": "My go to when it comes to shopping online",
+                    "rating": 5,
+                    "comment": "Shipping is always fast and I love it when Hibbetts restock on product.",
+                    "date": " Aug 23, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "Tuffy23",
+                    "title": "Beautiful Shoe",
+                    "rating": 5,
+                    "comment": "My shoes were delivered yesterday. They are beautiful. I ordered a 7.5 and they fit great. I think they run big in women's. Can't wait to wear them, but I must treat them first.",
+                    "date": "Jul 04, 2021"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665512216/snicker-fever/d7277d5b-77b6-4932-92b5-d5fe740f0b69_nmtarl.webp",
+            "name": "Nike Air Force 1 '07 SE",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Celebrating 40 years of pushing sport and fashion boundaries, this commemorative AF1 mixes elements from beloved launches to highlight the timeless design’s place in sneaker history. Gold accents, a debossed *40* on the heel and an honorary tongue label are just a few of the embellishments inviting you to the party. Completing the look, crisp leather in bold colors delivers a grand finale. Happy anniversary!",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Sail",
+                "Metallic Gold",
+                "Black",
+                "Team Red"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "ORIGINAL DISTINCTION.",
+                "description": "Celebrating 40 years of pushing sport and fashion boundaries, this commemorative AF1 mixes elements from beloved launches to highlight the timeless design’s place in sneaker history. Gold accents, a debossed *40* on the heel and an honorary tongue label are just a few of the embellishments inviting you to the party. Completing the look, crisp leather in bold colors delivers a grand finale. Happy anniversary!",
+                "benefits": [
+                    "Birthday Invitation <br/>Dubrae and top eyelets (done up with a polished gold finish) celebrate the 40th anniversary.",
+                    "Party Favors <br/> The custom tongue label blends past AF1 logos, while \"82-22\" on the sockliner honors AF1 style.",
+                    "Tried and True <br/> From tough stitching to pristine materials to the cupsole design, it delivers durable style that’s smoother than backboard glass."
+                ],
+                "details": [
+                    "Originally designed for performance hoops, Nike Air cushioning delivers lasting comfort.",
+                    "Rubber outsole with classic pivot circle pattern gives you traction and durability.",
+                    "Padded, low-cut collar looks sleek and feels great.",
+                    "Shown: Sail",
+                    "Style: DQ7582-100"
+                ],
+                "moreDetails": [
+                    "Air Force 1 Origins",
+                    "Debuting in 1982 as a basketball must-have, the Air Force 1 came into its own in the 90s. The clean look of the classic white-on-white AF1 was endorsed from the basketball courts to the block and beyond. Finding its rhythm in hip-hop culture, releasing limited collabs and colorways, Air Force 1 became an iconic sneaker around the globe. And with over 2000 iterations of this staple, its impact on fashion, music and sneaker culture can’t be denied."
+                ]
+            },
+            "reviews": null
+        },
+        {
+            "id": 61,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665512625/snicker-fever/a5db873a-c83d-4988-9715-e9c0792db453_flkegw.webp",
+            "name": "Nike Waffle Racer Crater",
+            "category": "shoe",
+            "price": 100,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "From scraps to the streets, we put a fresh twist on the 1977 OG. The Nike Waffle Racer Crater combines Crater Foam with Nike Grind rubber details for a rugged, track-inspired look, weighing in with at least 20% recycled materials. The Crater Foam midsole is made from a spacey mix of foam materials and 10% Nike Grind rubber, while the speckled Waffle outsole is made from 15% Nike Grind rubber, making each pair unique and durable.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Summit White",
+                "Light Lemon Twist",
+                "Photon Dust",
+                "Aluminum"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "BRACE FOR IMPACT.",
+                "description": "From scraps to the streets, we put a fresh twist on the 1977 OG. The Nike Waffle Racer Crater combines Crater Foam with Nike Grind rubber details for a rugged, track-inspired look, weighing in with at least 20% recycled materials. The Crater Foam midsole is made from a spacey mix of foam materials and 10% Nike Grind rubber, while the speckled Waffle outsole is made from 15% Nike Grind rubber, making each pair unique and durable.",
+                "benefits": [
+                    "Plush Crater Foam midsole feels incredibly soft, while Waffle outsole is updated with large lugs for a rugged take on a track-inspired look.",
+                    "Eyestay webbing, tongue and vamp are spun entirely from recycled polyester for a unique look.",
+                    "Upper combines suede and recycled twill for a sleek, layered finish.",
+                    "Updated Waffle tread nods to Waffle sole heritage, while providing durable, multi-surface traction."
+                ],
+                "details": [
+                    "Volt-colored, recycled insole feels extra cushy and signifies that the shoe contains at least 20% recycled materials by weight",
+                    "Shown: Summit White",
+                    "Style: CT1983-106"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "7926397560",
+                    "title": "Had them for a couple months...",
+                    "rating": 4,
+                    "comment": "I like them, but I wish I'd given them a little more time to test out before I decided to keep them. I usually wear a women's 6 in Nike, and that is what I ordered. In this particular shoe, I needed to size down to a 5.5. Also, the shoelaces go into kind of a ribbon - not a hole. And those ribbons seem like they are going to be a wear point...there is a hint of a fray in a couple of them. Overall a good shoe, but not a 5 star.",
+                    "date": "Mar 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "e0fc2709-859f-43d7-bd3c-c7b7df4a73d8",
+                    "title": "R E",
+                    "rating": 5,
+                    "comment": "Definitely recommend! Lightweight & comfortable",
+                    "date": "Jan 30, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "WANDA M.",
+                    "title": "This is a YES!",
+                    "rating": 5,
+                    "comment": "I liked it so much that I purchased a couple of pairs! Comfortable…..lightweight…..nice colorways!",
+                    "date": "Dec 28, 2021"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665512962/snicker-fever/62e4cc3c-e3ba-4564-8672-d969cbdc4567_kredvt.webp",
+            "name": "Nike Air Rift Breathe",
+            "category": "shoe",
+            "price": 105,
+            "isAccessory": true,
+            "accessoryType": "sandals",
+            "description": "Style yourself in the perfect warm-weather look with the Nike Air Rift Breathe. Hook-and-loop strap details let you easily slide into this split-toe design based on the '96 original. Nike Air cushioning in the heel and a plush foam midsole feel softer than ever, adding that sunny beach feeling to every step.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "White",
+                "Cool Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "360 DEGREES OF SUMMERTIME FRESHNESS.",
+                "description": "Style yourself in the perfect warm-weather look with the Nike Air Rift Breathe. Hook-and-loop strap details let you easily slide into this split-toe design based on the '96 original. Nike Air cushioning in the heel and a plush foam midsole feel softer than ever, adding that sunny beach feeling to every step.",
+                "benefits": [
+                    "Nike Tech Ultramesh upper keeps it airy and light while adding texture and depth.",
+                    "The split-toe design creates a barefoot feel and captures the original vibe from '96.",
+                    "Midfoot and heel straps let you customize your comfort.",
+                    "The Air-Sole unit in the heel combines with a plush foam midsole for a soft feel.",
+                    "Perforated sockliner keeps the breeziness while adding to the luxuriously soft feel.",
+                    "Rubber detailing on the outsole features rugged tread for added durability and traction"
+                ],
+                "details": [
+                    "Embroidered Swoosh",
+                    "Hook-and-loop closures",
+                    "Shown: Black",
+                    "Style: 848386-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "15851760104",
+                    "title": "The best",
+                    "rating": 5,
+                    "comment": "The best $100 I ever spent.I just love these shoe so comfortable that I want to wear them to work everyday.",
+                    "date": "Sep 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Iris346064442 ",
+                    "title": "I thought everyone was exaggerating...",
+                    "rating": 5,
+                    "comment": "These are without question the most comfortable shoe I have ever worn. I bought them to take to Fashion School with me and I haven't worn another shoe for 2 weeks. They are so cute to dress down an outfit while not looking crazy. I love wearing scrunchy socks with them. I recommend sizing up, I'm a 10.5 and the 11 fit perfect! I thought the reviews were exaggerating, but give it 3 days and you will agree with them.",
+                    "date": "Aug 31, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "MalikahM502977313",
+                    "title": "I wanted to keep them so badly...",
+                    "rating": 2,
+                    "comment": "I absolutely love them but Nike really REALLY needs these in half sizes. I'm an EU 36 narrow and the 6 was just snug enough to be uncomfortable after a little bit of wear. The toe split is where I felt the most discomfort, but I could feel my heel going over the insoles as well. I exchanged for a 7 and to my complete disappointment, those were way too big to be comfortable in this style. This is the kind of shoe that would be best if it fits perfectly so it feels like you're really not wearing much at all but you get the awesome benefits of the design. If they made these in half sizes I would be over the moon, they really were so close to perfect.",
+                    "date": "Aug 25, 2022"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665513406/snicker-fever/59873d2e-3816-402a-a666-bf3fa58ff41a_uexbw4.webp",
+            "name": "Nike Air Max 2021",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "We could use a lot of superlatives to describe the Nike Air Max 2021. We could tell you that we’ve incorporated recycled materials to design a sneaker with at least 20% recycled content. Or the new Air cushioning unit underfoot is our most revolutionary. Perhaps we’d call it the \"the pinnacle of comfort,\" waxing poetic about the cored-out foam midsole that gives you the lightest, softest feel. But maybe we just say it's modern meets technical with a splash of heritage DNA. What fun is giving away the surprises?",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Phantom",
+                "Archaeo Pink",
+                "Light Bone",
+                "Thunder Blue"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": "THE FUTURE OF AIR IS HERE.",
+                "description": "We could use a lot of superlatives to describe the Nike Air Max 2021. We could tell you that we’ve incorporated recycled materials to design a sneaker with at least 20% recycled content. Or the new Air cushioning unit underfoot is our most revolutionary. Perhaps we’d call it the \"the pinnacle of comfort,\" waxing poetic about the cored-out foam midsole that gives you the lightest, softest feel. But maybe we just say it's modern meets technical with a splash of heritage DNA. What fun is giving away the surprises?",
+                "benefits": [
+                    "Revolutionary Comfort <br/>The dual-pressure Air-sole unit works in unison with a collapsable cage, delivering a brand new level of comfort whether you're walking 5 miles or to the corner store.",
+                    "Modern Details <br/>The upper includes engineered mesh, woven textile and no-sew skins for a sleek style that's durable, lightweight, and airy.",
+                    "Lightweight Cushioning <br/>The foam midsole is split into 2 sections and cored out (like a honeycomb) for lightweight cushioning that lasts."
+                ],
+                "details": [
+                    "Padded, low-cut collar looks sleek and feels great.",
+                    "Webbing details pair with floating eyestays for a fresh look that's quick to adjust.",
+                    "Overlays on the sides and heel add durability and depth.",
+                    "Webbing pull tabs",
+                    "Round laces",
+                    "Full-length rubber outsole",
+                    "Shown: Phantom",
+                    "Style: DC9478-001"
+                ],
+                "moreDetails": [
+                    "Nike Air Max Origins",
+                    "Revolutionary Air technology first made its way into Nike footwear in 1978. In 1987, the Air Max 1 debuted with visible Air technology in its heel, allowing fans more than just the feel of Air cushioning—suddenly they could see it. Since then, next-generation Air Max shoes have become a hit with athletes and collectors by offering striking color combinations and reliable, lightweight cushioning."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "AngelicaG",
+                    "title": "Magical Shoes",
+                    "rating": 5,
+                    "comment": "I love them , This is my first Nike , always had different brands , I look for comfort , and I decided to adventure and go on line and just buy them , this shoes are just magical , I was impressed by the comfort and they look sooo Beautiful on me",
+                    "date": "Jun 25, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "julianal",
+                    "title": "My shoes looks very bad, with a yellow color",
+                    "rating": 2,
+                    "comment": "I Bought my shoes two weeks ago and immediately I noticed that a yellow color in the front of the shoes, the quality is not good and is not easy clean it. I feel very sad with this purchase beacuse my shoes look old using them per two weeks",
+                    "date": "Jun 21, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "JameyK",
+                    "title": "One of my favorite pairs of Nike’s ever!",
+                    "rating": 5,
+                    "comment": "These are some of the most comfortable and cute shoes I’ve ever had! I bought them and another pair of Nike’s to wear to work and look fresh with my business casual attire. Definitely fresh! And so sooo comfortable! Love them!",
+                    "date": "May 27, 2022"
                 }
             ]
         }
