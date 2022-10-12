@@ -5722,6 +5722,506 @@
                     "date": "Sep 09, 2022"
                 }
             ]
+        },
+        {
+            "id": 82,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665600253/snicker-fever/da7662b1-4a91-4e7f-9b97-efa6e16db4b8_xyrgf5.webp",
+            "name": "LeBron XX",
+            "category": "shoe",
+            "price": 200,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Nearly 2 decades into a career exceeding every lofty expectation, LeBron James has refused to settle for anything less than greatness, even when he was the one setting the standard for generations to come. Now, his latest signature shoe is lighter, low to the ground and turbo-like. It’s unlike any design LeBron has donned before—comfortable and supportive, yet low-cut, feathery-fast and created to stay ahead of today’s frenzied style of play.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Green",
+                "Medium Soft Pink",
+                "Light Bone",
+                "Multi-Color"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Lebron James",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Nearly 2 decades into a career exceeding every lofty expectation, LeBron James has refused to settle for anything less than greatness, even when he was the one setting the standard for generations to come. Now, his latest signature shoe is lighter, low to the ground and turbo-like. It’s unlike any design LeBron has donned before—comfortable and supportive, yet low-cut, feathery-fast and created to stay ahead of today’s frenzied style of play.",
+                "benefits": [
+                    "Pink Diamond Status <br/>Like LeBron early in his career, pink diamonds undergo enormous amounts of pressure during formation, only to flourish in the end. We took inspiration from the rose-colored hue and added it to his growing number of accolades to signify that pressure can bust pipes—or make championship rings.",
+                    "Smooth and Responsive <br/>The large forefoot Zoom Air unit is curved to bend in multiple directions. It provides energy return for fast and responsive cornering and offers a flexible court feel that moves naturally with your foot. A bottom-loaded Zoom Air unit in the heel adds cushioning.",
+                    "Breathable Up Top <br/>The airy, breathable fabric on the upper is made of a dimensional knit mesh that’s lightweight, yet durable and contained.",
+                    "All Game Freshness <br/>Soft, responsive, full-length Cushlon foam helps you stay fresh and fast all game long.",
+                    "Sturdy and Strong <br/>A carbon fiber midfoot shank keeps you steady and sturdy."
+                ],
+                "details": [
+                    "Forefoot support wrap wedge",
+                    "Sphere liner collar",
+                    "Toggle laces",
+                    "Metal eyelets",
+                    "Shown: Barely Green",
+                    "Style: DJ5423-300"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "y0itzdaniel",
+                    "title": "LeKobe",
+                    "rating": 5,
+                    "comment": "A little tight but still went true to size. Lightest of all lebrons although I stopped after the lebron X. I love how it looks and feels like a Kobe.",
+                    "date": "Oct 07, 2022"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665600746/snicker-fever/32a612b2-d1fe-40bf-9335-93d87a410893_aqpf6l.webp",
+            "name": "Kyrie Flytrap 4",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Play quick on your edges in the Kyrie Flytrap 4, a shoe that's lightweight, supportive and easy to move in. It has updated grip, lockdown and responsive cushioning. A large Zoom Air unit returns more energy than the previous model. The internal forefoot band stabilizes you over the footbed as you run the floor.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Summit White",
+                "Photon Dust",
+                "Purple Pulse",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike Kyrie"
+            ],
+            "athlete": "Kyrie Irving",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": "PLAY ON THE EDGE.",
+                "description": "Play quick on your edges in the Kyrie Flytrap 4, a shoe that's lightweight, supportive and easy to move in. It has updated grip, lockdown and responsive cushioning. A large Zoom Air unit returns more energy than the previous model. The internal forefoot band stabilizes you over the footbed as you run the floor.",
+                "benefits": [
+                    "Give Energy, Get Energy <br/>A large, rectangular Zoom Air unit under the ball of your foot provides a responsive feel with every step.",
+                    "Designed For Quick Cuts <br/>Rubber wraps up the sides in the front, giving you traction on your edges.",
+                    "Comfort During Possession <br/>The padded, molded collar provides comfort for your Achilles tendon.",
+                    "Secure Your Fit <br/>An interior band combines with the laces to lock you in."
+                ],
+                "details": [
+                    "\"KI\" on tongue and outsole",
+                    "Wavy, distorted outsole pattern",
+                    "Shown: Summit White",
+                    "Style: CT1972-101"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "y0itzdaniel",
+                    "title": "LeKobe",
+                    "rating": 5,
+                    "comment": "A little tight but still went true to size. Lightest of all lebrons although I stopped after the lebron X. I love how it looks and feels like a Kobe.",
+                    "date": "Oct 07, 2022"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665601063/snicker-fever/e8d3c0a3-2c53-4400-b48e-a48edd69e727_le5ruq.webp",
+            "name": "KD Trey 5 IX",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Kevin Durant is on the court every day, going hard and getting better. The KD Trey 5 IX is built to keep up with his furious work ethic. It gives him the sensation of cloud-like cushioning and broken-in comfort he likes, so he stays fresh and focused.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Gum Light Brown",
+                "Metallic Cool Grey",
+                "White",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike KD"
+            ],
+            "athlete": "Kevin Durant",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": "GO ALL IN ON EVERY PLAY.",
+                "description": "Kevin Durant is on the court every day, going hard and getting better. The KD Trey 5 IX is built to keep up with his furious work ethic. It gives him the sensation of cloud-like cushioning and broken-in comfort he likes, so he stays fresh and focused.",
+                "benefits": [
+                    "Smooth Energy Return <br/>Nike Renew technology combines a soft inner core of foam surrounded by a firmer foam for springy and resilient cushioning. A Zoom Air unit absorbs force and returns energy with every step.",
+                    "Lightweight Mesh <br/>Lightweight, layered mesh in the upper creates a secure, supportive fit. It's structured and reinforced where it's needed most.",
+                    "Sound Wave Traction <br/>The rubber outsole with a sound wave-inspired traction pattern helps you grip the court in multiple directions. The pattern is a nod to KD's love of music."
+                ],
+                "details": [
+                    "Circular outsole cutout",
+                    "Embroidered heel logo",
+                    "Plush, padded collar",
+                    "KD logo and Swoosh design on tongue top",
+                    "No-sew overlays",
+                    "Embossed disc detail on side heel",
+                    "Textured outline Swoosh design",
+                    "Shown: Black",
+                    "Style: CW3400-006"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "ParkerT",
+                    "title": "Not durable",
+                    "rating": 2,
+                    "comment": "Right shoes was poor quality hot a hole and a huge part ripped",
+                    "date": "Jun 10, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Alicia P",
+                    "title": "Not  to be bought",
+                    "rating": 5,
+                    "comment": "Great for wide feet!",
+                    "date": "May 17, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "W AP",
+                    "title": "Not  to be bought",
+                    "rating": 4,
+                    "comment": "I personally feel that the size is too small, I want to be half a size larger, very light and breathable! kids like!",
+                    "date": "Jan 21, 2022"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665601496/snicker-fever/579cac73-878a-40a3-a6b5-4d50adb153ec_vn88eo.webp",
+            "name": "KD14",
+            "category": "shoe",
+            "price": 150,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Kevin Durant lurks on the wing, waiting for the right time to strike before slicing his way through defenses. The KD14 is designed to help versatile, relentless players like KD feel fresh all game. A midfoot strap helps reduce movement inside your shoes, while full-length cushioning and soft foam give back energy for lasting performance.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Multi-Color"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike KD"
+            ],
+            "athlete": "Kevin Durant",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": "FEEL FRESH, PLAY LONG.",
+                "description": "Kevin Durant lurks on the wing, waiting for the right time to strike before slicing his way through defenses. The KD14 is designed to help versatile, relentless players like KD feel fresh all game. A midfoot strap helps reduce movement inside your shoes, while full-length cushioning and soft foam give back energy for lasting performance.",
+                "benefits": [
+                    "Broken-In Feel <br/>Multilayer breathable fabric in the upper is lightweight with a broken-in feel. Added thickness in strategic areas helps keep your feet in place by reducing small movements.",
+                    "Signature Support <br/>A hook-and-loop strap wraps over the top of the laces creates a secure fit. It's a subtle nod to the strap of the KD4 and takes inspiration from the shape of the grim reaper's scythe.",
+                    "Responsive Sensation <br/>The full-length Air Zoom Strobel unit is stitched directly to the upper. It helps cut unnecessary weight and provides full-foot responsiveness. Cushlon foam adds soft comfortable.",
+                    "Tuned Traction <br/>Grooves and ridges in the sole help provide multidirectional traction and court feel. A stiff piece under the arch helps keep the shoe stable. Both shoes together reveal the face of a skull."
+                ],
+                "details": [
+                    "Stiff piece on the outer edge provides midfoot stability.",
+                    "Extra-durable rubber outsole is designed for outdoor courts.",
+                    "Shown:  Multi-Color",
+                    "Style: DJ4336-900"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "dianas",
+                    "title": "Good pair!",
+                    "rating": 5,
+                    "comment": "Good pair!",
+                    "date": "May 04, 2022"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665601864/snicker-fever/37819adc-3a9d-4de0-b88a-548a5d2c8383_ybb62g.webp",
+            "name": "LeBron 19 Low",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "LeBron plays less in the paint and more at the point, so it makes sense that he wants to feel a little quicker. His 19th signature shoe gives him the feeling of containment he likes but with a lower, lighter design that's ideal for fast, strong players like LeBron who stretch the court.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Rattan",
+                "Sail",
+                "Dark Iris",
+                "Black"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Lebron James",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": "POWERFULLY AGILE.",
+                "description": "LeBron plays less in the paint and more at the point, so it makes sense that he wants to feel a little quicker. His 19th signature shoe gives him the feeling of containment he likes but with a lower, lighter design that's ideal for fast, strong players like LeBron who stretch the court.",
+                "benefits": [
+                    "Power Under Pressure <br/>A thick, visible Max Air unit cushions your heel when it hits the floor.",
+                    "Harnessed Energy <br/>Full-length Nike React foam is soft, light and responsive. It's exposed along the sides and caged in the front with a sculpted overlay material.",
+                    "Light and Strong <br/>Translucent woven material in the upper is durable yet lightweight."
+                ],
+                "details": [
+                    "Foam collar",
+                    "Rubber outsole",
+                    "Shown: Rattan",
+                    "Style: DM1058-200"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "itsatungting",
+                    "title": "BIG MAN SHOE TING!",
+                    "rating": 5,
+                    "comment": "Writing a review for these since there has been a lot of negativity online. I purchased these in a size 11.5 (my true size), I would consider my feet to be wide and somewhat flatfooted, not as much as KD, but for my flatfooters out there you know the struggle. I primary play on outdoor courts so I will base my review on this environment alone. First of for my heavier post and PF players this is the shoes to get if your major concern is impact protection and comfort, their A1. Good room in the toe box, no uncomfortable rubbing of my pinky toe, and good lockdown ankle stability. Break in time for these shoes was basically none and they felt good from the jump. This model is definitely a lighter low top version for those who do not like the 19's. Court feel is good and traction for outdoor use is great. Lateral movements felt stable and I had no fear of ever rolling my ankle. Since this is a premium shoe in the Nike basketball line the materials are durable and honestly quite breathable; you definitely get your moneys worth. For my big men moving bodies in the paint and grabbing boards these are a must ! Try to catch them on sale you'll thank me later.",
+                    "date": "Jul 16, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "ReyS47448430",
+                    "title": "!!!",
+                    "rating": 5,
+                    "comment": "Personally I prefer lows and are a whole lot better than the horrid 19's. I think the 19's is a hideous shoe with a horrible design. Kind of reminded me of the 13's when you had to go with the lows. I got the safaris and they are great! I would recommend them and hoping new color ways are coming out! Even though I am not a Lebron fan his shoes most of the time have a great design!",
+                    "date": "Jul 03, 2022"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665601864/snicker-fever/37819adc-3a9d-4de0-b88a-548a5d2c8383_ybb62g.webp",
+            "name": "KD15 \"Napheesa Collier\"",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Napheesa Collier is cold-blooded just like KD, a fellow member of the walking bucket coalition. They’re mismatches from multiple levels of the court, unsolvable scorers with unquenchable thirsts for 30 pieces. Now, you can step into her shoes in the Napheesa Collier KD15 Community. Inspired by her deep Sierra Leonean lineage and continued ascent a rising star in the basketball world, Napheesa’s Player Edition is a fun, vibrant mashup between 2 of the game’s best.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Old Royal",
+                "Peach Cream",
+                "Vivid Purple",
+                "Glacier Blue"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Nike KD"
+            ],
+            "athlete": "Kevin Durant X Napheesa Collier",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": "BROKEN-IN FEEL WITH BOUNCE.",
+                "description": "Napheesa Collier is cold-blooded just like KD, a fellow member of the walking bucket coalition. They’re mismatches from multiple levels of the court, unsolvable scorers with unquenchable thirsts for 30 pieces. Now, you can step into her shoes in the Napheesa Collier KD15 Community. Inspired by her deep Sierra Leonean lineage and continued ascent a rising star in the basketball world, Napheesa’s Player Edition is a fun, vibrant mashup between 2 of the game’s best.",
+                "benefits": [
+                    "Foundational Strength <br/>In the business world, Kevin Durant is equally as competitive as he is on the court. With an ever-expanding portfolio of companies on the come up, KD has established himself as a sage entrepreneur with a keen eye for talent. But no empire can be built without a solid base built on extra effort and grit. This unique styling salutes KD’s foundation of hard work and determination to grow his platform for future good.",
+                    "Lace Up, Lock In <br/>Full-length Cushlon foam plus a visible Air Zoom Strobel unit provide a dual layer of cushioning that's soft, smooth and responsive. The Air Zoom Strobel eliminates the need for extra layers and brings the energy-returning sensation right up under your foot.",
+                    "Broken-In Comfort <br/>Reduced layers throughout the upper strip away unnecessary weight to enhance the the feeling of broken-in comfort.",
+                    "Grip and Go <br/>The outsole pattern looks like a topographical map, with an array of contoured ridges that bend and deflect in multiple directions to provide traction for every move. \"EASY\" is molded into the rubber in a nod to KD's effortless game.",
+                    "Thin overlays help resist abrasion along the toe."
+                ],
+                "details": [
+                    "Molded KD logo",
+                    "Shown: Old Royal",
+                    "Style: DC1975-400"
+                ],
+                "moreDetails": [
+                    "Behind the Design",
+                    "Clutch plays and impossible shots are all in a day's work for Kevin Durant. Give him the ball, and he makes the game look easy. The KD15 is stripped down to provide just what he wants: plenty of bounce, a secure fit and a broken-in feel. Less materials underfoot and throughout the upper help minimize distractions while optimizing energy return and all-around comfort—vital for players like KD who never stop moving."
+                ]
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "kitemedia",
+                    "title": "Snap, Crackle, Pop",
+                    "rating": 5,
+                    "comment": "I've ordered two pairs of KD15s so far. I love the colorways and chose to go with these specifically because they look like they'll be about the closest thing to a Kobe that you can get your hands on. I haven't played ball in them yet, but I will say, both pairs make a strange popping sound with each step. It sounds like the glue that's holding the insole in place is cracking or something. It may not impact performance at all, and nothing feels like it's loose or coming undone, but the sound alone is very annoying. The shoe is comfortable, though. It will definitely need some break in time as it's pretty stiff out of the box. Feels tough to get a good lockdown like I could with the PG5 or any of the Kobe low tops. Again, I'm guessing that will get better with break-in. The traction feels like it will be amazing on the court as well. I'm excited to see some of the additional colorways drop and hope that these will be a good, reliable hoop shoe.",
+                    "date": "Aug 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "zackw",
+                    "title": "!!!!!!!!!!",
+                    "rating": 5,
+                    "comment": "I think the traction is top notch indoors. The shoe is narrow, but I I still went with my size and I'm it broke down to fit my feet. I would defentily recommend this to everyone. S TEIR.",
+                    "date": "Jul 10, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "mahbunurm916935100",
+                    "title": "!!!!!!!!!!",
+                    "rating": 5,
+                    "comment": "The KD 15's are one of the most comfortable shoes ive ever worn.",
+                    "date": "Jun 30, 2022"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665602834/snicker-fever/dbb784c8-065f-467e-8f33-eb3a8defb603_fn8bn0.webp",
+            "name": "KD15 \"Napheesa Collier\"",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Meet the Nike Air Deldon \"Lyme,\" the new shoe from WNBA star Elena Delle Donne. Channel the best of Elena's versatile game with a basketball shoe designed to keep up with the 2-time MVP. Reflecting her battle with Lyme disease, the lime-green accents represent the drive to continue to fight, even when you feel like you've got nothing left.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Barely Green",
+                "Pale Ivory",
+                "Barely Green"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Elena Delle Donne",
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Volleyball",
+                "Basketball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Meet the Nike Air Deldon \"Lyme,\" the new shoe from WNBA star Elena Delle Donne. Channel the best of Elena's versatile game with a basketball shoe designed to keep up with the 2-time MVP. Reflecting her battle with Lyme disease, the lime-green accents represent the drive to continue to fight, even when you feel like you've got nothing left.",
+                "benefits": [
+                    "FlyEase for All <br/>The Nike Air Deldon is our most inclusive basketball shoe ever. Inspired by Elena’s disabled older sister, Lizzie, the innovative Nike FlyEase design has a collapsible heel and an upper that opens wide for easy entry. Step in, press the FlyEase strap to secure and go. Elena says of the design, “The technology is really cool. It creates so much room for someone with special needs.”",
+                    "Go the Distance <br/>A full-length Nike Air unit is stitched to the upper to help reduce layers and overall weight while bringing the cushioning right up under your foot. There's also a forefoot Zoom Air unit that returns energy with every step. That spring and speed is enveloped in a soft injected foam for complete stability that can help you play at a high level for longer.",
+                    "Join Elena's Fight <br/>Elena Delle Donne is known for the fight she brings to every game, but her biggest battle has often been invisible. Bold and bright, this stand-out lime green edition brings awareness to the Lyme disease Elena has battled throughout her career. The Nike Air Deldon \"Lyme\" steps up awareness on and off the court, showing other athletes with chronic disease what’s possible.",
+                    "Play All 5 Positions <br/>With the size and strength of a center and the agility and skills of a guard, Elena needs a shoe that can keep up. Lightweight, responsive foam combined with a Zoom Strobel underfoot give you the responsiveness to space the floor, run and finish at the rim. Plus, a zoned traction pattern helps you nail every move in any direction.",
+                    "Pivot, Jab and Cut <br/>The outsole pattern uses contoured lines that bend and deflect in multiple directions to help you gain traction and always feel connected to the court."
+                ],
+                "details": [
+                    "Foam insole adds cushioning.",
+                    "Elena's logo is molded into the exposed foam on the bottom and on the strap.",
+                    "Shown: Barely Green",
+                    "Style: DM4096-300"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
         }
     ]
 }
