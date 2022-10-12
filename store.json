@@ -6222,6 +6222,453 @@
                 "moreDetails": null
             },
             "reviews": null
+        },
+        {
+            "id": 89,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665606148/snicker-fever/1c38f82b-a485-46c8-8f3e-a21828c4cb7d_qsadlr.webp",
+            "name": "Nike Free Metcon 4 Premium",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Free Metcon 4 Premium combines flexibility with stability to help you get the most out of your training program. Updated \"chain-link\" mesh cools and flexes as you speed through agility drills, while support at the midfoot and heel braces you for your heaviest sets in the weight room.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Purple Smoke",
+                "Dark Smoke Grey",
+                "Metallic Gold",
+                "Metallic Copper"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "The Nike Free Metcon 4 Premium combines flexibility with stability to help you get the most out of your training program. Updated \"chain-link\" mesh cools and flexes as you speed through agility drills, while support at the midfoot and heel braces you for your heaviest sets in the weight room.",
+                "benefits": [
+                    "Blast from the Past <br/>The 4 brings back the super tough yet breathable mesh from the original version. The upper gets embellished with a Huarache-inspired strap and rubber-striped sidewall that envelops your heel to brace you for movement in any direction.",
+                    "Flexibility for Speed <br/>Nike Free technology in the forefoot creates flexibility for agility moves and sprints. Stretch around the collar lets your foot move naturally as you burst, cut and brake.",
+                    "Pivot, Stability for Strength <br/>The wide heel creates a solid base for lifting. A softer foam core cushions your foot, while a firmer outer layer is durable and stable. Wide internal webbing provides a comfortable yet secure feel during sudden stops and quick cuts."
+                ],
+                "details": [
+                    "Rubberized logo at the tongue nods to the Huarache of the early '90s.",
+                    "Rubber tread in high-wear areas gives you durable traction.",
+                    "Shown: Purple Smoke",
+                    "Style: DQ4678-500"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 90,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665607009/snicker-fever/924b6027-8ef7-4850-8084-fe16a2371884_gghc4n.webp",
+            "name": "Nike SuperRep Go 3 Next Nature Flyknit Premium",
+            "category": "shoe",
+            "price": 100,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "When the intensity turns up, whether you’re in a packed studio full of fellow aerobic alphas or in your living room bouncing between furniture and high-rep burpees, go with the trainer that can help fulfill your personal gains. See the speckles on the outsole? That means it's constructed with at least 10% Nike Grind material, made from scraps from the footwear manufacturing process.﻿",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Dark Smoke Grey",
+                "Olive Grey",
+                "Purple Smoke",
+                "Metallic Copper"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "When the intensity turns up, whether you’re in a packed studio full of fellow aerobic alphas or in your living room bouncing between furniture and high-rep burpees, go with the trainer that can help fulfill your personal gains. See the speckles on the outsole? That means it's constructed with at least 10% Nike Grind material, made from scraps from the footwear manufacturing process.﻿",
+                "benefits": [
+                    "Less Shoe, More You <br/>The upper is minimal and lightweight, with Flyknit added in key areas for containment and breathability.",
+                    "Support That Stabilizes <br/>A durable plastic clip in the arch adds lateral support. The arch design provides containment."
+                ],
+                "details": [
+                    "Grooves under the forefoot create flexibility for planks and other bodyweight moves.",
+                    "Rubber tread in high-wear areas provides stability and traction.",
+                    "Shown: Dark Smoke Grey",
+                    "Style: DQ4679-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 91,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665607576/snicker-fever/df923eba-d0fb-48d5-a2a3-a4e08f5f8932_sevrs2.webp",
+            "name": "Nike Renew In-Season TR 12",
+            "category": "shoe",
+            "price": 100,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Renew In-Season TR 12 has soft foam that gives you plush cushioning and energy return for weights, cardio and everything in between. The sole adds a supportive arc to the side to help keep your foot contained during quick movements.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Dark Smoke Grey",
+                "White",
+                "Black",
+                "Lilac"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SMOOTH TRANSITIONS FROM TREADMILL TO FLOOR.",
+                "description": "The Nike Renew In-Season TR 12 has soft foam that gives you plush cushioning and energy return for weights, cardio and everything in between. The sole adds a supportive arc to the side to help keep your foot contained during quick movements.",
+                "benefits": [
+                    "Renewed Cushioning <br/>Nike Renew cushioning gives you comfort with spring that makes for a smooth ride on the treadmill—and seamless transitions from 1 set to the next.",
+                    "Ready for Your Workout <br/>A stretchy midfoot strap creates a snug, supportive feel.",
+                    "Side-to-Side Support <br/>An arc on the side helps brace your foot to keep it stable during floor exercises."
+                ],
+                "details": [
+                    "Breathable mesh with lightweight overlays on upper",
+                    "Shown: Dark Smoke Grey",
+                    "Style: DD9301-004"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Koinonia",
+                    "title": "Super fun and comfy",
+                    "rating": 5,
+                    "comment": "I got these in the Pink. Super fun style and super comfortable. I have a job on my feet 10 hrs a day and these performed great.",
+                    "date": "Aug 29, 2022"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665608268/snicker-fever/f953e66c-71bc-40a6-84df-ef007124b538_zf1dv8.webp",
+            "name": "Nike MC Trainer 2",
+            "category": "shoe",
+            "price": 75,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Renew In-Season TR 12 has soft foam that gives you plush cushioning and energy return for weights, cardio and everything in between. The sole adds a supportive arc to the side to help keep your foot contained during quick movements.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Dark Smoke Grey",
+                "White",
+                "Black",
+                "Viotech"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SMOOTH TRANSITIONS FROM TREADMILL TO FLOOR.",
+                "description": "The Nike Renew In-Season TR 12 has soft foam that gives you plush cushioning and energy return for weights, cardio and everything in between. The sole adds a supportive arc to the side to help keep your foot contained during quick movements.",
+                "benefits": [
+                    "Stable Strength <br/>The flat base is wider around the heel to help stabilize your foot while you work with weights. Overlays around the toe and laces add durability to stand up to the rigors of the gym.",
+                    "Move It from Side to Side <br/>Support wraps from the heel up to the sides for a snug fit when you tighten the laces. Soft foam provides supportive cushioning and rises at the sides to help brace your foot during lateral moves.",
+                    "Thick and Thin Traction <br/>Rubber tread gives you traction from the turf to the training room floor. It's thicker under the heel for stability while you lift, and thinner in the front for flexibility during short runs or speed drills."
+                ],
+                "details": [
+                    "Mesh up top lets your foot breathe.",
+                    "Directional rubber traction on the side gives you grip on the ropes.",
+                    "Shown: Black",
+                    "Style: DM0824-005"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 93,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665608268/snicker-fever/f953e66c-71bc-40a6-84df-ef007124b538_zf1dv8.webp",
+            "name": "Nike Metcon 8 FlyEase",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "You chase the clock, challenging and encouraging each other all in the name of achieving goals and making gains. Our go-to model for training relies on a lighter, more breathable upper than our previous edition to complement our standards of durability and comfort, so that you can float through your cardio, power through your lifts and dominate your workouts. This version has a collapsible heel that lets you step in without using your hands, then it snaps back up to secure your foot.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Arctic Orange",
+                "Volt",
+                "Football Grey",
+                "Cave Purple"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "You chase the clock, challenging and encouraging each other all in the name of achieving goals and making gains. Our go-to model for training relies on a lighter, more breathable upper than our previous edition to complement our standards of durability and comfort, so that you can float through your cardio, power through your lifts and dominate your workouts. This version has a collapsible heel that lets you step in without using your hands, then it snaps back up to secure your foot.",
+                "benefits": [
+                    "Step-In Entry <br/>Made with FlyEase technology, the shoe's flexible heel collapses when you step in then snaps back into place.",
+                    "Spring in Your Step <br/>Delivering a smooth, responsive ride, Nike React foam makes a comfortable, cushioned base that feels lightweight and springy when you kick into high gear for cardio and sprints.",
+                    "Grip from All Angles <br/>Grippy rubber wraps around your arch during intense rope climbs. Rubber tread gives you traction and helps you stay on your feet when transitioning from the training room floor to the pavement.",
+                    "Stability for Lifts <br/>The wide, flat heel gets even more stable with an inner plate that distributes weight from edge to edge. It also flexes to make it comfortable for cardio and sprints."
+                ],
+                "details": [
+                    "Lightweight mesh with textured overlays in high-wear areas helps keep your foot cool without sacrificing durability.",
+                    "Tab locks down the laces with a hook-and-loop closure to help keep them out of the way.",
+                    "Handstand clip at the heel helps minimize drag during wall exercises.",
+                    "Grooves in the sole let your forefoot bend naturally.",
+                    "Shown: Arctic Orange",
+                    "Style: DO9381-800"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 94,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665610309/snicker-fever/aa8cd1ca-eeea-401f-a96f-b6a49a9c94bd_fk8qbr.webp",
+            "name": "Nike Metcon 7",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Nike Metcon 7 is the gold standard for weight training—even tougher and more stable than previous versions. We've also added React foam that ups the comfort to keep you ready for high-intensity cardio. Plus, a tab locks down your laces so you can forget about them coming untied when you're focused on your next PR.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "White",
+                "Smoke Grey",
+                "Metallic Dark Grey"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "STABLE, STURDY AND READY TO RUN.",
+                "description": "The Nike Metcon 7 is the gold standard for weight training—even tougher and more stable than previous versions. We've also added React foam that ups the comfort to keep you ready for high-intensity cardio. Plus, a tab locks down your laces so you can forget about them coming untied when you're focused on your next PR.",
+                "benefits": [
+                    "More Stability for Lifts <br/>The wide, flat heel gets even more stable with an inner plate that distributes weight from edge to edge. It also flexes to make it comfortable for cardio intervals.",
+                    "Spring in Your Step <br/>Nike React foam makes a comfortable, cushioned base that feels lightweight and springy when you kick it into high gear for cardio and sprints.",
+                    "Grip From All Angles <br/>Grippy rubber wraps around your arch during intense rope climbs. Rubber tread gives you traction and helps you stay on your feet when transitioning from the training room floor to the pavement.",
+                    "Stability for Lifts <br/>Revamped rubber wraps up your arch for intense grip during rope climbs. Rubber tread gives you traction from the training room floor to the pavement."
+                ],
+                "details": [
+                    "Lightweight mesh with textured overlays in high-wear areas helps keep your foot cool without sacrificing durability.",
+                    "Tab locks down the laces with a hook-and-loop closure to help keep them out of the way.",
+                    "Handstand clip at the heel helps minimize drag during wall exercises.",
+                    "Grooves in the sole let your forefoot bend naturally.",
+                    "Flywire cables integrate with the laces to help secure your midfoot.",
+                    "Shown: Arctic Orange",
+                    "Style: CZ8280-010"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "AfsonN868385401",
+                    "title": "bruhh",
+                    "rating": 2,
+                    "comment": "I love that these shoes deliver stability and grip from all angles as advertised but they need different laces. The laces are slick and come undone several times throughout the day even with the tab locks. I also love the color combination of black/white/smoke grey/metallic dark grey but these shoes need pull tabs.",
+                    "date": "Sep 30, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Laura C",
+                    "title": "niceeeeeee",
+                    "rating": 5,
+                    "comment": "My daughter loves these shoes, she said that they gave her a lot of stability when weight lifting 🏋️‍♀️",
+                    "date": "Aug 08, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Tabitha",
+                    "title": "Perfect for CrossFit.",
+                    "rating": 5,
+                    "comment": "Exactly what type of CrossFit shoe I was looking for! It is great for both Olympic lifting and running.",
+                    "date": "May 31, 2022"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665611448/snicker-fever/13e7ac96-5529-4876-8fe2-fa2600f14059_omwcfl.webp",
+            "name": "NNike Zoom HyperAce 2",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Designed for action on hard courts, the Nike Zoom HyperAce 2 Women's Volleyball Shoe helps keep you light and fast on your feet with a breathable upper and responsive cushioning.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "COMMAND THE HARD COURT",
+                "description": "Designed for action on hard courts, the Nike Zoom HyperAce 2 Women's Volleyball Shoe helps keep you light and fast on your feet with a breathable upper and responsive cushioning.",
+                "benefits": [
+                    "Stability for Lifts <br/>Revamped rubber wraps up your arch for intense grip during rope climbs. Rubber tread gives you traction from the training room floor to the pavement."
+                ],
+                "details": [
+                    "Textile and synthetic construction for breathable comfort",
+                    "Heel cage enhances support and stability",
+                    "Foam midsole with Nike Zoom Air cushioning for lightweight responsiveness",
+                    "Durable rubber tread delivers excellent traction",
+                    "Shown: Black",
+                    "Style: AA0286-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "AfsonN868385401",
+                    "title": "jen h",
+                    "rating": 5,
+                    "comment": "I’ve never ordered from Scheels before so I was apprehensive about it but was very impressed with their fast order fulfillment and shipping. The product itself was exactly as described and my daughter loves the shoes.",
+                    "date": "Sep 17, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Laura C",
+                    "title": "Don't buy",
+                    "rating": 1,
+                    "comment": "Fell apart in 2 months!! Not worth it. Don't buy!!",
+                    "date": "Aug 22, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Kiara23031577",
+                    "title": "pretty good",
+                    "rating": 4,
+                    "comment": "the shoes are so nice. love the color and quality, only thing im worried about is the stitching on the tongue of the inside of the shoe. it could easily rip when trying to put on the shoe or adjust it.(hence the stitching doing exactly that) it only created a small tear but still. i wish it was stronger to avoid that happening.",
+                    "date": "Jul 21, 2022"
+                }
+            ]
         }
     ]
 }
