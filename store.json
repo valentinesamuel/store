@@ -6989,6 +6989,557 @@
                     "date": "Aug 17, 2021"
                 }
             ]
+        },
+        {
+            "id": 100,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665694215/snicker-fever/147d5b3e-a4b4-4540-9d2c-94ceb193f780_wg9gxw.webp",
+            "name": "Nike Flex Runner 2",
+            "category": "shoe",
+            "price": 50,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Running shoes made easy! The Nike Flex Runner 2 is built for the kid on the go who loves to play all day—from gym class to a sprint down the block. They're lace-free, meaning super quick to slip on and off. Who’s ready to race?",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Black",
+                "Photo Blue",
+                "University Gold",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "A SLIP-ON FOR SPEEDSTERS.",
+                "description": "Running shoes made easy! The Nike Flex Runner 2 is built for the kid on the go who loves to play all day—from gym class to a sprint down the block. They're lace-free, meaning super quick to slip on and off. Who’s ready to race?",
+                "benefits": [
+                    "Easy On, Easy Fit <br/>A stretchy bootie design makes it easy to slip your foot in with a snug and secure feel. A heel strap and leather on the sides stabilize your fit.",
+                    "Fast Steps <br/>The flexible foam sole is designed with deep grooves so every step and stride feels secure while running. The sole’s pattern also helps with multi-surface traction.",
+                    "Steady Feel <br/>The back of the shoe features foam that creates a wing-like shape around the heel for extra stability when moving in different directions."
+                ],
+                "details": [
+                    "Breathable fabric on the front of the shoe is lightweight and helps keep feet cool.",
+                    "The toe tip is reinforced for extra durability for toe-draggers.",
+                    "Pull tabs on the heel and tongue help you take the shoe on and off.",
+                    "Shown: Black",
+                    "Style: DJ6038-002"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "DanB128153538",
+                    "title": "after 2 times wearing",
+                    "rating": 1,
+                    "comment": "well after 2 times wearing these shoes my son had to have..... they rip and than i get one mad 9 yr old.... what the heck this isnt right!!!!!",
+                    "date": "Sep 07, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "MelanieT",
+                    "title": "Fantastic Shoes! Easy On & Off",
+                    "rating": 5,
+                    "comment": "Fantastic shoes for kiddos that have issues with laces and/or fine motor skills. My son is on the autism spectrum and is very picky about shoes and he loves these. He can get them on and off all by himself and he has a new sense of accomplishment with these. I highly recommend these and I’ve already bought a second pair. He also receives so many compliments on the Blue/red/yellow colorway.",
+                    "date": "Jun 18, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "14210091517",
+                    "title": "Cute and comfy",
+                    "rating": 5,
+                    "comment": "So comfortable and light weight , I didn’t even think there was anything in the box! And true to size",
+                    "date": "May 05, 2022"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665694913/snicker-fever/d4337dc2-b622-4f2b-850b-0b04653fbf44_e6ctfz.webp",
+            "name": "Nike Air Zoom Crossover",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Our first basketball shoe inspired by ladies of the league is made for ALL young hoopers to dominate their game. The Nike Air Zoom Crossover, named after a favorite move, brings an extra bounce to your step with Zoom Air while you fly sky high on the court.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Black",
+                "Safety Orange",
+                "Total Orange",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "CHANGING THE FUTURE OF THE GAME.",
+                "description": "Our first basketball shoe inspired by ladies of the league is made for ALL young hoopers to dominate their game. The Nike Air Zoom Crossover, named after a favorite move, brings an extra bounce to your step with Zoom Air while you fly sky high on the court.",
+                "benefits": [
+                    "By Her, For All <br/>The rubber outsole pattern is inspired by tracking of weather patterns—meant to simulate the storm of the growing youth and women’s game. Graphics and design details tie back to Nike’s Swoosh Fly collection—our signature apparel line for women’s basketball.",
+                    "All About Air <br/>A Zoom Air unit in the heel provides responsive cushioning for an extra bouncy feel.",
+                    "Cool Moves <br/>Lightweight mesh provides breathability so your feet stay cool and comfortable on the court."
+                ],
+                "details": [
+                    "The toe area is designed to give plenty of room for growing feet.",
+                    "The collar fits snug around the ankle for support.",
+                    "Grooves in the sole provide flexibility so each step feels natural.",
+                    "Classic laces",
+                    "Shown: White",
+                    "Style: DC5216-103"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Got2Bcomfy",
+                    "title": "Quality shoes ready for adventure",
+                    "rating": 5,
+                    "comment": "I’m an adult with small feet, so I’m lucky to be able to fit in kids’ shoes. This pair is perfect! They’re stylish and comfy for every activity, from a shopping trip to a day at the park. I’m a women’s 6.5-7, and I usually wear a kids’ 4.5-5. Size 4.5 seems plenty spacious for me, so if you’re in between sizes then I’d select the smaller option. I’m very impressed with the quality of these shoes. I can’t wait to wear them on some more adventures!",
+                    "date": "Oct 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Tanya_Saree",
+                    "title": "Stylish and comfy basketball shoes",
+                    "rating": 5,
+                    "comment": "My son is constantly on his feet and needed a shoe that could keep up with him. He plays basketball, skateboards, and cycles. He has worn these shoes for all of his regular activities. He has told me they are extra comfy and loves the cool look of the shoe. My son is tall for his age, he wears a 6.5Y and has no problem getting these shoes on himself. I really like how durable the shoe is, they have been worn nonstop for 2 weeks and still look great. He has noticed a few details that really make these shoes special such as game mode on the front by the laces and fly on a small tag on the back of the shoe.",
+                    "date": "Oct 13, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Keithw76",
+                    "title": "Comfortable shoes for picky feet",
+                    "rating": 5,
+                    "comment": "My son is very picky about the shoes he wears on his feet. Not only do they have to be comfortable but they have to be the perfect size. We have found that with this shoe. It’s lightweight, durable, and aesthetically appealing. He has been wanting a pair of basketball shoes for a very long time. Now he just needs the same shoe in other colors!",
+                    "date": "Oct 12, 2022"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665695725/snicker-fever/a01954fb-8849-4aa3-9c0d-70d9a0a39304_dc3gaw.webp",
+            "name": "Giannis Immortality 2",
+            "category": "shoe",
+            "price": 65,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "All little hoopers want playtime to last forever. The Giannis Immortality 2 helps make that happen. Rocking a new-and-improved strap for comfort (stamped with Giannis’ logo) and a lightweight feel, these shoes make sure the fun never stops.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5"
+            ],
+            "colors": [
+                "Yellow Strike",
+                "Laser Blue",
+                "Tour Yellow",
+                "Multi-Color"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "All little hoopers want playtime to last forever. The Giannis Immortality 2 helps make that happen. Rocking a new-and-improved strap for comfort (stamped with Giannis’ logo) and a lightweight feel, these shoes make sure the fun never stops.",
+                "benefits": [
+                    "Innovative Strap <br/>Hook-and-loop strap is soft and flexible. An integrated pull cord makes it easier to pull these on and off.",
+                    "Ground Control <br/>Rubber sole with herringbone pattern gives durable traction. Grooves are added to make the shoes extra flexible.",
+                    "Built to Last <br/>Breathable mesh is lightweight so little feet can feel comfy all day. An extra skin layer across the toes gives durability, and a plush collar adds comfort."
+                ],
+                "details": [
+                    "See-through Swoosh logo lets you take a peek inside to see the elastic laces at work.",
+                    "Pull cord on the heel makes it easy to pull the shoes on and off.",
+                    "Shown: Yellow Strike",
+                    "Style: DQ1942-700"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 103,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665695846/snicker-fever/c46631ef-0032-4e24-b69f-626f1637977f_qvklmt.webp",
+            "name": "Nike Vapor Edge Shark",
+            "category": "shoe",
+            "price": 38,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "From kickoff to the final buzzer, these football cleats are built to last. Nike Fastflex technology plus rubber studs help you dig in deep for drills and breaking tackles. Whether it's for practice or game day, you'll be always be ready to take the field and play your best.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5"
+            ],
+            "colors": [
+                "Black",
+                "Dark Smoke Grey",
+                "Iron Grey",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Football",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": "CHANGING THE FUTURE OF THE GAME.",
+                "description": "From kickoff to the final buzzer, these football cleats are built to last. Nike Fastflex technology plus rubber studs help you dig in deep for drills and breaking tackles. Whether it's for practice or game day, you'll be always be ready to take the field and play your best.",
+                "benefits": [
+                    "Nike Fastflex technology with rubber studs creates flexibility and traction for bursts of speed, quick cuts and sudden stops.",
+                    "Synthetic material on the upper is durable and easy to clean.",
+                    "Soft foam underfoot provides lightweight cushioning."
+                ],
+                "details": [
+                    "Classic laces",
+                    "Shown: Black",
+                    "Style: DQ5111-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Brad H",
+                    "title": "Great cleats",
+                    "rating": 5,
+                    "comment": "Great cleats",
+                    "date": "Oct 03, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Carmen H.",
+                    "title": "comfy",
+                    "rating": 1,
+                    "comment": "Nike didn't have a size 6 in boys, so I had to settle for a 5.5. All other styles didn't have his size either.",
+                    "date": "Sep 29, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "alande p",
+                    "title": "shoes",
+                    "rating": 5,
+                    "comment": "Great shoes very light and comfortable",
+                    "date": "Sep 05, 2022"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665696434/snicker-fever/5e4bad33-80a9-48f1-b777-7665eaf78a06_cgztqq.webp",
+            "name": "Nike Jr. Mercurial Superfly 9 Club KM FG/MG",
+            "category": "shoe",
+            "price": 50,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Play fast, play relentless and feel like superstar Kylian Mbappé on the field with the Nike Jr. soccer cleats. Designed for versatility from artificial grass to real grass, they have the traction you need to run and cut on all different types of fields. The durable design will hold up from practice to game day—with the stamp of approval from one of the world's best.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Dark Beetroot",
+                "University Blue",
+                "Vivid Purple",
+                "Metallic Vivid Gold"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Football",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Play fast, play relentless and feel like superstar Kylian Mbappé on the field with the Nike Jr. soccer cleats. Designed for versatility from artificial grass to real grass, they have the traction you need to run and cut on all different types of fields. The durable design will hold up from practice to game day—with the stamp of approval from one of the world's best.",
+                "benefits": [
+                    "Exceptional Touch <br/>Synthetic leather upper features small textured details that provide grip for better ball control when dribbling at quick speeds.",
+                    "Dig In, Take Off <br/>Designed for various surfaces, conical studs offer supercharged traction with quick release and pivoting.",
+                    "Seamless Design <br/>A comfortable lining wraps your foot for a natural, close-fitting feel."
+                ],
+                "details": [
+                    "Classic laces",
+                    "For use on natural and synthetic surfaces",
+                    "Shown: Dark Beetroot",
+                    "Style: DO9789-694"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 105,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665696835/snicker-fever/364a2475-1aa6-41c7-ad71-73ab88fb1eb0_fuojis.webp",
+            "name": "Jordan 4 Retro",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The Jordan 4 Retro is inspired by the original AJ4. Made with real and synthetic leather and textile, soft foam cushioning, and play-ready rubber traction, it features the mesh paneling and angled overlays that made the shoe so memorable.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10",
+                "11-15"
+            ],
+            "colors": [
+                "Dark Grey",
+                "Black",
+                "Cement Grey",
+                "Infared 23"
+            ],
+            "brand": "nike",
+            "activities": [
+                "Sports",
+                "LifeStyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Jordan",
+            "sport": [
+                "LifeStyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "RETRO FLIGHT FOR KIDS.",
+                "description": "The Jordan 4 Retro is inspired by the original AJ4. Made with real and synthetic leather and textile, soft foam cushioning, and play-ready rubber traction, it features the mesh paneling and angled overlays that made the shoe so memorable.",
+                "benefits": [
+                    "Luxe Look and Feel <br/>Real and faux leather materials are durable and easy to clean. Constructed in layers, the materials give the shoe its structured feel and iconic look.",
+                    "Secure Fit <br/>Angular overlays along the sides connect to the upper lace feeds, so when you lace up, the overlays wrap over your foot to secure the fit.",
+                    "Instant Recognition <br/>Grid mesh on the sides and tongue stands out as one of the 4's most distinctive features."
+                ],
+                "details": [
+                    "Foam cushioning",
+                    "Rubber outsole",
+                    "Shown: Dark Grey",
+                    "Style: BQ7669-061"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 106,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665697187/snicker-fever/8f893d2e-cccd-4702-baa8-d9274d9325d8_vdokcw.webp",
+            "name": "Jordan Flare",
+            "category": "shoe",
+            "price": 45,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "Perfect for active kids, the Jordan Flare is light, breathable and comfortable from toe to heel. It's easy to get on, has a heel band to keep it from slipping off and is covered in the front to help prevent toe stubs.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Gym Red",
+                "Black",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Air Jordan"
+            ],
+            "athlete": "Jordan",
+            "sport": [
+                "LifeStyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "MADE TO RUN AND PLAY.",
+                "description": "Perfect for active kids, the Jordan Flare is light, breathable and comfortable from toe to heel. It's easy to get on, has a heel band to keep it from slipping off and is covered in the front to help prevent toe stubs.",
+                "benefits": [
+                    "Stretchy, quick-drying material has a snug and comfortable fit.",
+                    "The soft rubber outsole provides traction on multiple surfaces and has grooves for flexibility.",
+                    "A molded heel helps the sandal fit snugly.",
+                    "The textured footbed is soft and comfortable.",
+                    "A hook-and-loop strap makes it easy to get on and off."
+                ],
+                "details": [
+                    "Closed toe area",
+                    "Shown: Gym Red",
+                    "Style: CI7850-610"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Debrah S",
+                    "title": "Convenient and Cute",
+                    "rating": 5,
+                    "comment": "Easy enough to get on and off that my toddler can do it, light and airy for hot summer days, keeps his toes covered so he doesn’t stub them, holding up so well to nonstop play, and wipe down to clean easily",
+                    "date": "Jul 10, 2021"
+                }
+            ]
+        },{
+            "id": 107,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665697703/snicker-fever/910752bd-5f4f-41c5-ae51-0aee4538cbb6_lrypmx.webp",
+            "name": "Nike Kawa SE",
+            "category": "shoe",
+            "price": 24,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "The Nike Kawa SE is an easy slip-on for any kiddo. Straps keep little feet from doing the kick-off dance. With plush comfort and a shiny logo, it’s all about looking and feeling good.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+               
+                "Black",
+                "Pure Platinum"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SLIDE INTO FUN.",
+                "description": "Perfect for active kids, the Jordan Flare is light, breathable and comfortable from toe to heel. It's easy to get on, has a heel band to keep it from slipping off and is covered in the front to help prevent toe stubs.",
+                "benefits": [
+                    "Strappy Support <br/>A soft, stretchy strap around the heel provides a secure fit. The top strap is durable and easy to clean.",
+                    "Foamy Feel <br/>Soft foam footbed is flexible and comfy.",
+                    "Thoughtful Design <br/>Hidden seams help prevent rubbing against little feet."
+                   
+                ],
+                "details": [
+                
+                    "Shown: Gym Red",
+                    "Style: DN3971-001"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "3796616468",
+                    "title": "Nice Shoe But Runs Small",
+                    "rating": 4,
+                    "comment": "The sandal is very cute and durable for a toddler but runs really small. I ordered it for an 18month old who wears a 6c and returned it twice already to get a better fit. I just ordered a 9c and that should fit perfectly. He's ok with the other Nike shoes he's been wearing. This is actually the first sandal that he's allowed anyone to put close to his feet because it's not made with a hard plastic.",
+                    "date": "Jun 13, 2022"
+                }
+            ]
         }
     ]
 }
