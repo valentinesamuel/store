@@ -6452,7 +6452,7 @@
         },
         {
             "id": 93,
-            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665608268/snicker-fever/f953e66c-71bc-40a6-84df-ef007124b538_zf1dv8.webp",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665686493/snicker-fever/61d4da5c-e296-4729-887d-9fae18453b8d_qecxz1.webp",
             "name": "Nike Metcon 8 FlyEase",
             "category": "shoe",
             "price": 130,
@@ -6595,7 +6595,7 @@
         {
             "id": 95,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665611448/snicker-fever/13e7ac96-5529-4876-8fe2-fa2600f14059_omwcfl.webp",
-            "name": "NNike Zoom HyperAce 2",
+            "name": "Nike Zoom HyperAce 2",
             "category": "shoe",
             "price": 120,
             "isAccessory": false,
@@ -6667,6 +6667,326 @@
                     "rating": 4,
                     "comment": "the shoes are so nice. love the color and quality, only thing im worried about is the stitching on the tongue of the inside of the shoe. it could easily rip when trying to put on the shoe or adjust it.(hence the stitching doing exactly that) it only created a small tear but still. i wish it was stronger to avoid that happening.",
                     "date": "Jul 21, 2022"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665686515/snicker-fever/e0a0bd73-96ce-47a0-aa26-953057b55646_f9fyi5.webp",
+            "name": "Nike React Ace Tour",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "We'd like to introduce the Nike React Ace Tour. It's the first performance golf shoe we've designed and refined with the female athlete in mind. Every detail, from the new traction pattern to the innovative lacing system, is built to perform, whether you're a professional or just starting your golf journey.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Light Soft Pink",
+                "Pink Oxford",
+                "Sail",
+                "Hyper Pink"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Golf",
+                "Walking",
+                "Golf"
+            ],
+            "productDetail": {
+                "title": "INNOVATED FOR YOU.",
+                "description": "We'd like to introduce the Nike React Ace Tour. It's the first performance golf shoe we've designed and refined with the female athlete in mind. Every detail, from the new traction pattern to the innovative lacing system, is built to perform, whether you're a professional or just starting your golf journey.",
+                "benefits": [
+                    "Female-Specific Design <br/>This shoe was built, tuned and styled to meet the performance needs of female athletes. Informed by women’s foot shape, the fit features a shallower toe box, a tapered heel, a higher arch and an outsole that narrows through the arch.",
+                    "Innovative Lacing <br/>The FlyEase lacing system acts like a harness for your foot by delivering a quick, secure fit with a simple pull of the band. A side loop releases the fit system with another easy pull.",
+                    "Cushioned Responsiveness <br/>Nike React technology is a lightweight, durable foam that delivers a smooth, springy ride. A foam sockliner cushions every step.",
+                    "Perimeter Traction <br/>Instead of placing it directly underfoot, the new outsole pattern integrates traction along the perimeter of the shoe. The critical slipping zone beneath your first metatarsal has added components that increase grip when you transition into your downswing."
+                ],
+                "details": [
+                    "Mudguard wraps the entire shoe, adding durability to high-wear areas.",
+                    "2-year waterproof warranty",
+                    "Shown: Light Soft Pink",
+                    "Style: CW3096-666"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Lemilyt",
+                    "title": "Laces broke",
+                    "rating": 2,
+                    "comment": "Had these for 3 months, during my THIRD round, the laces broke and my feet were swimming around in the shoe. Luckily, the mesh covering was there to keep my feet somewhat inside the shoes. Left side broke on the 4th hole, right side on the 12th.",
+                    "date": "Aug 23, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Sterncroft",
+                    "title": "Very comfortable",
+                    "rating": 4,
+                    "comment": "I purchased the all-white shoes. They're nice looking and very comfortable. I've played golf in them 3 times. One of the rounds was the day after a heavy rain -- my feet stayed dry. I don't understand the purpose of the mesh covering, and it makes them a little difficult to clean. As for the band & loop that you're supposed to pull to adjust the shoe -- I can't tell that either one does anything. However, I slip in and out of the shoes easily and they don't feel tight or loose. When buying athletic shoes I always buy 1/2 size larger than my street shoes (8M), which I did with these -- they fit fine. I can't comment on durability since I've only had them a short time.",
+                    "date": "Jul 14, 2022"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665687155/snicker-fever/7da5519c-bb15-4595-9cf7-73fd3b325a2d_i5iex7.webp",
+            "name": "Nike Roshe G",
+            "category": "shoe",
+            "price": 80,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Inspired by a Nike icon, the Nike Roshe G elevates your look with plush, breathable materials. Its integrated traction pattern means you won't lose time transitioning from the course to the concrete.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Pink Oxford",
+                "Sail",
+                "Desert Berry",
+                "Hyper Pink"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Running",
+                "Walking",
+                "Golf"
+            ],
+            "productDetail": {
+                "title": "STEP ON COURSE IN ICONIC COMFORT.",
+                "description": "Inspired by a Nike icon, the Nike Roshe G elevates your look with plush, breathable materials. Its integrated traction pattern means you won't lose time transitioning from the course to the concrete.",
+                "benefits": [
+                    "Updated material is lightweight and breathable.",
+                    "Pressure-mapped outsole puts grip where you need it the most.",
+                    "Gusset on the tongue helps keep out debris.",
+                    "Injected foam midsole delivers soft, lightweight cushioning.",
+                    "The high sidewall and nested, wraparound heel counter add flexible stability and rotational support."
+                ],
+                "details": [
+                    "Heel and tongue pull tabs",
+                    "Shown: Pink Oxford",
+                    "Style: CD6066-616"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Dorothy R.",
+                    "title": "Nicee!",
+                    "rating": 5,
+                    "comment": "I love my shoes! They fit perfectly! I hope they help my golf game!!!!",
+                    "date": "Jan 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Jadotr",
+                    "title": "Comfortable!",
+                    "rating": 4,
+                    "comment": "Golfed 9 holes in these and they were great! No breaking in needed. Would recommend. I’d also recommend going 1/2 size up!",
+                    "date": "Aug 15, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "constancef426035023",
+                    "title": "NOT WATERPROOF",
+                    "rating": 1,
+                    "comment": "These shoes were a gift and unfortunately I was unable to use them prior to the 30 day guarantee. The first outing was rough as my feet were soaked by the end of the round. If you are a golfer who plays in a variety of weather conditions, I would definitely recommend a different shoe. Playing on days that the course is wet is horrible, my feet get uncomfortable very quickly.",
+                    "date": "Jul 29, 2021"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665692874/snicker-fever/6df6b1c8-8e90-43cd-84ff-203b0c8680c0_scghbf.webp",
+            "name": "NikeCourt React Vapor NXT",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "For the rally that won’t relent or the dangling volley that needs to be smashed at the net, go with the next generation of tennis performance. Backed by years of athlete data, it provides the kind of tenacious traction that can help you get to that unreachable ball along the baseline. An innovative cushioning system offers the sort of satisfying support that can help make the difference if your match goes the distance.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Light Bone",
+                "Sail",
+                "Peach Cream",
+                "Dark Driftwood"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Walking",
+                "Tennis"
+            ],
+            "productDetail": {
+                "title": "LOOK FAST. PLAY FAST.",
+                "description": "For the rally that won’t relent or the dangling volley that needs to be smashed at the net, go with the next generation of tennis performance. Backed by years of athlete data, it provides the kind of tenacious traction that can help you get to that unreachable ball along the baseline. An innovative cushioning system offers the sort of satisfying support that can help make the difference if your match goes the distance.",
+                "benefits": [
+                    "Closer to the Ground <br/>Nike React technology delivers an extremely smooth ride. Placed near your arch, the soft foam works in tandem with a firmer foam along the outside of your foot. This alignment is designed to help you push off during fast movements.",
+                    "Data-Informed Durability <br/>Built to withstand the force of sliding, the generative design uses data to integrate durable rubber and tough plastic in high-wear areas, like the medial side of the forefoot.",
+                    "Innovative Grip <br/>The modified herringbone outsole uses athlete data to provide grip without impacting your ability to slide.",
+                    "Stiff frame on the lateral side creates an extra-stable feel during side-to-side movements.",
+                    "Full-length inner sleeve creates a snug, sock-like fit."
+                ],
+                "details": [
+                    "Removable insole",
+                    "Designed for wear on hard court surfaces",
+                    "Heel pull tab",
+                    "Shown: Sail",
+                    "Style: CV0742-102"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "FootballWife",
+                    "title": "Heavy. Bulky. Weird.",
+                    "rating": 1,
+                    "comment": "I tried these in two different sizes and they are an odd shoe for tennis. I tried them on and did some movements in my house and immediately knew these were not for me on court. I sprint and run a lot and could see myself tripping over my feet with these shoes. I just don't know why you don't stick with the thing that works. The Court Zoom Vapor 9.5 and the Vapor X were superior court shoes and you haven't made anything that comes close since.",
+                    "date": "Aug 31, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "JeehyeK777627578",
+                    "title": "Comfortable!",
+                    "rating": 5,
+                    "comment": "I usually find Nike tennis shoes to be too stiff and narrow, but these are great. They are lighter and more flexible than the typical tennis shoes but still feel snug and secure. I have wide feet and low arches and have a hard time finding court shoes that don't hurt my feet after an hour--I have been able to wear these without any pain at all. I like them so much that I purchased a second pair so that I don't have to look for shoes again next season. They do run quite big and I ordered a whole size down. I usually wear size 7 in Nike running shoes, but I found the 6 to be the correct size for me in these shoes. If you have wide feet and prefer lower arch support, I would recommend them.",
+                    "date": "Jan 12, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Maureen",
+                    "title": "So pretty but just a smidge too narrow for me",
+                    "rating": 3,
+                    "comment": "Loved everything about these shoes except they were just a smidge too narrow for me. I wasn't sure if they would stretch with wear because they have that rubber encasing it, so I am reluctantly returning them.",
+                    "date": "Dec 12, 2021"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665693611/snicker-fever/b64401a2-1789-4f79-b693-626c49670301_xww4ny.webp",
+            "name": "NikeCourt Air Max Volley",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Tennis is a dynamic, fast-paced sport. Designed to contour a woman's foot, the NikeCourt Air Max Volley has a sleek profile that will keep your feet comfortable and locked down, so you can focus on getting to the ball quickly.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Light Bone",
+                "Lobster",
+                "White"
+            ],
+            "brand": "nike",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Gym",
+                "LifeStyle",
+                "Walking",
+                "Tennis"
+            ],
+            "productDetail": {
+                "title": "SPEED AND SUPPORT.",
+                "description": "Tennis is a dynamic, fast-paced sport. Designed to contour a woman's foot, the NikeCourt Air Max Volley has a sleek profile that will keep your feet comfortable and locked down, so you can focus on getting to the ball quickly.",
+                "benefits": [
+                    "Adaptive Fit <br/>The laces intertwine with reinforced loops, so the more you cinch down the laces, the more support you'll get around the midfoot.",
+                    "Cushioned Comfort <br/>A visible Max Air unit in the heel helps absorb impact during fast cuts and quick movements. A drop-in foam insole cushions every step and creates a sleek, low-profile look and feel.",
+                    "Inspiration in Motion <br/>The arcing lines of the shoe mimic the contour of a tennis volley. Below the arc, the details scream breathability and lightness; above it, the features focus on durability and stability.",
+                    "Female-Specific Design <br/>With a design based on women’s foot morphology, this shoe has a shallower toe box, a tapered heel, a higher arch and an outsole that narrows through the arch. You'll even get data-driven durability exactly where you need it the most."
+                ],
+                "details": [
+                    "Foam pods on the heel create a comfortable, secure fit.",
+                    "Generative design uses data to place extra traction along the perimeter of the outsole for grip precisely where you need it the most.",
+                    "Ergonomic heel design supports the rocking nature of a tennis serve and strike.",
+                    "Shown: Light Bone",
+                    "Style: CU4275-004"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Samantha J.",
+                    "title": "Needs longer laces",
+                    "rating": 4,
+                    "comment": "Shoes fit well and comfy but the laces are way too short and barely tie bow. Had to purchase longer laces.",
+                    "date": "Jan 12, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Jodi N",
+                    "title": "Show stopper",
+                    "rating": 4,
+                    "comment": "Great look, comfortable if you don’t have wide feet. Would be great if insole was a memory foam sole. Does not feel light weight but it’s definitely a show stopper. Looks great with my scrubs.",
+                    "date": "Aug 18, 2021"
+                },
+                {
+                    "id": 3,
+                    "name": "Celestial Sky",
+                    "title": "Nike Women's Air Max Tennis Shoes",
+                    "rating": 5,
+                    "comment": "Love these! They are heavier than a running shoe, but they are so pretty that I decided to keep them.",
+                    "date": "Aug 17, 2021"
                 }
             ]
         }
