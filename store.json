@@ -1,6 +1,6 @@
 {
     "shoes": [
-        //men
+        // nike men
         {
             "id": 1,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664903142/snicker-fever/naf1_yaba3c.webp",
@@ -3625,7 +3625,7 @@
                 }
             ]
         },
-        //women
+        // nike women
         {
             "id": 52,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665509327/snicker-fever/4728ee23-33e0-4d21-b1b8-07a57dfd3c32_ydkgic.webp",
@@ -7516,7 +7516,7 @@
             ],
             "productDetail": {
                 "title": "SLIDE INTO FUN.",
-                "description": "Perfect for active kids, the Jordan Flare is light, breathable and comfortable from toe to heel. It's easy to get on, has a heel band to keep it from slipping off and is covered in the front to help prevent toe stubs.",
+                "description": "The Nike Kawa SE is an easy slip-on for any kiddo. Straps keep little feet from doing the kick-off dance. With plush comfort and a shiny logo, it’s all about looking and feeling good.",
                 "benefits": [
                     "Strappy Support <br/>A soft, stretchy strap around the heel provides a secure fit. The top strap is durable and easy to clean.",
                     "Foamy Feel <br/>Soft foam footbed is flexible and comfy.",
@@ -7538,6 +7538,878 @@
                     "date": "Jun 13, 2022"
                 }
             ]
+        },
+        // adidas men
+        {
+            "id": 108,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665699375/snicker-fever/95d3ae9c17a14a0e8ac5aeb401080ec2_9366_sv1o5q.webp",
+            "name": "LITE RACER ADAPT 5.0 SHOES",
+            "category": "shoe",
+            "price": 70,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "These adidas shoes are the quickest way to step outside without losing style points. With their unexpected color combinations and sporty webbed laces, they instantly add flash to simple outfits. The Cloudfoam cushioning feels superlight and comfy, whether you style them up with denim or slip them on with swim shorts.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Shadow Olive",
+                "Core Black",
+                "Green Oxide"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Perfect for active kids, the Jordan Flare is light, breathable and comfortable from toe to heel. It's easy to get on, has a heel band to keep it from slipping off and is covered in the front to help prevent toe stubs.",
+                "benefits": [
+                    "Regular fit",
+                    "Pull-on construction",
+                    "Textile upper",
+                    "Lightweight feel",
+                    "Cloudfoam sockliner",
+                    "Upper contains a minimum of 50% recycled content"
+                ],
+                "details": [
+                    "Synthetic outsole",
+                    "Shown: Shadow Olive",
+                    "Style: GX6779"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Best quality cheap shoe out there.",
+                    "rating": 5,
+                    "comment": "I would recommend it to others. I bought it for my best friend and he loves it.",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "They’re perfect!",
+                    "rating": 5,
+                    "comment": "I love not having to tie laces. They’re so comfy and will continue to buy similar styles",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Good stuff",
+                    "rating": 5,
+                    "comment": "These shoes are fireeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665699846/snicker-fever/4a108d80723043748116ae1300e3d1be_9366_tt7p9r.webp",
+            "name": "OZELIA SHOES",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "There's no missing you in these adidas Ozelia Shoes. The reflective accents and creative pops of color make sure of it. The distinctive vibe is understandable given their origins — the '90s. The era known for being loud, bold and unapologetic. Add in their running inspiration and you have a foundation that's build on comfort. Specifically, Adiprene cushioning. In every detail, these don't hold back.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Core White",
+                "Ecru Tint"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "There's no missing you in these adidas Ozelia Shoes. The reflective accents and creative pops of color make sure of it. The distinctive vibe is understandable given their origins — the '90s. The era known for being loud, bold and unapologetic. Add in their running inspiration and you have a foundation that's build on comfort. Specifically, Adiprene cushioning. In every detail, these don't hold back.",
+                "benefits": [
+                    "Lace closure",
+                    "25% of pieces used to make the upper are made with a minimum of 50% recycled content",
+                    "Textile and welded upper",
+                    "Adiprene cushioning",
+                    "Textile lining",
+                    "Upper contains a minimum of 50% recycled content"
+                ],
+                "details": [
+                    "GY8553",
+                    "Shown: Cloud White",
+                    "Style: GY8553"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Very Comfortable at a great price",
+                    "rating": 5,
+                    "comment": "These are extremely comfortable shoes and they are very lightweight. I have the Boost 2k and these Ozelias are much lighter. Yet they feel sturdy and not cheap in quality. The stitching is very well done and only a couple of tiny areas where you can see an overlap of glue or a stray stitch but you really have to look closely. Overall these are definitely nice for the price. Basically better looking Yeezy 500 on a budget. They run a bit large so you might want to order a half size down.",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Amazing shoe very comfortable",
+                    "rating": 5,
+                    "comment": "Love the color way soft on the feet Adidas ozeila is an amzing shoe",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Great bang for your buck.",
+                    "rating": 5,
+                    "comment": "Chunky, trendy, loud. It's not Boost but it's still very comfy and lightweight. Wide foot friendly as well.",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665700381/snicker-fever/360e9f70027249b99f3faed9013c1c0d_9366_kg1o0i.webp",
+            "name": "FORUM LOW SHOES",
+            "category": "shoe",
+            "price": 88,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Reignite your love for the '80s, when sport style went hard from game day to the everyday. This pair of the iconic adidas Forum Low shoes gets a modern update with fresh color combos. A leather upper and rubber outsole add the extra comfort that you deserve.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Core White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym"
+            ],
+            "productDetail": {
+                "title": null,
+                "description": "Reignite your love for the '80s, when sport style went hard from game day to the everyday. This pair of the iconic adidas Forum Low shoes gets a modern update with fresh color combos. A leather upper and rubber outsole add the extra comfort that you deserve.",
+                "benefits": [
+                    "Lace closure",
+                    "Leather upper",
+                    "Textile and welded upper",
+                    "Rubber outsole",
+                    "Textile lining"
+                ],
+                "details": [
+                    "Shown: Cloud White",
+                    "Style: HQ1494"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Very Very very Very Very Very Very Very Very Good",
+                    "rating": 5,
+                    "comment": "Very Very very Very Very Very Very Very Very Good",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "One of my fav shoes",
+                    "rating": 5,
+                    "comment": "The color palette is so cute, very comfortable, very satisfied",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Amazing, best quality possible and fast shipping.",
+                    "rating": 5,
+                    "comment": "Got here 8 days early, super cool design, and even give me a little height.",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665700667/snicker-fever/fbaf991a78bc4896a3e9ad7800abcec6_9366_lkutl1.webp",
+            "name": "ULTRABOOST 22 SHOES",
+            "category": "shoe",
+            "price": 114,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "These Ultraboost running shoes serve up comfort and responsiveness. You'll be riding on a BOOST midsole for endless energy, with a Linear Energy Push system and a Continental™ Rubber outsole. This shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic —  reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "SAY HELLO TO INCREDIBLE ENERGY RETURN",
+                "description": "These Ultraboost running shoes serve up comfort and responsiveness. You'll be riding on a BOOST midsole for endless energy, with a Linear Energy Push system and a Continental™ Rubber outsole. This shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic —  reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean.",
+                "benefits": [
+                    "Lace closure",
+                    "Regular fit",
+                    "adidas PRIMEKNIT textile upper",
+                    "Soft heel fit",
+                    "Stretchweb outsole with Continental™ Better Rubber"
+                ],
+                "details": [
+                    "Imported",
+                    "Shown: Core Black",
+                    "Style: GZ0127"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Poor Quality Control",
+                    "rating": 3,
+                    "comment": "My pair had excess glue marks and glue stains all around the sole. Considering the price of this pair, I expected better quality control.",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Dissapointed",
+                    "rating": 2,
+                    "comment": "Quality, design, weight all ok.. Its adidas, but it '' burned'' my leg in the inside before the big finger on the side. Its like they are opening your skin as you ran. Maybe its the size of my foot? I dont know. It is frustrating. Please take consider for your labs for the next models.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "The best shoes my feet have experienced.",
+                    "rating": 5,
+                    "comment": "I bought these shoes when they were on sale based on a recommendation from a college roommate. Wow! These shoes are amazing! They are so comfortable. If you like walking on clouds and having a plushy ride with a little pep in your step then these are the shoes for you! I bought them in white so they could go with anything I wore. These are great for running and for lifestyle/fashion. If you want a comfy work shoe I would recommend the all-black version as I try and keep my white shoes looking like the shoes angels might wear if they were to grace the earth which is a chore. Additionally, the all-black at this time is only $119 which is a steal in my opinion. Hopefully, the shoes last. I am really impressed by the rubber outsole made with Continental. As I runner, I picked up on the quality and expect the outsole to last for a long time. The collar of the shoe is a bit odd in the back it is at a 60-70° angle. I will try and update this later to see how the shoes hold up. Warning: Not suitable for asceticism. Note: This shoe provides a pleasurable experience. Warning: Your feet may fall in love with you as a result of your purchase!",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665701154/snicker-fever/f8dd490e3fb54364a950ae7a01019dc9_9366_kgi51f.webp",
+            "name": "ULTRABOOST 5.0 DNA SHOES",
+            "category": "shoe",
+            "price": 190,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "These adidas sneakers are living their best life. Rooted in running but with one foot (pardon the pun) firmly in the realm of fashion, the Ultraboost DNA is built for whatever your day brings. adidas PRIMEKNIT wraps the foot for a supportive fit. BOOST provides instant comfort and endless energy return for a smooth ride no matter where they take you.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Royal Blue",
+                "Beam Yellow"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Walking",
+                "Gym",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "SAY HELLO TO INCREDIBLE ENERGY RETURN",
+                "description": "These adidas sneakers are living their best life. Rooted in running but with one foot (pardon the pun) firmly in the realm of fashion, the Ultraboost DNA is built for whatever your day brings. adidas PRIMEKNIT wraps the foot for a supportive fit. BOOST provides instant comfort and endless energy return for a smooth ride no matter where they take you.",
+                "benefits": [
+                    "Lace closure",
+                    "Regular fit",
+                    "adidas PRIMEKNIT textile upper",
+                    "BOOST midsole",
+                    "Stretchweb outsole with Continental™ Better Rubber"
+                ],
+                "details": [
+                    "Yarn in upper contains at least 50% Parley Ocean Plastic and 50% recycled polyester",
+                    "Shown: Core Black",
+                    "Style: HP2478"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Great shoe, but not durable",
+                    "rating": 3,
+                    "comment": "There are multiple holes on the fronts of each shoe and the bottom heel part doesn't stick anymore so it hangs out. And the sole of the left shoe doesn't stick anymore so that shoe is lopsided. Really nice shoe, just wasn't that durable given the amount of time I had them. If I can get store credit, I'd still buy another adidas shoe",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Fit changes… shoes too tight around top of foot.",
+                    "rating": 3,
+                    "comment": "Disappointed with these ultraboosts. I’ve worn ultraboosts before and they were always the perfect fit and comfort. They are too tight around the top of the foot. It’s not just this pair, it’s THREE other pairs I bought in different colors. I currently wear the primeblue editions (previous all black version) instead of these since they fit better. Maybe I’ll try stretching these out or something. I’ll have to go to a store and try a half size up and see if that fixes it. If they don’t I’m going to be really sad since I wear Adidas shoes every day. I might have to find a different brand that makes a comfortable shoe that fits.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "BOOST OR BUST",
+                    "rating": 5,
+                    "comment": "BOOST midsole, Primeknit upper - not many shoes can beat this combination of comfort and style. Pricy? Yes. Worth it? Also yes! Went with the Pride colorway (Kris Andrew Small collection), and I absolutely love the looks. Oreo Primeknit upper with a spattering of colours to match the colourful outsole. Everything about the shoe is both subtle and in-your-face at the same time. The fit is a bit small. Even compared to other shoes in the Ultraboost line, the 5.0 DNA feels quite tight on the left and right edges of your feet, as well as around the ankle. I personally went a half-size up and found the fit much more comfortable. Speaking of comfort... The BOOST midsole provides a considerable amount of bounce and cushioning. The snug, sock-like fit of the Primeknit is light and breathable. Can't recommend this shoe enough!",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665701211/snicker-fever/db6b8e20330844109a12ac8501166e71_9366_sc9cr0.webp",
+            "name": "TERREX SWIFT R3 MID GORE-TEX HIKING SHOES",
+            "category": "shoe",
+            "price": 190,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "These adidas sneakers are living their best life. Rooted in running but with one foot (pardon the pun) firmly in the realm of fashion, the Ultraboost DNA is built for whatever your day brings. adidas PRIMEKNIT wraps the foot for a supportive fit. BOOST provides instant comfort and endless energy return for a smooth ride no matter where they take you.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Grey Three",
+                "Solar Red"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "LifeStyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "LifeStyle",
+                "Hiking",
+                "Gym",
+                "Military and Tactical"
+            ],
+            "productDetail": {
+                "title": "LIGHTWEIGHT, VERSATILE HIKING SHOES WITH EXTRAORDINARY GRIP.",
+                "description": "These adidas sneakers are living their best life. Rooted in running but with one foot (pardon the pun) firmly in the realm of fashion, the Ultraboost DNA is built for whatever your day brings. adidas PRIMEKNIT wraps the foot for a supportive fit. BOOST provides instant comfort and endless energy return for a smooth ride no matter where they take you.",
+                "benefits": [
+                    "Speed lacing system",
+                    "Textile upper with GORE-TEX membrane",
+                    "Waterproof upper",
+                    "Molded heel cup with external clip",
+                    "Continental™ Rubber outsole"
+                ],
+                "details": [
+                    "Molded heel cup with external clip",
+                    "Shown: Core Black",
+                    "Style: FW2762"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Not for hiking.",
+                    "rating": 1,
+                    "comment": "Disappointed by a poor design. Had to return them. Being absolutely happy with my Terrex Swift R2 for more than two years I did not expect these to be such a failure. After first 10miles of hiking I got terribly painful pressure points where the corners of the shoe tongue touching the ankle. Had to unhook the top eyelets to keep the tongue untucked. Plus, the horizontal stitch in the back of left shoe, touching the Achilles’ tendon, somehow was too thick so it gave another very painful pressure point even through thick hiking socks.",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Reliability concerns when on abrasive terrain.",
+                    "rating": 2,
+                    "comment": "So I really wanted to like these, for the price point I was expecting something along the lines of a higher end boot that would last me years, when I put it through some light use scenarios of hikes through soft terrain like mud or dirt it did fantastic, the gore-tex kept my feet dry and normally for adidas shoes I go up half a size since I have some wide feet (the measurement machine at Red Wings said I was a 9.5 4E, so I normally buy a 10.5 or 11 from most places). ",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Materail wise 'LOW QUALITY'",
+                    "rating": 4,
+                    "comment": "New style and comfortable to my feet.But it would be perfect if the tongue of the shoes has embbeded the name of ADIDAS with ORANGE COLOR. Also at the back of holding strap would be nice if it is ORANGE COLOR.",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665701561/snicker-fever/f569f1eb2478439f8566ae9e010574e7_9366_t5fs9o.webp",
+            "name": "X SPEEDPORTAL.3 FIRM GROUND CLEATS",
+            "category": "shoe",
+            "price": 85,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Good players create time and space. Great ones leave them both behind. Unlock multidimensional speed in adidas X Speedportal. Additional forefoot studs on the lightweight outsole of these adidas soccer cleats ensure rapid reactions on firm ground. Up top, the soft, coated textile upper includes a supportive flat-knit collar and rigid TPU external heel lock to keep you strapped in for every cut and sprint.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Solar Green",
+                "Solar Yellow"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Football",
+                "Soccer",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": "CLEATS FOR HIGH-SPEED STABILITY, MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Good players create time and space. Great ones leave them both behind. Unlock multidimensional speed in adidas X Speedportal. Additional forefoot studs on the lightweight outsole of these adidas soccer cleats ensure rapid reactions on firm ground. Up top, the soft, coated textile upper includes a supportive flat-knit collar and rigid TPU external heel lock to keep you strapped in for every cut and sprint.",
+                "benefits": [
+                    "Regular fit",
+                    "Upper contains a minimum of 50% recycled content",
+                    "Coated textile upper",
+                    "External heel lock",
+                    "Firm ground outsole"
+                ],
+                "details": [
+                    "Molded heel cup with external clip",
+                    "Shown: Solar Green",
+                    "Style: GW8455"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Awesome",
+                    "rating": 5,
+                    "comment": "It makes your feel comfortable with every single step",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Sides very thin",
+                    "rating": 1,
+                    "comment": "I am sending them back as only had them a month or so and torn down the side.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "The best purchase I’ve ever made, they are cuteeee",
+                    "rating": 5,
+                    "comment": "I just love my new cleats, they are so comfy and cute",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665702063/snicker-fever/Predator_Edge.3_Firm_Ground_Cleats_Silver_HR1524_22_model_vcdek9.jpg",
+            "name": "PREDATOR EDGE.3 FIRM GROUND CLEATS",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Swerve. Control. Power. adidas Predator has all angles covered. Hit the pitch and find your edge in these firm ground soccer cleats. Deployed across their coated textile upper, grippy Control Zone print assists you with every touch of the ball. Underneath, an eye-catching, angular TPU outsole ensures you stay in charge on dry natural grass.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Team Solar Green",
+                "Silver Metallic"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports"
+            ],
+            "belongsToCollection": true,
+            "collections": [
+                "Adidas Predator"
+            ],
+            "athlete": null,
+            "sport": [
+                "Football",
+                "Soccer",
+                "American Football",
+                "Baseball"
+            ],
+            "productDetail": {
+                "title": "CONTROL EVERY KICK IN ADIDAS CLEATS MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "Swerve. Control. Power. adidas Predator has all angles covered. Hit the pitch and find your edge in these firm ground soccer cleats. Deployed across their coated textile upper, grippy Control Zone print assists you with every touch of the ball. Underneath, an eye-catching, angular TPU outsole ensures you stay in charge on dry natural grass.",
+                "benefits": [
+                    "Control Zone textured upper",
+                    "TPU firm ground outsole",
+                    "Lace closure",
+                    "Textile lining",
+                    "Two-piece mid-cut collar"
+                ],
+                "details": [
+                    "Molded heel cup with external clip",
+                    "Shown: Silver Metallic",
+                    "Style: HR1524"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Great Design, Poor Craftsmanship/Quality",
+                    "rating": 2,
+                    "comment": "It started falling apart after 3 uses...nothing hardcore, just drills and one pick up gain...very disappointed in the quality...",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "Extremely disappointed in the quality",
+                    "rating": 1,
+                    "comment": "Purchased these shoes for my daughter who plays high school soccer. Bought them July 22, she wore them for pre-season practices. By her fist game, August 20th, the sole separated from the top of the shoe! She had to tape shoe together until we could get back to the store to purchase a different pair. This is SUCH A DISAPPOINMENT!! She loves adidas and has only worn adidas since she started playing at 5. We never had this issue with this brand before these shoes. Now reading other reviews, it seems as if this is a common problem. I know that these are not the most expensive model to buy, but barely a month of use is just sub par.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Definitely better adidas boots but a good pair",
+                    "rating": 3,
+                    "comment": "I feel like the material used on the side is easily damaged compared to most other adidas boots",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665702501/snicker-fever/4761b9b0872d48798659aee0000815ba_9366_ktabov.webp",
+            "name": "D.O.N. ISSUE #4 SHOES",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The future of basketball is all about speed, and Donovan Mitchell is as fast as they come. The newest signature shoes from Mitchell and adidas Basketball are built specifically to elevate the on-court movements of one of the game's fastest, most dynamic scorers. Ultralight Lightstrike teams up with a LIGHTLOCK upper for a snug fit and a propulsion system that won't weigh you down. A totally unique rubber outsole is designed to generate traction where you need it most, so every hard-charging cut and head fake has total support. Mitchell's Spida logo and signature graphics provide the finishing touch.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Clear Aqua",
+                "Power Blue",
+                "Solar Yellow"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Donovan Mitchell",
+            "sport": [
+                "Lifestyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "DONOVAN MITCHELL SIGNATURE SHOES MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "The future of basketball is all about speed, and Donovan Mitchell is as fast as they come. The newest signature shoes from Mitchell and adidas Basketball are built specifically to elevate the on-court movements of one of the game's fastest, most dynamic scorers. Ultralight Lightstrike teams up with a LIGHTLOCK upper for a snug fit and a propulsion system that won't weigh you down. A totally unique rubber outsole is designed to generate traction where you need it most, so every hard-charging cut and head fake has total support. Mitchell's Spida logo and signature graphics provide the finishing touch.",
+                "benefits": [
+                    "Lightstrike cushioning",
+                    "Regular fit",
+                    "Coated textile upper",
+                    "LIGHTLOCK upper",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Supportive fit",
+                    "Shown: Team Navy",
+                    "Style: GY6506"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Looks good feels comfortable!",
+                    "rating": 5,
+                    "comment": "You can wear it even with you daily outfit also with ur boys while playing basketball",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "The best DONs",
+                    "rating": 4,
+                    "comment": "The best DON’s yet. Only problem I had was it was a bit too narrow for flat peoples feet. But the traction was a solid 10/10 performance. Definitely will break these in but overall a good performer.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Awesome shoes",
+                    "rating": 5,
+                    "comment": "Great shoes. Comfortable with great lockdown! Aldo really like the upper.",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665702501/snicker-fever/4761b9b0872d48798659aee0000815ba_9366_ktabov.webp",
+            "name": "TRAE YOUNG 2.0 SHOES",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Team Solar Green"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Trae Young",
+            "sport": [
+                "Lifestyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "RESPONSIVE TRAE YOUNG BASKETBALL SHOES MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+                "benefits": [
+                    "Laceless forefoot",
+                    "Adaptive fit SCK360 knit upper",
+                    "Rubber outsole with flex grooves",
+                    "25% of the components used to make the upper are made with a minimum of 50% recycled content",
+                    "Textile lining"
+                ],
+                "details": [
+                    "Lightstrike cushioning",
+                    "Shown: Core Black",
+                    "Style: H06473"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 118,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665703085/snicker-fever/aa434d5685d84bfda1ceadc501752a17_9366_ghuqmp.webp",
+            "name": "TRAE YOUNG 2.0 SHOES",
+            "category": "shoe",
+            "price": 130,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The future of the game looks like Trae Young: unconventional, fearless and with a flair for the dramatic. The newest signature shoes from adidas Basketball and Trae Young are dressed up in stylish on-court colors. An ultra-lightweight Lightstrike midsole with an energy-returning BOOST drop-in and a superior internal lockdown system provides comfort that matches your agility.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Vivid Red",
+                "Team Colleg Gold",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Trae Young",
+            "sport": [
+                "Lifestyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "TRAE YOUNG SIGNATURE SHOES MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "The future of the game looks like Trae Young: unconventional, fearless and with a flair for the dramatic. The newest signature shoes from adidas Basketball and Trae Young are dressed up in stylish on-court colors. An ultra-lightweight Lightstrike midsole with an energy-returning BOOST drop-in and a superior internal lockdown system provides comfort that matches your agility.",
+                "benefits": [
+                    "Laceless forefoot",
+                    "Textile upper",
+                    "Rubber outsole",
+                    "BOOST midsole",
+                    "Textile lining"
+                ],
+                "details": [
+                    "Lightstrike cushioning",
+                    "Shown: Vivid Red",
+                    "Style: GY3772"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 119,
+            "image": "dd",
+            "name": "TRAE YOUNG 2.0 SHOES",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Team Solar Green"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "Trae Young",
+            "sport": [
+                "Lifestyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "RESPONSIVE TRAE YOUNG BASKETBALL SHOES MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+                "benefits": [
+                    "Laceless forefoot",
+                    "Adaptive fit SCK360 knit upper",
+                    "Rubber outsole with flex grooves",
+                    "25% of the components used to make the upper are made with a minimum of 50% recycled content",
+                    "Textile lining"
+                ],
+                "details": [
+                    "Lightstrike cushioning",
+                    "Shown: Core Black",
+                    "Style: H06473"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
         }
     ]
 }
