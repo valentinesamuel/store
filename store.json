@@ -7478,7 +7478,8 @@
                     "date": "Jul 10, 2021"
                 }
             ]
-        },{
+        },
+        {
             "id": 107,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665697703/snicker-fever/910752bd-5f4f-41c5-ae51-0aee4538cbb6_lrypmx.webp",
             "name": "Nike Kawa SE",
@@ -7499,7 +7500,6 @@
                 "6-10"
             ],
             "colors": [
-               
                 "Black",
                 "Pure Platinum"
             ],
@@ -7521,10 +7521,8 @@
                     "Strappy Support <br/>A soft, stretchy strap around the heel provides a secure fit. The top strap is durable and easy to clean.",
                     "Foamy Feel <br/>Soft foam footbed is flexible and comfy.",
                     "Thoughtful Design <br/>Hidden seams help prevent rubbing against little feet."
-                   
                 ],
                 "details": [
-                
                     "Shown: Gym Red",
                     "Style: DN3971-001"
                 ],
