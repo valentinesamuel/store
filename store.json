@@ -8360,13 +8360,13 @@
         },
         {
             "id": 119,
-            "image": "dd",
-            "name": "TRAE YOUNG 2.0 SHOES",
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665738440/snicker-fever/ec5840b93e8c44fc9767ae9600f31d51_9366_kj6qtg.webp",
+            "name": "ADIZERO ROSE 1.5 RESTOMOD SHOES",
             "category": "shoe",
-            "price": 140,
+            "price": 160,
             "isAccessory": false,
             "accessoryType": null,
-            "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+            "description": "These Adizero Rose Restomod shoes from adidas Basketball are an ode to Derrick's early career. Classic D-Rose details are enhanced with Restomod upgrades, like a Lightstrike midsole for ultra-lightweight cushioning and a Puremotion outsole for superior grip. The shoes built for one of the fastest players are now lighter than ever.",
             "sizes": [
                 "Medium",
                 "Large",
@@ -8376,8 +8376,9 @@
             "age": "adult",
             "kidAge": null,
             "colors": [
-                "Core Black",
-                "Team Solar Green"
+                "Off White",
+                "Acid Red",
+                "Bright Cyan"
             ],
             "brand": "adidas",
             "activities": [
@@ -8386,30 +8387,134 @@
             ],
             "belongsToCollection": false,
             "collections": null,
-            "athlete": "Trae Young",
+            "athlete": "Derrick Rose",
             "sport": [
                 "Lifestyle",
                 "Basketball",
                 "Volleyball"
             ],
             "productDetail": {
-                "title": "RESPONSIVE TRAE YOUNG BASKETBALL SHOES MADE IN PART WITH RECYCLED CONTENT.",
-                "description": "Agile like no other, Trae Young has set the bar for the modern point guard. It's only fair his signature adidas basketball shoes let him pave the way. The laceless design effortlessly wraps your feet while giving you a locked-down feel. BOOST in the heel combines with a Lightstrike midsole to cushion that explosive first step without weighing you down. Now you're ready to dominate and let the buckets do the talking.",
+                "title": "SIGNATURE SHOES FROM ADIDAS BASKETBALL AND DERRICK ROSE.",
+                "description": "These Adizero Rose Restomod shoes from adidas Basketball are an ode to Derrick's early career. Classic D-Rose details are enhanced with Restomod upgrades, like a Lightstrike midsole for ultra-lightweight cushioning and a Puremotion outsole for superior grip. The shoes built for one of the fastest players are now lighter than ever.",
                 "benefits": [
-                    "Laceless forefoot",
-                    "Adaptive fit SCK360 knit upper",
-                    "Rubber outsole with flex grooves",
-                    "25% of the components used to make the upper are made with a minimum of 50% recycled content",
+                    "Regular fit",
+                    "Lightweight Sprintframe plate",
+                    "Puremotion outsole",
+                    "Sprintskin synthetic upper",
                     "Textile lining"
                 ],
                 "details": [
-                    "Lightstrike cushioning",
-                    "Shown: Core Black",
-                    "Style: H06473"
+                    "Adiprene cushioning",
+                    "Shown: Off White",
+                    "Style: GY6487"
                 ],
                 "moreDetails": null
             },
-            "reviews": null
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "Solid shoe especially w the leather",
+                    "rating": 5,
+                    "comment": "Only complaint is it’s a touch too roomy compared to the regular release in the white toe (I’m a size 12 w those) def drop half a size with these, also my first pair came with a defect in the paint on the stripes but it’s much more comfortable and had a better insole",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": null,
+                    "title": "As high quality as it gets, but there are downs.",
+                    "rating": 5,
+                    "comment": "Adidas shoes are great! Except for when you pay for a high quality and sometimes you get small deficiencies. These look great but small nicks her and there make me lift my brow.",
+                    "date": null
+                },
+                {
+                    "id": 3,
+                    "name": null,
+                    "title": "Shoes look awesome!",
+                    "rating": 5,
+                    "comment": "I think the color is cool and I like the shape a lot",
+                    "date": null
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665739909/snicker-fever/cfc41b90d86f418d8b16ae5e016d43c8_9366_ovefak.webp",
+            "name": "HARDEN VOL. 6 SHOES",
+            "category": "shoe",
+            "price": 105,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Strike when your opponent least expects it. Drive to the rim, pull up from deep and leave defenders in your wake — just like James Harden. These adidas basketball shoes are made with BOOST for the energy return you need from the opening whistle to those grueling last seconds of overtime. Bands on the forefoot and heel give you a locked-down feel all game long.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Clear Pink",
+                "Cloud White",
+                "Team Real Magenta"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Sports",
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "James Harden",
+            "sport": [
+                "Lifestyle",
+                "Basketball",
+                "Volleyball"
+            ],
+            "productDetail": {
+                "title": "JAMES HARDEN BASKETBALL SHOES MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "Strike when your opponent least expects it. Drive to the rim, pull up from deep and leave defenders in your wake — just like James Harden. These adidas basketball shoes are made with BOOST for the energy return you need from the opening whistle to those grueling last seconds of overtime. Bands on the forefoot and heel give you a locked-down feel all game long.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "BOOST midsole",
+                    "Textile upper",
+                    "Textile lining"
+                ],
+                "details": [
+                    "Bounce Pro midsole",
+                    "Shown: Clear Pink",
+                    "Style: GW9033"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": null,
+                    "title": "LOVE the flower and butterfly color hmm…",
+                    "rating": 4,
+                    "comment": "Really am TORN on these sneakers! They are so comfortable!!! I was excited to see something that didn’t make me look like a boy. LOVE all the details that went into them. The problem is with the laces set so wide it makes my women’s size 10 look even bigger! They are so comfortable from trying them on. But they kind of look like if Hello Kitty and Barbie had a LOVE child. But like I said I am torn! James Harden your in PHL now lets see a championship and can we PLEASE get similar pattern LOVE THE JH VI and the details on the shoes. But I look ridiculous! But Comfortable. TORN on to keep or return.",
+                    "date": null
+                },
+                {
+                    "id": 2,
+                    "name": "GidTheComebackKid",
+                    "title": "I love the unique lacing system and interior pads.",
+                    "rating": 4,
+                    "comment": "This is a very unique shoe. They took some risks and had some fun with it. I love the lacing system, interior padding, and ankle supports. My only drawbacks on this product is that it is a just a little more stiff of a basketball shoe, and I would enjoy more variety of color scheme. This shoe has a cool look, and I’ve never experienced any soreness or pain when playing. Durability seems great so far, and I love the security of the shoes overall.",
+                    "date": "September 15, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "Papabear",
+                    "title": "It feels built for people who like a 3pt shootint",
+                    "rating": 2,
+                    "comment": "Decided to get the milkman 6's and realized these are built for hoopers who like to pull up and shoot 3's like Harden. Max comfort with the foam at the bottom but not built for quickness or explosive players who like a tight fit around their feet to get in and out of situations. When I got them they didn't look as good as they did in the pictures. Good in theory, messy in practice",
+                    "date": "September 19, 2022"
+                }
+            ]
         }
     ]
 }
