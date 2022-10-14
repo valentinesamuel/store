@@ -8515,6 +8515,351 @@
                     "date": "September 19, 2022"
                 }
             ]
+        },
+        {
+            "id": 121,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665766841/snicker-fever/d14944692e45429cbb38ac0800ec671b_9366_qmk0rh.webp",
+            "name": "ADILETTE BOOST SLIDES",
+            "category": "shoe",
+            "price": 39,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "Transition from sandy beaches to busy streets in premium comfort all summer long. These slides feature a full-length, energy-returning midsole that cradles your foot with supreme cushioning. Classic 3-Stripes on the bandage-style upper show off your adidas style.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Cloud White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SLEEK SANDALS DESIGNED FOR PREMIUM COMFORT.",
+                "description": "Transition from sandy beaches to busy streets in premium comfort all summer long. These slides feature a full-length, energy-returning midsole that cradles your foot with supreme cushioning. Classic 3-Stripes on the bandage-style upper show off your adidas style.",
+                "benefits": [
+                    "Regular fit",
+                    "Slip-on construction",
+                    "Synthetic upper",
+                    "Slides with Boost cushioning",
+                    "Responsive Boost midsole",
+                    "Imported"
+                ],
+                "details": [
+                    "Bounce Pro midsole",
+                    "Shown: Core Black",
+                    "Style: FY8154"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "b00m",
+                    "title": "Like walking on clouds. If I had to do it again I’d probably go a size higher.",
+                    "rating": 3,
+                    "comment": "Very comfortable slides. Like walking on clouds. The size is a bit small. I wear an 11 in my adidas running shoes with the same technology so I ordered 11’s, but these feel a bit snug when I walk. Still worth the buy if you can size them right. Maybe they just need to be broken in?",
+                    "date": "Jul 10, 2020"
+                },
+                {
+                    "id": 2,
+                    "name": "Shishir",
+                    "title": "Small and narrow fit but slide light and comfortable",
+                    "rating": 3,
+                    "comment": "Small and narrow fit but slide light and comfortable",
+                    "date": "June 5, 2022"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665767161/snicker-fever/f966c785028a4d1aac15aecb01057252_9366_sf6i21.webp",
+            "name": "ADILETTE COMFORT SLIDES",
+            "category": "shoe",
+            "price": 20,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "Classics for a reason. These adidas slides are the perfect combination of versatility and comfort. They fit snugly and slip off easily for convenience as you move from the pool deck to the locker room to the couch. With an iconic look and casual style, they pair just as easily with track pants and socks as they do with swimming trunks and bare feet, keeping you ready for any occasion.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Cloud White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SLIDES WITH VERSATILE COMFORT AND ICONIC STYLE.",
+                "description": "Classics for a reason. These adidas slides are the perfect combination of versatility and comfort. They fit snugly and slip off easily for convenience as you move from the pool deck to the locker room to the couch. With an iconic look and casual style, they pair just as easily with track pants and socks as they do with swimming trunks and bare feet, keeping you ready for any occasion.",
+                "benefits": [
+                    "Regular fit",
+                    "Slip-on construction",
+                    "Synthetic upper",
+                    "Synthetic bandage upper",
+                    "Responsive Boost midsole",
+                    "Injected EVA outsole"
+                ],
+                "details": [
+                    "Shown: Core Black",
+                    "Style: GW9647"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Matt91",
+                    "title": "Very comfortable, but poor quality.",
+                    "rating": 2,
+                    "comment": "I bought these slides about two weeks ago to use for work. We have a clean-shoe policy since COVID in any of our common areas, so I chose these to use in the main areas of the firehouse (so that our work boots aren't tracking throughout the station). I've worn these for four days but unfortunately they've already begun to show significant wear and tear, and I am not sure if this is normal or if I happened to get a defective set. They're very comfortable, honestly the most comfortable ones I've ever owned. I wanted to buy a second pair, but I'm hesitant to do so based on how this pair has worn already.",
+                    "date": "October 20, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "philipkobe2018",
+                    "title": "No happy with these",
+                    "rating": 3,
+                    "comment": "After roughly 10 wears, my left slide completely broke. Although the slides are comfortable, they broke in little less than a week. I tried supergluing it together, however there was no luck. It would only be fair if I was issued a full refund, as the quality is absolutely horrid. I didn't pay roughly $50 to use the sliders only 10 times.",
+                    "date": "March 29, 2018"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665767390/snicker-fever/9cc020ff088c4363b602ae9900063dc5_9366_hyqwsy.webp",
+            "name": "ADILETTE 4.0 SANDALS",
+            "category": "shoe",
+            "price": 70,
+            "isAccessory": true,
+            "accessoryType": "slides",
+            "description": "You know and love the Adilette. But do you know the iconic adidas slides like this? With extra straps at the ankle and heel? Done up in pops of color? Strap them on and you'll get to know them very, very well — because with their comfort, and their versatility, it's difficult to wear anything else.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Core Black",
+                "Bold Green",
+                "Carbon"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "A NOT-SO-CLASSIC TAKE ON THE ADILETTE, MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "You know and love the Adilette. But do you know the iconic adidas slides like this? With extra straps at the ankle and heel? Done up in pops of color? Strap them on and you'll get to know them very, very well — because with their comfort, and their versatility, it's difficult to wear anything else.",
+                "benefits": [
+                    "Regular fit",
+                    "Slip-on construction",
+                    "Synthetic upper",
+                    "Synthetic bandage upper",
+                    "Responsive Boost midsole",
+                    "Injected EVA outsole"
+                ],
+                "details": [
+                    "Shown: Core Black",
+                    "Style: H03417"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Matt91",
+                    "title": "Great product",
+                    "rating": 2,
+                    "comment": "Great Product. Very comfy nad looks fantastic. Highly recommended",
+                    "date": "October 20, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "philipkobe2018",
+                    "title": "Brilliant sandals",
+                    "rating": 3,
+                    "comment": "Great design and colours. Very comfortable and robust.",
+                    "date": "March 29, 2018"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665767833/snicker-fever/76ca741a032f473d9057ae980180375b_9366_c6pzvg.webp",
+            "name": "TERREX FREE HIKER 2 HIKING SHOE",
+            "category": "shoe",
+            "price": 200,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Take on the outdoors with ease. The adidas TERREX Free Hiker 2 brings comfort and confidence to your everyday adventure. It's time to enjoy your outdoor experience.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Wonder Steel",
+                "Grey Three",
+                "Legend Ink"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Hiking",
+                "Hunting"
+            ],
+            "productDetail": {
+                "title": "NEXT-GENERATION HIKING SHOES MADE IN PART WITH PARLEY OCEAN PLASTIC.",
+                "description": "Take on the outdoors with ease. The adidas TERREX Free Hiker 2 brings comfort and confidence to your everyday adventure. It's time to enjoy your outdoor experience.",
+                "benefits": [
+                    "Regular fit",
+                    "adidas PRIMEKNIT collar",
+                    "Abrasion-resistant mesh upper with molded toe cap and external heel clip",
+                    "Continental™ Rubber outsole",
+                    "Yarn in upper contains at least 50% Parley Ocean Plastic and 50% recycled polyester",
+                    "Injected EVA outsole"
+                ],
+                "details": [
+                    "Shown: Core Black",
+                    "Style: GZ0683"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Socks",
+                    "title": "Runs big! Order 1/2 size down",
+                    "rating": 4,
+                    "comment": "There is a lot of room in the toe box, I ordered a half size down and the fit PERFECTLY! I’m glad I ordered a 11 1/2 rather than a 12!!!!! The shoe fits like a sock around the upper ankles as well. I wore mines with a low cut ankle sock with the shoe.",
+                    "date": "September 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Postmanpat",
+                    "title": "Change the laces to quick release laces",
+                    "rating": 4,
+                    "comment": "Shoes aren't top quality. They are comfortable but heavy. Changed the laces to quick release laces and the feel and look a lot better. The finish around the boost layer to sole and shoe is poor",
+                    "date": "September 26, 2022"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665768256/snicker-fever/126f1cfaf47247a7b91dae3d01356a74_9366_ywcejf.webp",
+            "name": "CODECHAOS 22 SPIKELESS GOLF SHOES",
+            "category": "shoe",
+            "price": 160,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "It's time to turn up your game. Take the lead in these adidas CODECHAOS 22 golf shoes. With a design that amplifies everything a spikeless shoe can be, they set you up to shave strokes with style. From the stance stability of the wraparound outsole to the swing-boosting traction of Twist Grip and the energized feel of full-length BOOST, they maximize everything you need on the course. Tour-level performance has never looked like this before.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Bliss",
+                "Linen Green",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle","Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Golf"
+            ],
+            "productDetail": {
+                "title": "NEXT-GENERATION HIKING SHOES MADE IN PART WITH PARLEY OCEAN PLASTIC.",
+                "description": "It's time to turn up your game. Take the lead in these adidas CODECHAOS 22 golf shoes. With a design that amplifies everything a spikeless shoe can be, they set you up to shave strokes with style. From the stance stability of the wraparound outsole to the swing-boosting traction of Twist Grip and the energized feel of full-length BOOST, they maximize everything you need on the course. Tour-level performance has never looked like this before.",
+                "benefits": [
+                    "Regular fit",
+                    "adidas PRIMEKNIT collar",
+                    "Abrasion-resistant mesh upper with molded toe cap and external heel clip",
+                    "Continental™ Rubber outsole",
+                    "Yarn in upper contains at least 50% Parley Ocean Plastic and 50% recycled polyester",
+                    "Injected EVA outsole"
+                ],
+                "details": [
+                    "Shown: Core Black",
+                    "Style: GZ0683"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Franco",
+                    "title": "Amazing grip",
+                    "rating": 5,
+                    "comment": "Definitely recommended spent 4 hours at the course it’s just amazing stability",
+                    "date": "September 20, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "HappyFeet3000",
+                    "title": "New favorite golf shoes!",
+                    "rating": 4,
+                    "comment": "WOW, the traction on these shoes is amazing! You can feel the front and side grip the shoe provides through the swing. They are also super comfortable! I felt locked in and balanced during my first round wearing them.",
+                    "date": "September 26, 2022"
+                }
+            ]
         }
         // adidas women
     ]
