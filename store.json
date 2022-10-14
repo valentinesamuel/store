@@ -8816,7 +8816,8 @@
             ],
             "brand": "adidas",
             "activities": [
-                "Lifestyle","Sports"
+                "Lifestyle",
+                "Sports"
             ],
             "belongsToCollection": false,
             "collections": null,
@@ -8860,7 +8861,289 @@
                     "date": "September 26, 2022"
                 }
             ]
-        }
+        },
         // adidas women
+        {
+            "id": 126,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665775913/snicker-fever/89a4c94cf3d24eb79eb2add7011e6503_9366_wqit8r.webp",
+            "name": "EDGE LUX SHOES",
+            "category": "shoe",
+            "price": 45,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Comfort is key, whether you're racing to catch a train or rolling up some miles on the weekend. These adidas running shoes have a Bounce midsole that's light and flexible to keep you moving. A padded Geofit collar locks you in, so don't be afraid to stride it out.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Iron Metallic",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "RUNNING SHOES MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Comfort is key, whether you're racing to catch a train or rolling up some miles on the weekend. These adidas running shoes have a Bounce midsole that's light and flexible to keep you moving. A padded Geofit collar locks you in, so don't be afraid to stride it out.",
+                "benefits": [
+                    "Women's-specific fit",
+                    "Lace closure",
+                    "Textile upper",
+                    "Geofit padded collar",
+                    "Molded sockliner",
+                    "Bounce midsole",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Core Black",
+                    "Style: GZ1717"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "linds",
+                    "title": "Good shoe, odd padding",
+                    "rating": 3,
+                    "comment": "great color! but the padding in the heel is odd and the fabric over the toe area is very thin.",
+                    "date": "October 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Wonder",
+                    "title": "Bad choice to order the edge lux 5",
+                    "rating": 2,
+                    "comment": "So I have worn the edge lux for a few years now so I just recently ordered 3 pairs of the new 5’s. I hate the cushion in the back, makes it look like my shoe is too big and there are only 2 laces which means the shoe is loose on my foot.. I love the other ones previous to the 5. I wish I could send them all back.",
+                    "date": "August 2, 2022"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665776928/snicker-fever/0d020d2813cb43f2bb05aeec00925598_9366_zzzfng.webp",
+            "name": "OZWEEGO W",
+            "category": "shoe",
+            "price": 120,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Comfort is key, whether you're racing to catch a train or rolling up some miles on the weekend. These adidas running shoes have a Bounce midsole that's light and flexible to keep you moving. A padded Geofit collar locks you in, so don't be afraid to stride it out.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Iron Metallic",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "RUNNING SHOES MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Comfort is key, whether you're racing to catch a train or rolling up some miles on the weekend. These adidas running shoes have a Bounce midsole that's light and flexible to keep you moving. A padded Geofit collar locks you in, so don't be afraid to stride it out.",
+                "benefits": [
+                    "Women's-specific fit",
+                    "Lace closure",
+                    "Textile upper",
+                    "Geofit padded collar",
+                    "Molded sockliner",
+                    "Bounce midsole",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Linen Green",
+                    "Style: HQ6958"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Kida",
+                    "title": "Cute but Go full size down!!",
+                    "rating": 4,
+                    "comment": "the grey and purple color is very cute. I usually wear 8.5 and have narrow feet, and read reviews saying to go half size down, so I ordered an 8. it came very quick, and upon trying it on, realized they were still too big, there was about an 1 1/2 inch of extra space. So now I'm exchanging for a full size down (7.5). Hoping they fit this time.",
+                    "date": "October 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Nigar",
+                    "title": "Bad choice to order the edge lux 5",
+                    "rating": 3,
+                    "comment": "My usual size is US7.0 after reading the reviews i decided to order 6.5 as people said that they are too big.I wish i followed the recommendation which adidas is giving (they are true to size).This model is narrow yes but sizing is perfect.I made same mistake by following the reviews twice.Last time was same story but different model.",
+                    "date": "October 13, 2022"
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665776973/snicker-fever/1cf506b74a834e689f3dae00014bd83a_9366_qhcaqh.webp",
+            "name": "COURT PLATFORM CLN SHOES",
+            "category": "shoe",
+            "price": 59,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Stand head and shoulders above the competition. These adidas skate-inspired sneakers have a thick, platform-style midsole for added elevation. The understated textile upper provides the finishing touch.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Gold Metallic",
+                "Core Black",
+                "Cloud White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "PLATFORM SNEAKERS WITH SUBTLE STYLE.",
+                "description": "Stand head and shoulders above the competition. These adidas skate-inspired sneakers have a thick, platform-style midsole for added elevation. The understated textile upper provides the finishing touch.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GZ1689"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "MrsRYT1",
+                    "title": "Great purchase!!",
+                    "rating": 5,
+                    "comment": "These shoes are stylish and comfortable!!! Due to a plantar fasciitis diagnosis sometimes it is a challeng finding a shoe that provides support and comfort.",
+                    "date": "October 13, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "DanN",
+                    "title": "This shoe is very comfortable!",
+                    "rating": 5,
+                    "comment": "I love this pair of shoes. I dozed down and half and probably could’ve size down more. These shoes are a little heavy, but overall very comfortable!",
+                    "date": "October 1, 2022"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665777417/snicker-fever/acc1f836e10a4c1191dbae2801556d8d_9366_auj87x.webp",
+            "name": "ULTRABOOST DNA 5.0 SHOES",
+            "category": "shoe",
+            "price": 190,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Stand head and shoulders above the competition. These adidas skate-inspired sneakers have a thick, platform-style midsole for added elevation. The understated textile upper provides the finishing touch.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "EVERYDAY RUNNING SHOES MADE IN PART WITH PARLEY OCEAN PLASTIC.",
+                "description": "Stand head and shoulders above the competition. These adidas skate-inspired sneakers have a thick, platform-style midsole for added elevation. The understated textile upper provides the finishing touch.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GV8747"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "MrsRYT1",
+                    "title": "I wish I could make this 5 stars",
+                    "rating": 3,
+                    "comment": "I love these shoes SO MUCH. They are so comfortable. I run faster in them. They are dream. However I put approx 35 miles per week on them… I replaced my old pair because all the tread wore off the bottom and they were wearing down to the point of my foot touching the ground. I have had my new pair for 10 days and all the bumps are already gone from the bottom. I wish that at this price point of they would last a bit longer. I really feel that shoes that wear out this fast should be in the under 120 price range and not excluded from sales and in that case I would have no issue with replacing them with them every 3 months.",
+                    "date": "October 10, 2023"
+                },
+                {
+                    "id": 2,
+                    "name": "Inga505",
+                    "title": "Falling apart after a month",
+                    "rating": 1,
+                    "comment": "Personally I am a huge fan of ultraboost, this is actually my third pair they’ve always run a little big on me my first pair was a 9 1/2 then my last two pairs have been 9’s I usually run in them for a year or two before getting a new pair and I have never had a problem till I got my last pair a month ago and the back lip/ heel fabric has worn through which is super weird, I’m wondering if I got a faulty pair, I wear my ultraboosts for everyday workouts runs, sprints, and walks and light weights, I’ve never had this problem with my ultraboots or my other day to day adidas shoes I’ve always loved them (supportive and comfortable) so very disappointed surprised with this pair",
+                    "date": "October 1, 2022"
+                }
+            ]
+        }
     ]
 }
