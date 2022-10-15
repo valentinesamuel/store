@@ -1,6 +1,6 @@
 {
     "shoes": [
-        // nike men
+        // nike  
         {
             "id": 1,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1664903142/snicker-fever/naf1_yaba3c.webp",
@@ -3625,7 +3625,6 @@
                 }
             ]
         },
-        // nike women
         {
             "id": 52,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665509327/snicker-fever/4728ee23-33e0-4d21-b1b8-07a57dfd3c32_ydkgic.webp",
@@ -7539,7 +7538,7 @@
                 }
             ]
         },
-        // adidas men
+        // adidas  
         {
             "id": 108,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665699375/snicker-fever/95d3ae9c17a14a0e8ac5aeb401080ec2_9366_sv1o5q.webp",
@@ -8862,7 +8861,6 @@
                 }
             ]
         },
-        // adidas women
         {
             "id": 126,
             "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665775913/snicker-fever/89a4c94cf3d24eb79eb2add7011e6503_9366_wqit8r.webp",
@@ -9424,8 +9422,531 @@
                     "rating": 2,
                     "comment": "First order was sent to me in the wrong color. That color was returned for the color originally ordered. However, in less than a month, one of the shoes developed a hole in the material; only one shoe. Shoes were not abused . Seemed the material on one shoe was defective at the toe area. I purchase only adidas shoes and this is the first time a product has worn like this!",
                     "date": "August 14, 2022"
-                } 
+                }
             ]
+        },
+        {
+            "id": 134,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665826892/snicker-fever/6f13da48c7ce4aeea49bae93002dffe1_9366_y5cxod.webp",
+            "name": "X9000L4 X THEBE MAGUGU SHOES",
+            "category": "shoe",
+            "price": 150,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Made for running, and so much more. Created in collaboration with South African luxury brand Thebe Magugu, these shoes sport a color mix that celebrates themes of culture, sisterhood and community. They're built for step-in comfort and responsiveness, with a BOOST midsole for stability and energy return. The adidas PRIMEKNIT upper gives a comfy, foot-hugging fit. Wear them for short runs, wear them all day.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Team Shock Pink",
+                "Cloud White"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": "THEBE MAGUGU",
+            "sport": [
+                "Lifestyle",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "RESPONSIVE RUNNING SHOES MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Made for running, and so much more. Created in collaboration with South African luxury brand Thebe Magugu, these shoes sport a color mix that celebrates themes of culture, sisterhood and community. They're built for step-in comfort and responsiveness, with a BOOST midsole for stability and energy return. The adidas PRIMEKNIT upper gives a comfy, foot-hugging fit. Wear them for short runs, wear them all day.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: HP2119"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Patricia",
+                    "title": "Best choice",
+                    "rating": 5,
+                    "comment": "Very comfortable and beautiful, I love them. Good choice I made",
+                    "date": "September 19, 2022"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665827132/snicker-fever/c4b2919025c14a809166aec300ec2aad_9366_uzuk6i.webp",
+            "name": "ADIZERO UBERSONIC 4 TENNIS SHOES",
+            "category": "shoe",
+            "price": 140,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Speed buys time. Time earns points. That's why these adidas Adizero Ubersonic 4 tennis shoes were designed to get you to the ball faster. Their foot-hugging stretch-woven upper and external heel counter keep you strapped in for explosive sprints. Internal reinforcements add extra stability through slides and sidesteps. Underneath, a low-profile Lightstrike midsole and grippy Adiwear outsole combine to ensure you're always first to react on hard courts.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Semi Pulse Lilac",
+                "Crystal White",
+                "Impact Orange"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking",
+                "Tennis"
+            ],
+            "productDetail": {
+                "title": "SPEED-BOOSTING HARD COURT SHOES MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Speed buys time. Time earns points. That's why these adidas Adizero Ubersonic 4 tennis shoes were designed to get you to the ball faster. Their foot-hugging stretch-woven upper and external heel counter keep you strapped in for explosive sprints. Internal reinforcements add extra stability through slides and sidesteps. Underneath, a low-profile Lightstrike midsole and grippy Adiwear outsole combine to ensure you're always first to react on hard courts.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: HR2034"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Everwanderfull",
+                    "title": "Not horrible but not good either.",
+                    "rating": 3,
+                    "comment": "I ordered these with high hopes. The biggest problem I’ve had is that the right shoe rubbed the inside of my ankle bone til it bled. I didn’t think much of it until I read that another reviewer had the exact same problem with the right shoe. The left does not rub this way. The other issue I’ve noticed is that the plastic at the top of the shoes can dig into your foot when you’re on your toes at the net.",
+                    "date": "March 22, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "Garbage",
+                    "title": "Garbage",
+                    "rating": 1,
+                    "comment": "Shoes lasted less than a month for a high school girls tennis player. Left toe completely wore out. Do not recommend. Difficult to return for warranty as local store states you need to contact Adidas directly. Won't be buying Adidas again.",
+                    "date": "September 26, 2022"
+                },
+                {
+                    "id": 3,
+                    "name": "MGTF",
+                    "title": "Disintegrated",
+                    "rating": 1,
+                    "comment": "Comfort is unbelievable, but took only two weeks for the toe box sole to disintegrate. Really was excited about these but need a shoe that doesn’t cost 100$+ every two weeks.",
+                    "date": "August 10, 2021"
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665827662/snicker-fever/Dame_8_Shoes_Blue_GY2770_01_standard_j3wzl4.jpg",
+            "name": "DAME 8 SHOES",
+            "category": "shoe",
+            "price": 96,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The bigger the game, the more important it is to a player's legacy. No player in meets the moment quite like Damian Lillard. These signature shoes from Dame and adidas Basketball celebrate the historic run of games that elevated him to one of basketball's most ferocious closers. A unique design on the upper is reminiscent of a bubble, and the outsole and Bounce Pro midsole are built specifically to match Dame's combination of speed, skill and precision.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Blue Rush",
+                "Pulse Mint",
+                "Solar Pink"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking",
+                "Tennis"
+            ],
+            "productDetail": {
+                "title": "SIGNATURE SHOES FROM DAMIAN LILLARD MADE IN PART WITH RECYCLED CONTENT.",
+                "description": "The bigger the game, the more important it is to a player's legacy. No player in meets the moment quite like Damian Lillard. These signature shoes from Dame and adidas Basketball celebrate the historic run of games that elevated him to one of basketball's most ferocious closers. A unique design on the upper is reminiscent of a bubble, and the outsole and Bounce Pro midsole are built specifically to match Dame's combination of speed, skill and precision.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GY2770"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Chachamurph",
+                    "title": "Trash",
+                    "rating": 2,
+                    "comment": "Not send me a damaged box. There wasn’t any damage to the box the shoes were shipped in. The box containing the shoes was clearly sent damaged from adidas. I collect sneakers and never intended on wearing these. This happened with the last pair of hardens I bought as well. I directly from adidas not a second party vendor. In my eyes these shoes are useless now.",
+                    "date": "January 26, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "RGO",
+                    "title": "slight improvement from 7",
+                    "rating": 4,
+                    "comment": "i have all the dames so its inevitable that i have these. and this is the only colorway so far that i wanted, although it looks like the zion shoe. it runs long so just like the dame 6 i went full size down. traction is good, lockdown is better ghan the 7. cushion is good although i put on another insole when playing in it as my old knees need better cushioning. although it will be enough for most. traction is really good, although not the best. the inner grooves in the middle really helps. overall a great shoe and for the price it is the expectation. probably not much of an eye catcher in court but is easy to pair with any jersey",
+                    "date": "March 10, 2022"
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665827903/snicker-fever/1f119b927d3c4bf9b0e5adbe00fef731_9366_gb20w6.webp",
+            "name": "D ROSE SON OF CHI CHRISTMAS SHOES",
+            "category": "shoe",
+            "price": 100,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Rewind to a Christmas classic. These signature shoes from Derrick Rose and adidas Basketball bring back elements of the Christmas edition of the D Rose 7 — a trainer that shone bright on the biggest stage on basketball's biggest day. The pearlized heel glitters under the lights, and the ice rubber outsole shows off just how cold the Son of Chi can be. Lightweight Bounce puts a modern spin on the whole package.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Pulse Aqua"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking",
+                "Tennis"
+            ],
+            "productDetail": {
+                "title": "SIGNATURE SHOES FROM ADIDAS BASKETBALL AND DERRICK ROSE.",
+                "description": "Rewind to a Christmas classic. These signature shoes from Derrick Rose and adidas Basketball bring back elements of the Christmas edition of the D Rose 7 — a trainer that shone bright on the biggest stage on basketball's biggest day. The pearlized heel glitters under the lights, and the ice rubber outsole shows off just how cold the Son of Chi can be. Lightweight Bounce puts a modern spin on the whole package.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GY3264"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Loukas",
+                    "title": "Terrible quality",
+                    "rating": 1,
+                    "comment": "I ordered these and the pair that arrived obviously never got through proper QA. It had scuff marks on the side and visible white stains of glue all around the pink heel counter, both on the mesh material and outside. Thought it must be a one-off thing and asked for an exchange pair, which had the exact same defects. OK Adidas, these are not your most expensive shoes, but £85 is still enough for the shoes to NOT have glue marks and look like cheap fakes. I have returned for the second time, this time for a refund. Really disappointing for a brand like Adidias.",
+                    "date": "September 4, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "JWEaz",
+                    "title": "Adidas is the only company I can fit in size 15’s. I have purchased 8 pair of shoes this year and this is the first one I can’t fit in. Runs small.",
+                    "rating": 4,
+                    "comment": "It’s a dope shoe. I really wish adidas would make size 15.5’s and also more shoes styles up to 15’s and not just 13 or 14. Tall people need love too!",
+                    "date": "August 23, 2021"
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665828240/snicker-fever/a1c5f529ea734ddeb979ae3701427edb_9366_d2kast.webp",
+            "name": "WOMEN'S SUMMERVENT SPIKELESS GOLF SHOES",
+            "category": "shoe",
+            "price": 90,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Warm summer days are made to be spent on the links. These adidas golf shoes keep you cool with a mesh upper for a ventilated feel. The Bounce midsole offers cushioning and flexibility to keep you comfortable when walking. The spikeless Adiwear outsole provides grip for the course and versatility for your postgame plans.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Ecru Tint",
+                "Magic Beige",
+                "Linen Green"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking",
+                "Golf"
+            ],
+            "productDetail": {
+                "title": "GOLF SHOES FOR WARM-WEATHER PLAY, MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Warm summer days are made to be spent on the links. These adidas golf shoes keep you cool with a mesh upper for a ventilated feel. The Bounce midsole offers cushioning and flexibility to keep you comfortable when walking. The spikeless Adiwear outsole provides grip for the course and versatility for your postgame plans.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GY4543"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Wetfeet",
+                    "title": "Wet feet every round",
+                    "rating": 1,
+                    "comment": "These are terrible. The soles are not Sealed!! They are vented ti the ground si if there us any moisture on the grass you feet get soaked. Might be good if you are playing on dry concrete. You can see the light coming through the mesh in my photo .",
+                    "date": "June 1, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Clare63",
+                    "title": "I ve bought another pair",
+                    "rating": 4,
+                    "comment": "Great fit and style , I have a wide ish foot but these are dreamy",
+                    "date": "April 1, 2022"
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665828484/snicker-fever/944ae015af53405592c0aed7017afc2b_9366_vmaltj.webp",
+            "name": "ADIDAS X LEGO® SPORT PRO SHOES",
+            "category": "shoe",
+            "price": 68,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Some things you never outgrow. Lace up these juniors' adidas running shoes and bring your LEGO® bricks with you wherever you go. Overlapping patterns on the knit upper, plus classic LEGO® color combos, add cool style. The grippy outsole creates a winding trail of LEGO® tracks behind you.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Red",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SNEAKERS FROM THE ADIDAS AND LEGO® BRAND COLLECTION, MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Some things you never outgrow. Lace up these juniors' adidas running shoes and bring your LEGO® bricks with you wherever you go. Overlapping patterns on the knit upper, plus classic LEGO® color combos, add cool style. The grippy outsole creates a winding trail of LEGO® tracks behind you.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: HP2115"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 140,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665828664/snicker-fever/2d54ce8bf9964897abadac8500baf4ad_9366_jtfm8m.webp",
+            "name": "ZX 1K BOOST SHOES",
+            "category": "shoe",
+            "price": 36,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Worthy of the ZX name, these juniors' adidas shoes put innovation on display. Inspired by cutting-edge ZX styles from the archive, this pair shows off a soft mesh upper mixed with synthetic suede. For a hit of modern tech, Boost and EVA combine to create a cushioned midsole that's ready to take on the future, one comfy step at a time.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "male",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Cloud White",
+                "Core Black",
+                "Halo Silver"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "SLEEK ADIDAS SHOES WITH TRUE ZX DNA.",
+                "description": "Worthy of the ZX name, these juniors' adidas shoes put innovation on display. Inspired by cutting-edge ZX styles from the archive, this pair shows off a soft mesh upper mixed with synthetic suede. For a hit of modern tech, Boost and EVA combine to create a cushioned midsole that's ready to take on the future, one comfy step at a time.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: G58922"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 141,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665828820/snicker-fever/f53a83ac86a546778093ae1400edc6f4_9366_aywvo1.webp",
+            "name": "SWIFT RUN 22 SHOES",
+            "category": "shoe",
+            "price": 70,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Remember the first pair of sneakers you fell in love with? Relive the memory every day in these juniors' adidas Swift Run 22 Shoes. Rooted in running but designed for the daily grind, they keep you comfortable with a supportive knit mesh upper and a cushioned EVA midsole. Oh, and they look good too. Win win.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "unisex",
+            "age": "kid",
+            "kidAge": [
+                "1-5",
+                "6-10"
+            ],
+            "colors": [
+                "Core Black",
+                "Grey Two"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Walking"
+            ],
+            "productDetail": {
+                "title": "COMFY AND STYLISH RUNNERS MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "Worthy of the ZX name, these juniors' adidas shoes put innovation on display. Inspired by cutting-edge ZX styles from the archive, this pair shows off a soft mesh upper mixed with synthetic suede. For a hit of modern tech, Boost and EVA combine to create a cushioned midsole that's ready to take on the future, one comfy step at a time.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "adidas PRIMEKNIT upper",
+                    "Supports the Better Cotton Initiative",
+                    "BOOST midsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GZ1555"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
         }
     ]
 }
