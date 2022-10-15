@@ -9144,6 +9144,288 @@
                     "date": "October 1, 2022"
                 }
             ]
+        },
+        {
+            "id": 130,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665784431/snicker-fever/72aba199881d406eba61ae2a00837303_9366_soyxn8.webp",
+            "name": "ADISTAR SHOES",
+            "category": "shoe",
+            "price": 53,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "The distance running shoe inspired by the idea of perpetual motion and tested over 4,500 km. Adistar combines a soft, lightweight REPETITOR foam platform with REPETITOR +, a firmer foam, to create a dual density midsole. The firmer 15% recycled EVA in the heel protects and helps stabilize any heel strike. Forward propulsion is enhanced by the rocker geometry as well as an overall 6mm drop heel to toe. Strike soft and push forward with a shoe designed to go the distance.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Solar Green",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "ADISTAR. FOR THE LONG, SLOW RUN.",
+                "description": "The distance running shoe inspired by the idea of perpetual motion and tested over 4,500 km. Adistar combines a soft, lightweight REPETITOR foam platform with REPETITOR +, a firmer foam, to create a dual density midsole. The firmer 15% recycled EVA in the heel protects and helps stabilize any heel strike. Forward propulsion is enhanced by the rocker geometry as well as an overall 6mm drop heel to toe. Strike soft and push forward with a shoe designed to go the distance.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Cloud White",
+                    "Style: GY3487"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Vikasport",
+                    "title": "These are the most comfortable and cool sneakers",
+                    "rating": 5,
+                    "comment": "These are the most comfortable and cool sneakers I have ever worn in my life, I can’t believe that they are so comfortable, and the coolest thing is that they are ideal for people who have a wide foot, I haven’t felt such comfort for a very long time, the foot rests so much while walking, I I can't get enough.",
+                    "date": "July 24, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Happyfeet",
+                    "title": "Great",
+                    "rating": 5,
+                    "comment": "Great arch support for working all day and For long run too",
+                    "date": "March 22, 2022"
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665784923/snicker-fever/b9340157fc42467d9e2eaed3010f9ac5_9366_ydxjnj.webp",
+            "name": "ULTRABOOST 22 COLD.RDY 2.0 SHOES",
+            "category": "shoe",
+            "price": 210,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "When the adidas Ultraboost debuted in 2015, it set the standard for comfort and performance in a running shoe. Each new release raises the bar, and this one is no exception. These running shoes are built for chilly conditions, featuring COLD.RDY to keep feet warm. BOOST midsole cushioning is paired with a Linear Energy Push system for a stable, responsive ride. The Continental™ WinterGrip™ Rubber outsole ensures extraordinary traction on slick streets.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Aluminium",
+                "Beam Orange"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "RUNNING SHOES FOR COLD WEATHER, MADE IN PART WITH RECYCLED MATERIALS.",
+                "description": "When the adidas Ultraboost debuted in 2015, it set the standard for comfort and performance in a running shoe. Each new release raises the bar, and this one is no exception. These running shoes are built for chilly conditions, featuring COLD.RDY to keep feet warm. BOOST midsole cushioning is paired with a Linear Energy Push system for a stable, responsive ride. The Continental™ WinterGrip™ Rubber outsole ensures extraordinary traction on slick streets.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Aluminium",
+                    "Style: GX6735"
+                ],
+                "moreDetails": null
+            },
+            "reviews": null
+        },
+        {
+            "id": 132,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665825247/snicker-fever/129579770dce4bd19a9aac9100c3f2fd_9366_dpfhj8.webp",
+            "name": "CLOUDFOAM PURE 2.0 SHOES",
+            "category": "shoe",
+            "price": 53,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "Step into these shoes for crisp, clean style and comfort. Thanks to their heritage adidas vibes, these running-inspired trainers make it easy to look calm, cool and collected. Whether you're hanging out with friends or trying not to get frazzled as you tick off your weekend to-do list, stay comfortable through it all.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Cloud White",
+                "Core Black"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "ATHLETIC SHOES WITH SUPER SOFT CLOUDFOAM CUSHIONING.",
+                "description": "Step into these shoes for crisp, clean style and comfort. Thanks to their heritage adidas vibes, these running-inspired trainers make it easy to look calm, cool and collected. Whether you're hanging out with friends or trying not to get frazzled as you tick off your weekend to-do list, stay comfortable through it all.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Core Black",
+                    "Style: H04755"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Micha1234",
+                    "title": "Comfy, but not durable.",
+                    "rating": 4,
+                    "comment": "Let me start off with love how light and comfortable these shoes are. I feel less leg and knee pain when I’m doing my daily routine in these shoes. I’m a mother of four and am always on the go. But durability wise.. it’s not it. My shoe is already starting to come apart at the seam and I haven’t even had these a whole month. Not to mention I don’t wear them everyday cuz I rotate them with my other shoes.",
+                    "date": "April 1, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "BayLakeJane",
+                    "title": "No cloud, no foam, no support",
+                    "rating": 2,
+                    "comment": "I had hoped these would feel like the name, cloudfoam, but they felt thin and the inserts offer no softness or support. They look great without socks, but the inside is not soft on the foot. You will need to wear socks. I won’t be wearing these to the gym as they offer no support and certainly not for long days or on vacation as they are so thin on the sole from the arch to the toes, that my feet would ache from feeling the ground and everything else like bumps and crack on sidewalks. I should have tried these on in a store before buying them online. Then I would’ve known they’re too flimsy for me. They will not be my “go to” shoes.",
+                    "date": "September 20, 2021"
+                },
+                {
+                    "id": 2,
+                    "name": "JenS",
+                    "title": "Cheap version",
+                    "rating": 2,
+                    "comment": "I have faithfully bought Adidas cloudfoam shoes for several years and they are my favorite shoes to run in, but this particular version is not made nearly as well as in the past. From the painted on stripes to the stitching, they are just more cheaply made. I’ve owned them for 2-3 months and only wear them when running on my treadmill and the stitching on the front is unraveling terribly. This causes the fabric to loosen so now the right foot feels significantly looser when I run. Very disappointing.",
+                    "date": "April 28, 2022"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "image": "https://res.cloudinary.com/dvup53fhn/image/upload/v1665826313/snicker-fever/eb8f6d8bc47e408d8d54aea1014a823a_9366_na9uz2.webp",
+            "name": "ULTRABOOST WEB DNA SHOES",
+            "category": "shoe",
+            "price": 190,
+            "isAccessory": false,
+            "accessoryType": null,
+            "description": "When the Ultraboost first dropped in 2015, it took the sneaker world by storm. And like a runner chasing a PB, we've been building on the design ever since. These adidas running shoes incorporate 3D Stretchweb around the BOOST midsole. This enhances the feeling of energy return, so you feel fresh on your feet all day. Throw in the adidas PRIMEKNIT upper, and you get a comfortable shoe for short distances and daily wear.",
+            "sizes": [
+                "Medium",
+                "Large",
+                "Xtra Large"
+            ],
+            "gender": "female",
+            "age": "adult",
+            "kidAge": null,
+            "colors": [
+                "Shadow Navy",
+                "Magic Grey",
+                "Pulse Lilac"
+            ],
+            "brand": "adidas",
+            "activities": [
+                "Lifestyle",
+                "Sports"
+            ],
+            "belongsToCollection": false,
+            "collections": null,
+            "athlete": null,
+            "sport": [
+                "Lifestyle",
+                "Sports",
+                "Walking",
+                "Running"
+            ],
+            "productDetail": {
+                "title": "ULTRA-RESPONSIVE SHOES MADE IN PART WITH PARLEY OCEAN PLASTIC.",
+                "description": "When the Ultraboost first dropped in 2015, it took the sneaker world by storm. And like a runner chasing a PB, we've been building on the design ever since. These adidas running shoes incorporate 3D Stretchweb around the BOOST midsole. This enhances the feeling of energy return, so you feel fresh on your feet all day. Throw in the adidas PRIMEKNIT upper, and you get a comfortable shoe for short distances and daily wear.",
+                "benefits": [
+                    "Regular fit",
+                    "Lace closure",
+                    "Women's-specific design",
+                    "Raised platform midsole",
+                    "Supports the Better Cotton Initiative",
+                    "Rubber outsole"
+                ],
+                "details": [
+                    "Upper contains a minimum of 50% recycled content",
+                    "Shown: Shadow Navy",
+                    "Style: GX2136"
+                ],
+                "moreDetails": null
+            },
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "JoL75",
+                    "title": "One month in and the shoes start to fall apart",
+                    "rating": 1,
+                    "comment": "The sole started to separate from the knitting and the side webbing on the sole is falling off after a month. Have loved my Ultra boost for years, maybe just this web version. I’ve never had issues in the past but shouldn’t start to fall apart after a month.",
+                    "date": "August 10, 2022"
+                },
+                {
+                    "id": 2,
+                    "name": "Weakmaterial",
+                    "title": "In less than one month the toe developed holes",
+                    "rating": 2,
+                    "comment": "First order was sent to me in the wrong color. That color was returned for the color originally ordered. However, in less than a month, one of the shoes developed a hole in the material; only one shoe. Shoes were not abused . Seemed the material on one shoe was defective at the toe area. I purchase only adidas shoes and this is the first time a product has worn like this!",
+                    "date": "August 14, 2022"
+                } 
+            ]
         }
     ]
 }
